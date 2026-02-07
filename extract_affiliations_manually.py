@@ -40,19 +40,21 @@ LEVEL = [logging.WARNING, logging.INFO, logging.DEBUG]
 
 # NOTE: for now this is a bit dirty, but it works enough
 DICT_KNOWN_ISSUES = {
+    ", ˘a": "a",
     "\xa0": " ",
     "`a": "a",
     "`e": "e",
+    "`o": "o",
     "c¸": "c",
     "s¸": "s",
     "¨O": "o",
     "¨u": "u",
     "´E": "E",
+    "´a": "a",
     "´c": "c",
     "´e": "e",
     "´n": "n",
     "´o": "o",
-    "´a": "a",
     "´u": "u",
     "´y": "y",
     "´ı": "i",
@@ -68,9 +70,11 @@ DICT_KNOWN_ISSUES = {
     "è": "e",
     "é": "e",
     "ë": "e",
-    "ę": "e",
     "í": "i",
+    "î": "i",
+    "ï": "i",
     "ñ": "n",
+    "ò": "o",
     "ó": "o",
     "ö": "o",
     "ø": "oe",
@@ -80,6 +84,7 @@ DICT_KNOWN_ISSUES = {
     "ă": "a",
     "ć": "c",
     "č": "c",
+    "ę": "e",
     "ğ": "g",
     "ı": "i",
     "ł": "l",
@@ -93,20 +98,20 @@ DICT_KNOWN_ISSUES = {
     "š": "s",
     "ū": "u",
     "ů": "u",
-    "˚a": "a",
     "ˆe": "e",
+    "ˆı": "i",
     "ˇS": "S",
     "ˇc": "c",
     "ˇr": "r",
     "ˇs": "s",
     "˘g": "g",
+    "˚a": "a",
     "˚u": "u",
+    "˛e": "e",
     "˜a": "a",
     "˜n": "n",
     "’": "'",
     '"o': "o",
-    ", ˘a": "a",
-    "˛e": "e",
 
     # Some weird decoding
     "ﬁ": "fi",
@@ -172,6 +177,9 @@ DICT_KNOWN_ISSUES = {
     "nagarathna raviavi": "nagarathna ravi",
     "jiaxin chen": "jia-xin chen",
     "sai akarsh c": "sai akarsh",
+    "sarah si chen": "si chen",
+    "cheng-hung hu": "chenghung hu",
+    "xiaowang liu": "liu xiaowang",
 }
 
 
@@ -302,6 +310,7 @@ def clean(dirty: str) -> str:
         the cleaned string
     """
     dirty = dirty.lower().strip()
+    dirty = re.sub(r' ([a-z]) ', r' \g<1>. ', dirty)
     for k, v in DICT_KNOWN_ISSUES.items():
         dirty = dirty.replace(k, v)
     return dirty
