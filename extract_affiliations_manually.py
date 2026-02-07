@@ -40,6 +40,7 @@ LEVEL = [logging.WARNING, logging.INFO, logging.DEBUG]
 
 # NOTE: for now this is a bit dirty, but it works enough
 DICT_KNOWN_ISSUES = {
+
     ", ˘a": "a",
     "\xa0": " ",
     "`a": "a",
@@ -55,6 +56,7 @@ DICT_KNOWN_ISSUES = {
     "´e": "e",
     "´n": "n",
     "´o": "o",
+    "´s": "s",
     "´u": "u",
     "´y": "y",
     "´ı": "i",
@@ -69,10 +71,12 @@ DICT_KNOWN_ISSUES = {
     "ç": "c",
     "è": "e",
     "é": "e",
+    "ê": "e",
     "ë": "e",
     "í": "i",
     "î": "i",
     "ï": "i",
+    "ð": "d",
     "ñ": "n",
     "ò": "o",
     "ó": "o",
@@ -84,7 +88,9 @@ DICT_KNOWN_ISSUES = {
     "ă": "a",
     "ć": "c",
     "č": "c",
+    "ė" : "e",
     "ę": "e",
+    "ě": "e",
     "ğ": "g",
     "ı": "i",
     "ł": "l",
@@ -93,17 +99,22 @@ DICT_KNOWN_ISSUES = {
     "ň": "n",
     "œ": "oe",
     "ř": "r",
+    "ś": "s",
+    "ś": "s",
     "ş": "s",
     "Š": "S",
     "š": "s",
     "ū": "u",
     "ů": "u",
+    "ž": "z",
     "ˆe": "e",
     "ˆı": "i",
     "ˇS": "S",
     "ˇc": "c",
+    "ˇe": "e",
     "ˇr": "r",
     "ˇs": "s",
+    "ˇz": "z",
     "˘g": "g",
     "˚a": "a",
     "˚u": "u",
@@ -116,70 +127,97 @@ DICT_KNOWN_ISSUES = {
     # Some weird decoding
     "ﬁ": "fi",
     "Schaufﬂer": "Schauffler",
+}
 
-    # Author inconsistencies or bad recognition
-    "md.": "md",
-    "pappagari raghavendra reddy": "raghavendra reddy pappagari",
-    "g anushiya rachel": "g. anushiya rachel",
-    "alan w. black": "alan w black",
-    "sachin n. kalkur": "sachin n kalkur",
-    "s. shahnawazuddin": "s shahnawazuddin",
-    "t. j. tsai": "tj tsai",
-    "sujith p.": "sujith. p",
-    "j. -a. gomez-garcia": "j-a. gomez-garcia",
-    "t. villa-canas": "t.villa-canas",
-    "g. nisha meenakshi": "g.nisha meenakshi",
-    "k. ramesh": "ramesh k.",
-    "e. godoy": "elizabeth godoy",
-    "thi anh xuan tran": "tran thi anh xuan",
-    "a. apoorv reddy": "apoorv reddy arrabothu",
-    "james m scobbie": "james m. scobbie",
-    "thuy n tran": "thuy n. tran",
-    "nguyen thi thu trang": "thi thu trang nguyen",
-    "jin jin": "jing zheng",
-    "david nolden": "david noldena",
-    "laurianne georgeton": "georgeton laurianne",
-    "ramani b": "b. ramani",
-    "c.-t. do": "c. -t. do",
-    "pettorino massimo": "massimo pettorino",
-    "levin k.": "k. levin",
-    "prudnikov a.": "a. prudnikov",
-    "duan richeng": "richeng duan",
-    "s aswin shanmugam": "s. aswin shanmugam",
-    "michael i mandel": "michael i. mandel",
-    "manson c-m. fong": "manson c. -m. fong",
-    "murali karthick b": "murali karthick b.",
-    "vikram c. m": "vikram c. m.",
-    "michael i mandel": "michael i. mandel",
-    "vikram c. m": "vikram c. m.",
-    "maria k wolters": "maria k. wolters",
-    "douglas sturim": "douglas e. sturim",
-    "l. ten bosch": "louis ten bosch",
-    "john h. l. hansen": "john h.l. hansen",
-    "jeremy h. m. wong": "jeremy h.m. wong",
-    "raymond w. m. ng": "raymond w.m. ng",
-    "k v vijay girish": "k.v. vijay girish",
-    "emma c. l. leschly": "emma cathrine liisborg leschly",
-    "dirk eike hoffner": "dirk hoffner",
-    "dinh-truong do": "truong do",
-    "lu mingxi": "mingxi lu",
-    "dashanka de silva": "dashanka da silva",
-    "mohammed salah al-radhi": "mohammed al-radhi",
-    "keinichi fujita": "kenichi fujita",
-    "griffin dietz smith": "griffin smith",
-    "dominika c woszczyk": "dominika woszczyk",
-    "ankita ankita": "ankita",
+DICT_NAME_ISSUES = {
+
+    "a.apoorv reddy": "apoorv reddy arrabothu",
     "ahmed adel attia": "ahmed attia",
-    "hawau olamide toyin": "hawau toyin",
+    "alan w.black": "alan w black",
+    "ankita ankita": "ankita",
+    "c.-t.do": "c.-t.do",
+    "c.d.riosurrego": "cristian david rios-urrego",
+    "cheng-hung hu": "chenghung hu",
+    "chunhui wang": "wang chunhui",
+    "dashanka de silva": "dashanka da silva",
+    "david nolden": "david noldena",
+    "david noldenaa": "david noldena",
+    "digvijay anil ingle": "digvijay ingle",
+    "dinh-truong do": "truong do",
+    "dirk eike hoffner": "dirk hoffner",
+    "dominika c woszczyk": "dominika woszczyk",
+    "douglas sturim": "douglas e.sturim",
+    "duan richeng": "richeng duan",
+    "e.godoy": "elizabeth godoy",
+    "emma c.l.leschly": "emma cathrine liisborg leschly",
     "enes yavuz ugan": "enes ugan",
-    "zheng-xin yong": "zheng xin yong",
+    "g anushiya rachel": "g.anushiya rachel",
+    "g.laperriere": "gaelle laperriere",
+    "g.nisha meenakshi": "g.nisha meenakshi",
+    "griffin dietz smith": "griffin smith",
+    "hawau olamide toyin": "hawau toyin",
+    "hector a.cordourier maruri": "hector a.cordourier",
+    "huu tuong tu": "tuong tu huu",
+    "j.-a.gomez-garcia": "j-a.gomez-garcia",
+    "j.linke": "julian linke",
+    "j.martinezsevilla": "j.martinez-sevilla",
+    "james m scobbie": "james m.scobbie",
+    "jeremy h.m.wong": "jeremy h.m.wong",
+    "jiaxin chen": "jia-xin chen",
+    "jin jin": "jing zheng",
+    "john h.l.hansen": "john h.l.hansen",
+    "jose vicente egas-lopez": "jose egas-lopez",
+    "juan carlos": "juan c.",
+    "juan f.montesinos": "juan felipe montesinos",
+    "k v vijay girish": "k.v.vijay girish",
+    "k.ramesh": "ramesh k.",
+    "keinichi fujita": "kenichi fujita",
+    "l.ten bosch": "louis ten bosch",
+    "laurianne georgeton": "georgeton laurianne",
+    "levin k.": "k.levin",
+    "lu mingxi": "mingxi lu",
+    "m raza": "mohsin raza",
+    "m.rohmatillah": "mahdin rohmatillah",
+    "manson c-m.fong": "manson c.-m.fong",
+    "manuel sam ribeiro": "sam ribeiro",
+    "maria k wolters": "maria k.wolters",
+    "md.": "md",
+    "michael i mandel": "michael i.mandel",
+    "michael i mandel": "michael i.mandel",
+    "mohammed salah al-radhi": "mohammed al-radhi",
+    "murali karthick b": "murali karthick b.",
     "nagarathna r": "nagarathna ravi",
     "nagarathna raviavi": "nagarathna ravi",
-    "jiaxin chen": "jia-xin chen",
+    "ngoc-quan pham": "quan pham",
+    "nguyen thi thu trang": "thi thu trang nguyen",
+    "p.a.pereztoro": "paula a.pereztoro",
+    "pappagari raghavendra reddy": "raghavendra reddy pappagari",
+    "pettorino massimo": "massimo pettorino",
+    "prudnikov a.": "a.prudnikov",
+    "ram c.m.c shekar": "ram c.m.c.shekar",
+    "ramani b": "b.ramani",
+    "ranzo c.f.huang": "ranzo huang",
+    "raymond w.m.ng": "raymond w.m.ng",
+    "s aswin shanmugam": "s.aswin shanmugam",
+    "s.shahnawazuddin": "s shahnawazuddin",
+    "sachin n.kalkur": "sachin n kalkur",
     "sai akarsh c": "sai akarsh",
     "sarah si chen": "si chen",
-    "cheng-hung hu": "chenghung hu",
+    "sujith p.": "sujith.p",
+    "t pavan kalyan": "tankala pavan kalyan",
+    "t.arias-vergara": "tomas arias-vergara",
+    "t.j.tsai": "tj tsai",
+    "t.villa-canas": "t.villa-canas",
+    "thi anh xuan tran": "tran thi anh xuan",
+    "thuy n tran": "thuy n.tran",
+    "vikram c.m": "vikram c.m.",
+    "vikram c.m": "vikram c.m.",
     "xiaowang liu": "liu xiaowang",
+    "zhao shuyang": "shuyang zhao",
+    "zheng-xin yong": "zheng xin yong",
+    "zoltan tuskea": "zoltan tuske",
+    # Author inconsistencies or bad recognition
+    'anusha prakash': "anusha p",
 }
 
 
@@ -311,8 +349,15 @@ def clean(dirty: str) -> str:
     """
     dirty = dirty.lower().strip()
     dirty = re.sub(r' ([a-z]) ', r' \g<1>. ', dirty)
+    dirty = re.sub(r'^([a-z]) ', r'\g<1>. ', dirty)
+    dirty = re.sub(r'[.] ', '.', dirty)
+
     for k, v in DICT_KNOWN_ISSUES.items():
         dirty = dirty.replace(k, v)
+
+    for k, v in DICT_NAME_ISSUES.items():
+        dirty = dirty.replace(k, v)
+    dirty = dirty.replace("-", "") # NOTE: this one I am not sure about the side effect so it is hardcoded here!
     return dirty
 
 
@@ -371,6 +416,8 @@ def extract_affiliations(
 
     # Clean the authors
     cleaned_authors = [clean(" ".join(a)) for a in authors]
+    cleaned_authors += [clean(" ".join([a[0][0] + "."] + [a[1]])) for a in authors]
+    cleaned_authors += [clean(" ".join(a[::-1])) for a in authors]
 
     # Search the line containing the authors
     index = -1
@@ -378,14 +425,14 @@ def extract_affiliations(
     for l_index, l in enumerate(cleaned_header):
 
         # Prepare the line to checked if it contains an author
-        maybe_first_author = re.sub(r"[0-9*†‡]", "", l)
+        maybe_first_author = re.sub(r'[0-9],([^0-9])', r', \g<1>', l)
+        maybe_first_author = re.sub(r'([0-9]) ([^0-9])', r'\g<1>, \g<2>', maybe_first_author)
+        maybe_first_author = re.sub(r"[0-9*†‡]", "", maybe_first_author)
         maybe_first_author = (
             maybe_first_author.split(" and ")[0].split(" & ")[0].split(", ")[0].split("; ")[0].strip()
         )
         maybe_first_author = re.sub(r"[^a-zA-Z-. ']", "", maybe_first_author).strip()
         maybe_first_author = maybe_first_author.lower()
-        if maybe_first_author.startswith("jinxin"):
-            print(maybe_first_author)
 
         # Now check if we have an author
         logger.debug(f" - {maybe_first_author}", extra={"paper_id": paper_id})
