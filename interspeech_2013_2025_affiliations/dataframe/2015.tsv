@@ -480,7 +480,7 @@ transfeld15_interspeech	['Institute for Communications Technology, Technische Un
 bouchekif15_interspeech	"['Orange Labs', ' avenue Pierre Marzin 22300, Lannion, France.', ""Laboratoire d'Informatique de l'Universite du Maine, LIUM - France.""]"
 kraljevski15_interspeech	['voice INTER connect GmbH, Dresden, Germany', 'Department of Electronic Systems, Aalborg University, Aalborg, Denmark', 'CASL Research Centre, Queen Margaret University, Edinburgh, United Kingdom']
 lehner15_interspeech	['Department of Computational Perception', 'Johannes Kepler University of Linz, Austria']
-su15_interspeech	['Nikola Mrksic, Tsung-Hsien Wen and Steve Young', 'Department of Engineering, University of Cambridge, Cambridge, UK']
+su15_interspeech	['Department of Engineering, University of Cambridge, Cambridge, UK']
 griol15_interspeech	['Dept. of Computer Science, Carlos III University of Madrid, Spain', 'Dept. of Languages and Computer Systems, University of Granada, Spain']
 griol15b_interspeech	['Dept. of Computer Science, Carlos III University of Madrid, Spain', 'Dept. of Languages and Computer Systems, University of Granada, Spain']
 khan15b_interspeech	['Microsoft Corporation, Redmond WA 98052, USA']
@@ -636,7 +636,7 @@ wu15f_interspeech	"['Key Laboratory of Human-Machine Intelligence-Synergy System
 kasisopa15_interspeech	['MARCS Institute, University of Western Sydney, Australia', 'Department of Electrical and Computer Engineering, Faculty of Engineering, Thammasat', 'University, Thailand']
 rong15_interspeech	['MGH Institute of Health Professions, Boston, USA', 'Department of Speech-Language Pathology, University of Toronro, Toronto, Canada']
 a15_interspeech	['Research Institute of National Rehabilitation Center for Persons with Disabilities, Saitama, Japan']
-bigi15_interspeech	['Laboratoire Parole et Langage, Aix-Marseille Universite, CNRS', ', avenue Pasteur 13100 Aix-en-Provence, France', 'Institute of Linguistics, Adam Mickiewicz University, Pozna´n']
+bigi15_interspeech	['Laboratoire Parole et Langage, Aix-Marseille Universite, CNRS', ', avenue Pasteur 13100 Aix-en-Provence, France', 'Institute of Linguistics, Adam Mickiewicz University, Poznan']
 meyer15_interspeech	['Medizinische Physik and Cluster of Excellence Hearing4all, Universit¨at Oldenburg, Germany']
 knoll15_interspeech	['Applied Psychology Research Group, The University of The West of Scotland, Scotland, UK']
 yeung15_interspeech	['Human-Computer Communications Laboratory,', 'Department of Systems Engineering and Engineering Management', 'Stanley Ho Big Data Decision Analytics Research Centre', 'The Chinese University of Hong Kong, Hong Kong SAR, China']

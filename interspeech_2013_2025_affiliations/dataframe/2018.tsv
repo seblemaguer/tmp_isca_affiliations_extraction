@@ -397,7 +397,7 @@ mirheidari18_interspeech	['Department of Computer Science, University of Sheffie
 irie18_interspeech	['Human Language Technology and Pattern Recognition Group,', 'Computer Science Department, RWTH Aachen University, D-52056 Aachen, Germany']
 barker18_interspeech	['University of Sheffield, UK', 'Center for Language and Speech Processing, Johns Hopkins University, Baltimore, USA', 'Universite de Lorraine, CNRS, Inria, LORIA, F-54000 Nancy, France']
 li18l_interspeech	['Tencent AI lab']
-amiriparian18_interspeech	['Suncica Petrovic3, Eloise Ainger2, Nicholas Cummins1, Bj¨orn Schuller1,4', 'ZD.B Chair of Embedded Intelligence for Health Care and Wellbeing, University of Augsburg, Germany', 'Centre for Research in Autism and Education, UCL Institute of Education, U. K.', 'Serbian Society of Autism, Belgrade, Serbia.', 'GLAM – Group on Language, Audio & Music, Imperial College London, U. K.']
+amiriparian18_interspeech	['ZD.B Chair of Embedded Intelligence for Health Care and Wellbeing, University of Augsburg, Germany', 'Centre for Research in Autism and Education, UCL Institute of Education, U. K.', 'Serbian Society of Autism, Belgrade, Serbia.', 'GLAM – Group on Language, Audio & Music, Imperial College London, U. K.']
 takahashi18_interspeech	['Sony Corporation', 'Indian Institute of Science', 'Sony India Software Centre']
 lee18e_interspeech	['National Institute of Advanced Industrial Science and Technology, Japan', 'University of Tsukuba, Japan', 'Iwate Prefectural University, Japan']
 shan18_interspeech	"['Shaanxi Provincial Key Laboratory of Speech and Image Information Processing,', ""School of Computer Science, Northwestern Polytechnical University, Xi'an, China"", 'Xiaomi Inc., Beijing, China']"
@@ -519,6 +519,7 @@ hodari18_interspeech	['The Centre for Speech Technology Research, University of 
 cristia18_interspeech	"[""LSCP, Departement d'etudes cognitives, ENS, EHESS, CNRS, PSL University, Paris"", ',', 'France. 2Learning and Extraction of Acoustic Patterns (LEAP) lab, Electrical Engineering, Indian', 'Institute of Science, Bangalore', ', India.', 'Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands']"
 gupta18b_interspeech	['Centre de recherche informatique de Montreal (CRIM)']
 diener18_interspeech	['Cognitive Systems Lab, University of Bremen, Germany']
+nenadic18_interspeech	['University of Alberta', 'Radboud University Nijmegen']
 zegers18_interspeech	['KU Leuven, Dept. ESAT, Belgium']
 waldekar18_interspeech	['Dept of Electronics and Electrical Communication Engineering, IIT Kharagpur, Kharagpur, India']
 mukherjee18_interspeech	"[""Fadiga1,3 , Alessandro D'Ausilio1,3,  Leonardo Badino1, Noel Nguyen2"", 'Center for Translational Neurophysiology of Speech and Communication,', 'Istituto Italiano di Tecnologia, Ferrara, Italy', 'Aix Marseille Univ, CNRS, LPL, Aix-en-Provence, France', 'Section of Human Physiology, University of Ferrara, Italy']"
