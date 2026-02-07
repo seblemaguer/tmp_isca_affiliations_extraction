@@ -52,6 +52,7 @@ DICT_KNOWN_ISSUES = {
     "´e": "e",
     "´n": "n",
     "´o": "o",
+    "´a": "a",
     "´u": "u",
     "´y": "y",
     "´ı": "i",
@@ -67,6 +68,7 @@ DICT_KNOWN_ISSUES = {
     "è": "e",
     "é": "e",
     "ë": "e",
+    "ę": "e",
     "í": "i",
     "ñ": "n",
     "ó": "o",
@@ -103,63 +105,73 @@ DICT_KNOWN_ISSUES = {
     "˜n": "n",
     "’": "'",
     '"o': "o",
+    ", ˘a": "a",
+    "˛e": "e",
 
     # Some weird decoding
     "ﬁ": "fi",
     "Schaufﬂer": "Schauffler",
 
     # Author inconsistencies or bad recognition
-    "Md.": "Md",
-    "Pappagari Raghavendra Reddy": "Raghavendra Reddy Pappagari",
-    "G Anushiya Rachel": "G. Anushiya Rachel",
-    "Alan W. Black": "Alan W Black",
-    "Sachin N. Kalkur": "Sachin N Kalkur",
-    "S. Shahnawazuddin": "S Shahnawazuddin",
-    "T. J. Tsai": "TJ Tsai",
-    "Sujith P.": "Sujith. P",
-    "J. -A. Gomez-Garcia": "J-A. Gomez-Garcia",
-    "T. Villa-Canas": "T.Villa-Canas",
-    "G. Nisha Meenakshi": "G.Nisha Meenakshi",
-    "k. ramesh": "Ramesh K.",
-    "E. Godoy": "elizabeth godoy",
-    "thi anh xuan tran": "Tran Thi Anh Xuan",
-    "A. Apoorv Reddy": "apoorv reddy arrabothu",
-    "James M Scobbie": "james m. scobbie",
-    "Thuy N Tran": "Thuy N. Tran",
-    "NGUYEN Thi Thu Trang": "thi thu trang nguyen",
-    "jin jin": "Jing Zheng",
+    "md.": "md",
+    "pappagari raghavendra reddy": "raghavendra reddy pappagari",
+    "g anushiya rachel": "g. anushiya rachel",
+    "alan w. black": "alan w black",
+    "sachin n. kalkur": "sachin n kalkur",
+    "s. shahnawazuddin": "s shahnawazuddin",
+    "t. j. tsai": "tj tsai",
+    "sujith p.": "sujith. p",
+    "j. -a. gomez-garcia": "j-a. gomez-garcia",
+    "t. villa-canas": "t.villa-canas",
+    "g. nisha meenakshi": "g.nisha meenakshi",
+    "k. ramesh": "ramesh k.",
+    "e. godoy": "elizabeth godoy",
+    "thi anh xuan tran": "tran thi anh xuan",
+    "a. apoorv reddy": "apoorv reddy arrabothu",
+    "james m scobbie": "james m. scobbie",
+    "thuy n tran": "thuy n. tran",
+    "nguyen thi thu trang": "thi thu trang nguyen",
+    "jin jin": "jing zheng",
     "david nolden": "david noldena",
     "laurianne georgeton": "georgeton laurianne",
     "ramani b": "b. ramani",
-    "C.-T. Do": "c. -t. do",
-    "Pettorino Massimo": "massimo pettorino",
-    "Levin K.": "k. levin",
-    "Prudnikov A.": "a. prudnikov",
-    "DUAN Richeng": "richeng duan",
-    "S Aswin Shanmugam": "s. aswin shanmugam",
-    "Michael I Mandel": "michael i. mandel",
-    "Manson C-M. Fong": "manson c. -m. fong",
-    "Murali Karthick B": "Murali Karthick B.",
-    "Vikram C. M": "Vikram C. M.",
-    "Michael I Mandel": "Michael I. Mandel",
-    "Vikram C. M": "Vikram C. M.",
-    "Maria K Wolters": "Maria K. Wolters",
-    "Douglas Sturim": "Douglas E. Sturim",
-    "L. ten Bosch": "Louis ten Bosch",
-    "John H. L. Hansen": "John H.L. Hansen",
-    "Jeremy H. M. Wong": "Jeremy H.M. Wong",
-    "Raymond W. M. Ng": "Raymond W.M. Ng",
-    "K V Vijay Girish": "K.V. Vijay Girish",
-    "Emma C. L. Leschly": "emma cathrine liisborg leschly",
-    "Dirk Eike Hoffner": "dirk hoffner",
-    "Dinh-Truong Do": "truong do",
-    "LU Mingxi": "mingxi lu",
-    "Dashanka De Silva": "dashanka da silva",
-    "Mohammed Salah Al-Radhi": "Mohammed Al-Radhi",
-    "Keinichi Fujita": "Kenichi Fujita",
-    "Griffin Dietz Smith": "Griffin Smith",
+    "c.-t. do": "c. -t. do",
+    "pettorino massimo": "massimo pettorino",
+    "levin k.": "k. levin",
+    "prudnikov a.": "a. prudnikov",
+    "duan richeng": "richeng duan",
+    "s aswin shanmugam": "s. aswin shanmugam",
+    "michael i mandel": "michael i. mandel",
+    "manson c-m. fong": "manson c. -m. fong",
+    "murali karthick b": "murali karthick b.",
+    "vikram c. m": "vikram c. m.",
+    "michael i mandel": "michael i. mandel",
+    "vikram c. m": "vikram c. m.",
+    "maria k wolters": "maria k. wolters",
+    "douglas sturim": "douglas e. sturim",
+    "l. ten bosch": "louis ten bosch",
+    "john h. l. hansen": "john h.l. hansen",
+    "jeremy h. m. wong": "jeremy h.m. wong",
+    "raymond w. m. ng": "raymond w.m. ng",
+    "k v vijay girish": "k.v. vijay girish",
+    "emma c. l. leschly": "emma cathrine liisborg leschly",
+    "dirk eike hoffner": "dirk hoffner",
+    "dinh-truong do": "truong do",
+    "lu mingxi": "mingxi lu",
+    "dashanka de silva": "dashanka da silva",
+    "mohammed salah al-radhi": "mohammed al-radhi",
+    "keinichi fujita": "kenichi fujita",
+    "griffin dietz smith": "griffin smith",
     "dominika c woszczyk": "dominika woszczyk",
-    "Ankita Ankita": "Ankita",
+    "ankita ankita": "ankita",
+    "ahmed adel attia": "ahmed attia",
+    "hawau olamide toyin": "hawau toyin",
+    "enes yavuz ugan": "enes ugan",
+    "zheng-xin yong": "zheng xin yong",
+    "nagarathna r": "nagarathna ravi",
+    "nagarathna raviavi": "nagarathna ravi",
+    "jiaxin chen": "jia-xin chen",
+    "sai akarsh c": "sai akarsh",
 }
 
 
@@ -289,7 +301,7 @@ def clean(dirty: str) -> str:
     str
         the cleaned string
     """
-
+    dirty = dirty.lower().strip()
     for k, v in DICT_KNOWN_ISSUES.items():
         dirty = dirty.replace(k, v)
     return dirty
@@ -334,7 +346,6 @@ def extract_affiliations(
 
     # Strip the content to focus on the header
     header = re.sub(r"\n[ \t]*[A]bstract[ \t]*\n.*", "", first_page, flags=re.S)
-    header = clean(header)
     header = header.split("\n")
 
     # Remove the emails and the empty lines
@@ -347,36 +358,43 @@ def extract_affiliations(
             header,
         )
     )
+    cleaned_header = clean("\n".join(filtered_header).lower()).split("\n")
+
+    # Clean the authors
+    cleaned_authors = [clean(" ".join(a)) for a in authors]
 
     # Search the line containing the authors
     index = -1
-    for l_index, l in enumerate(filtered_header):
+
+    for l_index, l in enumerate(cleaned_header):
 
         # Prepare the line to checked if it contains an author
         maybe_first_author = re.sub(r"[0-9*†‡]", "", l)
         maybe_first_author = (
-            maybe_first_author.split(" and ")[0].split(" & ")[0].split(", ")[0]
+            maybe_first_author.split(" and ")[0].split(" & ")[0].split(", ")[0].split("; ")[0].strip()
         )
         maybe_first_author = re.sub(r"[^a-zA-Z-. ']", "", maybe_first_author).strip()
         maybe_first_author = maybe_first_author.lower()
+        if maybe_first_author.startswith("jinxin"):
+            print(maybe_first_author)
 
         # Now check if we have an author
         logger.debug(f" - {maybe_first_author}", extra={"paper_id": paper_id})
-        if (index == -1) and (maybe_first_author in authors):
+        if (index == -1) and (maybe_first_author in cleaned_authors):
             if index == -1:
                 index = l_index
-        elif (index > -1) and (maybe_first_author not in authors):
+        elif (index > -1) and (maybe_first_author not in cleaned_authors):
             index = l_index
             break
 
     # No author found...that is not expected!
     if index == -1:
         raise Exception(
-            f"no author alignment:\n\t- authors: {authors}\n\t- header: {filtered_header}"
+            f"no author alignment:\n\t- authors: {authors}\n\t- cleaned_authors: {cleaned_authors}\n\t- filtered_header: {filtered_header}\n\t- cleaned_header: {cleaned_header}"
         )
 
     # Deal with some numerical edge cases
-    affiliations = filtered_header[index:]
+    affiliations = cleaned_header[index:]
     affiliations = [re.sub(r"^[0-9]*", "", a) for a in affiliations]
     affiliations = [re.sub(r"[,;] [0-9]+", "\n", a) for a in affiliations]
 
@@ -413,7 +431,6 @@ def main():
     archive_conf_dir = pathlib.Path(args.archive_conf_dir)
     list_affiliations = []
     for paper_id, paper_info in md["papers"].items():
-        authors = [clean(" ".join(a)).lower() for a in paper_info["authors"]]
         pdf_file = archive_conf_dir / f"{paper_id}.pdf"
         if not pdf_file.exists():
             logger.error(
@@ -422,7 +439,7 @@ def main():
             )
             continue
         try:
-            affiliations = extract_affiliations(paper_id, pdf_file, authors)
+            affiliations = extract_affiliations(paper_id, pdf_file, paper_info["authors"])
             list_affiliations.append(
                 {"paper_id": paper_id, "affiliations": affiliations}
             )
