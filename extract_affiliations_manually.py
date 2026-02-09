@@ -17,6 +17,7 @@ import argparse
 import pathlib
 import json
 import re
+import traceback
 
 # Messaging/logging
 import logging
@@ -40,7 +41,7 @@ LEVEL = [logging.WARNING, logging.INFO, logging.DEBUG]
 
 # NOTE: for now this is a bit dirty, but it works enough
 DICT_KNOWN_ISSUES = {
-
+    "¨a": "a",
     ", ˘a": "a",
     "\xa0": " ",
     "`a": "a",
@@ -126,17 +127,18 @@ DICT_KNOWN_ISSUES = {
 
     # Some weird decoding
     "ﬁ": "fi",
-    "Schaufﬂer": "Schauffler",
+    "ﬂ": "fl",
 }
 
 DICT_NAME_ISSUES = {
-
+    "yiteng (arden) huang": "yiteng huang",
+    "ranzo c. f. huang": "ranzo huang",
     "a.apoorv reddy": "apoorv reddy arrabothu",
     "ahmed adel attia": "ahmed attia",
     "alan w.black": "alan w black",
     "ankita ankita": "ankita",
-    "c.-t.do": "c.-t.do",
-    "c.d.riosurrego": "cristian david rios-urrego",
+    # "c.-t.do": "c.-t.do",
+    "c. d. rios-urrego": "cristian david rios-urrego",
     "cheng-hung hu": "chenghung hu",
     "chunhui wang": "wang chunhui",
     "dashanka de silva": "dashanka da silva",
@@ -144,21 +146,22 @@ DICT_NAME_ISSUES = {
     "david noldenaa": "david noldena",
     "digvijay anil ingle": "digvijay ingle",
     "dinh-truong do": "truong do",
+    "dominika c. woszczyk": "dominika woszczyk",
     "dirk eike hoffner": "dirk hoffner",
-    "dominika c woszczyk": "dominika woszczyk",
     "douglas sturim": "douglas e.sturim",
     "duan richeng": "richeng duan",
     "e.godoy": "elizabeth godoy",
-    "emma c.l.leschly": "emma cathrine liisborg leschly",
+    "emma cathrine liisborg leschly": "emma c. l. leschly",
     "enes yavuz ugan": "enes ugan",
     "g anushiya rachel": "g.anushiya rachel",
     "g.laperriere": "gaelle laperriere",
     "g.nisha meenakshi": "g.nisha meenakshi",
     "griffin dietz smith": "griffin smith",
     "hawau olamide toyin": "hawau toyin",
-    "hector a.cordourier maruri": "hector a.cordourier",
+    "hector a. cordourier maruri": "hector a.cordourier",
     "huu tuong tu": "tuong tu huu",
     "j.-a.gomez-garcia": "j-a.gomez-garcia",
+    "j-a. gomez-garcia": "j-a.gomez-garcia",
     "j.linke": "julian linke",
     "j.martinezsevilla": "j.martinez-sevilla",
     "james m scobbie": "james m.scobbie",
@@ -168,7 +171,7 @@ DICT_NAME_ISSUES = {
     "john h.l.hansen": "john h.l.hansen",
     "jose vicente egas-lopez": "jose egas-lopez",
     "juan carlos": "juan c.",
-    "juan f.montesinos": "juan felipe montesinos",
+    "juan f. montesinos": "juan felipe montesinos",
     "k v vijay girish": "k.v.vijay girish",
     "k.ramesh": "ramesh k.",
     "keinichi fujita": "kenichi fujita",
@@ -182,8 +185,8 @@ DICT_NAME_ISSUES = {
     "manuel sam ribeiro": "sam ribeiro",
     "maria k wolters": "maria k.wolters",
     "md.": "md",
-    "michael i mandel": "michael i.mandel",
-    "michael i mandel": "michael i.mandel",
+    # "michael i mandel": "michael i.mandel",
+    # "michael i mandel": "michael i.mandel",
     "mohammed salah al-radhi": "mohammed al-radhi",
     "murali karthick b": "murali karthick b.",
     "nagarathna r": "nagarathna ravi",
@@ -350,14 +353,15 @@ def clean(dirty: str) -> str:
     dirty = dirty.lower().strip()
     dirty = re.sub(r' ([a-z]) ', r' \g<1>. ', dirty)
     dirty = re.sub(r'^([a-z]) ', r'\g<1>. ', dirty)
-    dirty = re.sub(r'[.] ', '.', dirty)
 
     for k, v in DICT_KNOWN_ISSUES.items():
         dirty = dirty.replace(k, v)
 
     for k, v in DICT_NAME_ISSUES.items():
         dirty = dirty.replace(k, v)
-    dirty = dirty.replace("-", "") # NOTE: this one I am not sure about the side effect so it is hardcoded here!
+
+    # dirty = re.sub(r'([^,]) [a-z][.] [a-z][.] ', r'\g<1> ', dirty)
+    # dirty = re.sub(r'([^,]) [a-z][.] ', r'\g<1> ', dirty)
     return dirty
 
 
@@ -416,8 +420,16 @@ def extract_affiliations(
 
     # Clean the authors
     cleaned_authors = [clean(" ".join(a)) for a in authors]
-    cleaned_authors += [clean(" ".join([a[0][0] + "."] + [a[1]])) for a in authors]
+    def _initial(a: list[str]) -> list[str]:
+        if len(a[0]) == 0:
+            return[a[1]]
+        else:
+            return [a[0][0] + "."] + [a[1]]
+
+            raise Exception(authors)
+    cleaned_authors += [clean(" ".join(_initial(a))) for a in authors]
     cleaned_authors += [clean(" ".join(a[::-1])) for a in authors]
+    cleaned_authors = [re.sub(r"[^a-z]", "", a).strip() for a in cleaned_authors]
 
     # Search the line containing the authors
     index = -1
@@ -425,13 +437,14 @@ def extract_affiliations(
     for l_index, l in enumerate(cleaned_header):
 
         # Prepare the line to checked if it contains an author
-        maybe_first_author = re.sub(r'[0-9],([^0-9])', r', \g<1>', l)
+        maybe_first_author = re.sub(r"[*†‡]", "", l)
+        maybe_first_author = re.sub(r'[0-9],([^0-9])', r', \g<1>', maybe_first_author)
         maybe_first_author = re.sub(r'([0-9]) ([^0-9])', r'\g<1>, \g<2>', maybe_first_author)
-        maybe_first_author = re.sub(r"[0-9*†‡]", "", maybe_first_author)
+        maybe_first_author = re.sub(r"[0-9]", "", maybe_first_author)
         maybe_first_author = (
             maybe_first_author.split(" and ")[0].split(" & ")[0].split(", ")[0].split("; ")[0].strip()
         )
-        maybe_first_author = re.sub(r"[^a-zA-Z-. ']", "", maybe_first_author).strip()
+        maybe_first_author = re.sub(r"[^a-z]", "", maybe_first_author ).strip()
         maybe_first_author = maybe_first_author.lower()
 
         # Now check if we have an author
@@ -452,6 +465,7 @@ def extract_affiliations(
     # Deal with some numerical edge cases
     affiliations = cleaned_header[index:]
     affiliations = [re.sub(r"^[0-9]*", "", a) for a in affiliations]
+    affiliations = [re.sub(r" ([a-z])[.] ", r" \g<1> ", a) for a in affiliations]
     affiliations = [re.sub(r"[,;] [0-9]+", "\n", a) for a in affiliations]
 
     # Finalise the list of potential affiliations
@@ -501,8 +515,9 @@ def main():
             )
         except Exception as ex:
             logger.error(
-                f"{ex}",
-                extra={"paper_id": paper_id, "error_step": "affiliations_extraction"},
+                # f"{ex}:\n{traceback.format_exc()}",
+                f"{ex}:\n",
+                extra={"paper_id": paper_id, "error_step": "affiliations_extraction", "stacktrack": traceback.format_exc()},
             )
 
     # ...and generate the dataframe
