@@ -171,7 +171,7 @@ variani16_interspeech	['google inc., usa']
 sainath16_interspeech	['google, inc. new york, ny, u.s.a']
 mclaren16_interspeech	['speech technology and research laboratory, sri international, california, usa', 'departamento de computacion, fcen, universidad de buenos aires and conicet, argentina']
 mclaren16b_interspeech	['speech technology and research laboratory, sri international, california, usa', 'departamento de computacion, fcen, universidad de buenos aires and conicet, argentina']
-novotny16_interspeech	['ondrej novotny, pavel matejka, oldrich plchot, ondrej glembek, lukas burget, and']
+novotny16_interspeech	
 kudashev16_interspeech	['itmo university, st.petersburg, russia', 'speech technology center ltd., st. petersburg, russia']
 ghaemmaghami16_interspeech	['speech and audio research laboratory, queensland university of technology, brisbane, australia']
 khosravani16_interspeech	['laboratory for intelligent multimedia processing (limp)', 'amirkabir university of technology (aut)']
@@ -193,7 +193,7 @@ ram16_interspeech	['idiap research institute, martigny, switzerland', 'ecole pol
 chen16d_interspeech	"['shaanxi provincial key laboratory of speech and image information processing,', ""school of computer science, northwestern polytechnical university, xi'an, china"", 'institute for infocomm research, a⋆star, singapore']"
 torbati16_interspeech	['college of engineering, temple university', 'philadelphia, pennsylvania, usa']
 pham16_interspeech	['school of computer engineering, nanyang technological university, singapore.', 'temasek laboratories, nanyang technological university, singapore.', 'institute for infocomm research, singapore']
-zhuang16_interspeech	['yimeng zhuang, xuankai chang, yanmin qian, kai yu']
+zhuang16_interspeech	
 wu16b_interspeech	['graduate institute of communication engineering, national taiwan university', 'electrical engineering, national taiwan university']
 godoy16_interspeech	['mit lincoln laboratory', ' wood street, lexington, ma usa 02420']
 tobing16_interspeech	['graduate school of information science, nara institute of science and technology, japan', 'information technology center, nagoya university, japan', 'ntt communication science laboratories, ntt corporation, japan']
@@ -326,7 +326,7 @@ ramakrishna16_interspeech	['signal analysis and interpretation lab, university o
 matousek16_interspeech	['department of cybernetics', 'new technologies for the information society (ntis)', 'faculty of applied sciences, university of west bohemia, czech rep.']
 corralesastorgano16_interspeech	['department of computer science, university of valladolid, spain', 'department of spanish philology, universitat autonoma de barcelona, spain', 'department of psychology, university of valladolid, spain']
 kelly16_interspeech	['research and development, oxford wave research ltd., oxford, united kingdom.', 'center for robust speech systems (crss), university of texas at dallas, u.s.a.', 'voxalys ab, gothenburg, sweden.']
-james16_interspeech	['computational linguistics & phonetics, saarland university, germany', 'dfki language technology lab, saarbrucken, germany', 'saarbrucken graduate school of computer science, germany', 'inria rhˆone-alpes, grenoble, france']
+james16_interspeech	['computational linguistics & phonetics, saarland university, germany', 'dfki language technology lab, saarbrucken, germany', 'saarbrucken graduate school of computer science, germany', 'inria rhone-alpes, grenoble, france']
 marin16_interspeech	['microsoft corp., redmond, washington, u.s.a.']
 delcroix16_interspeech	['ntt communication science laboratories, ntt corporation,', '-4, hikaridai, seika-cho (keihanna science city), soraku-gun, kyoto 619-0237 japan']
 lim16_interspeech	"['institute for infocomm research, singapore', ""nanyang girls' high school, singapore""]"
@@ -339,6 +339,7 @@ green16_interspeech	['university of sheffield, united kingdom,', 'toronto rehabi
 hain16_interspeech	['speech and hearing group, department of computer science, university of sheffield, uk']
 plummer16_interspeech	['dept. of computer science and engineering, the ohio state university', 'dept. of linguistics, the ohio state university']
 sprouse16_interspeech	['uc berkeley']
+bates16_interspeech	
 toda16_interspeech	['information technology center, nagoya university, japan', 'university of science and technology of china, china', 'the university of tokyo, japan', 'national institute of informatics, japan', 'the centre for speech technology research, the university of edinburgh, uk']
 wester16_interspeech	['the centre for speech technology research, the university of edinburgh, uk', 'national institute of informatics, japan']
 chen16h_interspeech	['national engineering laboratory for speech and language information processing,', 'university of science and technology of china, hefei, p.r.china', 'iflytek research, hefei, p.r. china']
@@ -382,6 +383,7 @@ mclaren16c_interspeech	['speech technology and research laboratory, sri internat
 kheder16b_interspeech	['lia, university of avignon, france']
 kanagasundaram16_interspeech	['speech and audio research laboratory', 'queensland university of technology, brisbane, australia']
 thomsen16_interspeech	['department of electronic systems, aalborg university, denmark']
+yu16c_interspeech	['center for robust speech systems (crss)', 'the university of texas at dallas, richardson, tx, u.s.a.']
 hong16_interspeech	['school of information science and technology, xiamen university, china', 'key lab of underwater acoustic communication and marine information technology of moe,', 'xiamen university, china']
 ma16b_interspeech	['school of electrical engineering and telecommunications, unsw australia', 'atp research laboratory, national ict australia (nicta), australia', 'institute for infocomm research, a*star, singapore']
 zhang16e_interspeech	"['center of intelligent acoustics and immersive communications,', ""school of marine science and technology, northwestern polytechnical university, xi'an, china"", 'department of computer science and engineering, the ohio state university, columbus, oh, usa']"
@@ -389,17 +391,19 @@ tian16b_interspeech	['national laboratory for information science and technology
 kanda16b_interspeech	['national institute of information and communications technology, japan']
 asaei16_interspeech	['idiap research institute, martigny, switzerland', 'ecole polytechnique federale de lausanne (epfl), switzerland', 'university of fribourg, switzerland']
 tucker16_interspeech	['google brain, mountain view, ca, usa', 'lab126, sunnyvale, ca, usa', 'amazon.com, cambridge, ma, usa']
+martinez16_interspeech	
 he16b_interspeech	['eecs & rle, mit, cambridge, ma 02139, usa', 'texas instruments, santa clara, ca', ', usa']
 price16_interspeech	['computer science and artificial intelligence laboratory', 'microsystems technology laboratory', 'mit, cambridge, ma, usa']
 yang16c_interspeech	['department of engineering, university of cambridge, cambridge, uk']
 tang16b_interspeech	['toyota technological institute at chicago']
 xu16c_interspeech	['department of computer science and engineering,', 'the ohio state university,', 'columbus, oh 43220']
 hartmann16_interspeech	['raytheon bbn technologies, cambridge, ma, usa']
+obara16_interspeech	
 chen16j_interspeech	['key lab. of shanghai education commission for intelligent interaction and cognitive engineering', 'department of computer science and engineering, shanghai jiao tong university, shanghai, china', 'aispeech ltd.']
 sahu16_interspeech	['institute for systems research, department of electrical and computer engineering,', 'university of maryland, college park']
 ariasvergara16_interspeech	['faculty of engineering. universidad de antioquia udea, calle 70 no. 52-21, medellin, colombia', 'pattern recognition lab, friedrich-alexander-universitat erlangen-nurnberg, germany']
 weiner16_interspeech	['cognitive systems lab, university of bremen, germany']
-alghowinem16_interspeech	['sharifa alghowinem1,5, roland goecke2,1, julien epps3, michael wagner2,1, jeffrey cohn4,']
+alghowinem16_interspeech	
 zhou16_interspeech	['department of computer science, university of toronto;', 'toronto rehabilitation institute, university health network;']
 pokorny16_interspeech	['research unit idn – interdisciplinary developmental neuroscience, institute of physiology,', 'center for physiological medicine, medical university of graz, austria', 'machine intelligence & signal processing group, technische universitat munchen, germany', 'brain, ears & eyes – pattern recognition initiative (bee-pri), biotechmed-graz, austria', 'centre of neurodevelopmental disorders (kind), karolinska institutet, stockholm, sweden', 'chair of complex & intelligent systems, university of passau, germany', 'machine learning group, department of computing, imperial college london, uk']
 pettorino16_interspeech	"[""university of naples l'orientale, italy"", 'padua university, italy']"
@@ -433,7 +437,7 @@ beaver16_interspeech	['nextit corporation, spokane valley, wa usa']
 barnaud16_interspeech	['univ. grenoble alpes, gipsa-lab, f-38000 grenoble, france', 'cnrs, gipsa-lab, f-38000 grenoble, france', 'univ. grenoble alpes, lpnc, f-38000 grenoble, france', 'cnrs, lpnc, f-38000 grenoble, france', 'sorbonne universites - upmc - isir, paris, france']
 wolters16_interspeech	['school of informatics, university of edinburgh', 'nlp cl lab, department of computer science, kaist', 'human cognitive neuroscience, university of edinburgh']
 katz16_interspeech	['the university of texas at dallas', 'plano east senior high school']
-caudrelier16_interspeech	['1 univ. grenoble alpes, gipsa-lab, f-38000 grenoble, france', 'cnrs, gipsa-lab, f-38000 grenoble, france']
+caudrelier16_interspeech	['univ. grenoble alpes, gipsa-lab, f-38000 grenoble, france', 'cnrs, gipsa-lab, f-38000 grenoble, france']
 schweitzer16b_interspeech	['institute for natural language processing', 'university of stuttgart, germany']
 tuomainen16_interspeech	['speech hearing and phonetic sciences, ucl, uk']
 olcoz16_interspeech	['vivolab, aragon institute for engineering research (i3a), universidad de zaragoza, spain', 'speech and hearing group, department of computer science, university of sheffield, uk']
@@ -469,7 +473,7 @@ song16_interspeech	['microsoft research asia, beijing, china', 'department of el
 ohtani16_interspeech	['knowledge media laboratory, corporate research & development center, toshiba corporation']
 espic16_interspeech	['the centre for speech technology research (cstr), university of edinburgh, uk']
 zhao16b_interspeech	['graduate school of engineering, the university of tokyo, japan', 'graduate school of information science and technology, the university of tokyo, japan']
-zen16_interspeech	['heiga zen, yannis agiomyrgiannakis, niels egberts, fergus henderson, przemyslaw szczepaniak']
+zen16_interspeech	
 hojo16_interspeech	['ntt media intelligence laboratories, ntt corporation, japan', 'tokyo university of science, suwa']
 juvela16b_interspeech	['aalto university, department of signal processing and acoustics, finland', 'national institute of informatics, japan', 'sokendai university, japan', 'university of edinburgh, the centre for speech technology research, united kingdom']
 tachibana16_interspeech	['national institute of information and communications technology, japan', 'information technology center, nagoya university, japan']
@@ -502,10 +506,11 @@ shivakumar16_interspeech	['university of southern california, los angeles, ca, u
 abad16_interspeech	['l2f - spoken language systems lab, inesc-id lisboa', 'ist - instituto superior tecnico, university of lisbon', 'unbabel inc.']
 gosztolya16c_interspeech	['institute of informatics, university of szeged, hungary', 'mta-szte research group on artificial intelligence, szeged, hungary', 'department of computer science, university of paderborn, germany']
 tabain16_interspeech	"['la trobe university, melbourne, australia', 'monash university, melbourne, australia', ""murdoch children's research institute, melbourne, australia""]"
-toutios16b_interspeech	['asterios toutios1, sajan goud lingala1, colin vaz1, jangwon kim1, john esling2, patricia keating3,', 'matthew gordon4, dani byrd1, louis goldstein1, krishna nayak1, shrikanth narayanan1']
+toutios16b_interspeech	
 renwick16_interspeech	"['university of georgia, athens ga 30602, usa', ',4limsi, cnrs, universite paris-saclay, bˆat. 508, orsay, france', ""laboratoire national de metrologie et d'essais"", ' avenue roger hennequin', ' trappes, france', 'vocapia research', ' rue jean rostand', ' orsay, france']"
 fan16_interspeech	['tianjin key laboratory of cognitive computation & its applications, tianjin university, tianjin,', 'china', 'school of information science, japan advanced institute of science and technology, ishikawa,', 'japan', 'school of foreign languages and literature, tianjin university, tianjin, china']
 monteserin16b_interspeech	['university of southern california, linguistics', 'university of southern california, electrical engineering and computer science']
+yi16_interspeech	
 ming16_interspeech	"['institute for infocomm research, a⋆star, singapore', ""school of computer science, northwestern polytechnical university, xi'an, china""]"
 thangthai16_interspeech	['school of computing sciences, university of east anglia, norwich, uk']
 ronanki16_interspeech	['the centre for speech technology research (cstr), the university of edinburgh, uk']
@@ -533,7 +538,7 @@ ji16_interspeech	['computer and telecomm. eng. division', 'yonsei university won
 cheong16_interspeech	['department of electrical and computer engineering', 'national chiao tung universty, hsinchu, taiwan 300, r.o.c.', 'tangent microelectromechanics corp., taiwan']
 sreeram16_interspeech	['department of electronics and electrical engineering', 'indian institute of technology guwahati, guwahati - 781039, india']
 bonada16b_interspeech	['music technology group, universitat pompeu fabra, spain', 'school of biological and chemical sciences, queen mary university of london, uk']
-kaewtip16_interspeech	['kantapon kaewtip1, charles taylor2, abeer alwan1']
+kaewtip16_interspeech	
 wisler16_interspeech	['arizona state university, usa', 'mit lincoln laboratory, usa', 'stanley center for psychiatric research, broad institute of mit and harvard, usa']
 aihara16b_interspeech	['graduate school of systems and information engineering, university of tsukuba, japan', 'honda research institute japan, co., ltd., japan', 'graduate school of informatics, kyoto university, japan', 'graduate program for embodiment informatics, waseda university, japan']
 guyot16_interspeech	['school of life sciences, university of sussex, brighton, united kingdom.', 'sussex humanities lab/ music, university of sussex, brighton, united kingdom.', 'british trust for ornithology, thetford, united kingdom.', 'universite de toulouse, ups, irit, toulouse, france']
@@ -545,7 +550,7 @@ suzuki16b_interspeech	['graduate school of information science, nagoya universit
 kurth16_interspeech	['fraunhofer fkie, fraunhoferstr. 20', ' wachtberg, germany']
 moore16_interspeech	['speech and hearing research group, dept. computer science, university of sheffield, uk']
 oreilly16_interspeech	['sigmedia, department of electrical & electronic engineering, trinity college dublin, ireland', 'trinity centre for biodiversity research & department of zoology, trinity college dublin, ireland']
-hsu16c_interspeech	['yao-chi hsu, ming-han yang, hsiao-tsung hung, berlin chen']
+hsu16c_interspeech	
 heeman16_interspeech	['biospeech, lake oswego, or', 'center for spoken language understanding, oregon health & science university, portland, or', 'speech & hearing sciences, portland state university, portland, or', 'dept. of communication sciences and disorders, university of pittsburgh, pittsburgh, pa']
 xie16d_interspeech	"['school of information engineering, wuhan university of technology, wuhan, china', 'cas key laboratory of human-machine intelligence-synergy systems, shenzhen institutes of', 'advanced technology, chinese academy of sciences/ the chinese university of hong kong,', 'shenzhen, china', ""department of otorhinolaryngology head and neck surgery, chinese people's liberation army"", 'general hospital, beijing 100853, china', 'speech science laboratory, university of hong kong, china']"
 ward16_interspeech	"['data61, csiro, hobart, australia', 'acoustics research centre, university of salford, manchester, uk', 'rmit, melbourne, australia', 'health & biosecurity, csiro, sydney, australia', 'university of melbourne, melbourne, australia', ""murdoch children's research institute, melbourne, australia""]"
@@ -559,14 +564,16 @@ ding16_interspeech	['centre for cross-linguistic processing and language cogniti
 li16h_interspeech	['department of electronic engineering, tsinghua university, beijing, china']
 song16b_interspeech	['peking university, beijing, china', 'key laboratory of high confidence software technologies (peking university), moe, china', 'natural language processing department, baidu inc., beijing, china ∗corresponding author', 'school of computer, central china normal university, wuhan, hubei, china']
 li16i_interspeech	['department of electronic engineering, tsinghua university, beijing, china']
+shen16_interspeech	
 kumar16b_interspeech	['signal analysis and interpretation laboratory (sail), usc, los angeles, usa', 'department of psychiatry, ucsf school of medicine, san francisco, usa']
 casanueva16_interspeech	['department of computer science, university of sheffield, united kingdom']
 tseng16b_interspeech	['graduate institute of communication engineering', 'national taiwan university']
 ravuri16_interspeech	['international computer science institute, berkeley, ca, usa', 'semantic machines, inc.', 'university of california - berkeley, ca, usa']
 palaz16_interspeech	['facebook a.i. research, menlo park, ca, usa', 'facebook a.i. research, paris, france']
 alvarez16_interspeech	['speech group, google inc.']
+povey16_interspeech	
 ratajczak16_interspeech	['graz university of technology, signal processing and speech communication laboratory', 'eth zurich, learning & adaptive systems group']
-wong16_interspeech	['department of engineering, university of cambridge', 'trumpington street, cb2 1pz cambridge, england']
+wong16_interspeech	
 hansen16_interspeech	['center for robust speech systems (crss), erik jonsson school of engineering,', 'university of texas at dallas, richardson, texas, u.s.a.', 'electrical engineering department, university of wisconsin–platteville, u.s.a.']
 jokinen16b_interspeech	['aalto university, department of signal processing and acoustics, espoo, finland']
 sturim16b_interspeech	"['mit lincoln laboratory', 'abstract\x02', 'the goal of this paper is to describe significant corpora', 'available to support speaker recognition research and', 'evaluation, along with details about the corpora collection and', 'design. we describe the attributes of high-quality speaker', 'recognition', 'corpora. considerations of the application,', 'domain, and performance metrics are also discussed.', 'additionally, a literature survey of corpora used in speaker', 'recognition research over the last 10 years is presented. finally', 'we show the most common corpora used in the research', 'community and review them on their success in enabling', 'meaningful speaker recognition research.', 'index terms: speaker recognition, speaker identification,', 'speaker verification, speech corpora, speech datasets', '. introduction', 'the main contribution of this paper is to aid the speaker-', 'recognition research and evaluation communities in the', 'selection of corpora (a substantial collection of organized', 'speech data) and protocols on their use. the careful selection', 'of a corpus and protocol drives the direction of research,', 'enables the demonstration of statistically significant results,', 'provides for comparison with other works, enables the', 'scientific method, and improves the likelihood of acceptance', 'of publications [1].', 'there is a plethora of available datasets intended for', 'speaker recognition, including ones collected by the', 'researchers themselves. we aim to help researchers select', 'from among the many choices. this work expands on', ""campbell and reynolds' 1999 survey [2] that ranged from"", 'timit, yoho [3] and switchboard as used in early nist', 'evaluations to the sre 2004 corpus [4], the mmsr corpora', '[5] [6], and the mixer corpora [7] and presents the tremendous', 'progress since then. this progress includes improved design of', 'corpora, better understanding of relevant factors, protocols for', 'the use of the data, and very large datasets.', '\x02* this work was sponsored by the department of justice under', 'air', 'force', 'contract', 'fa8702-15-d-0001.', 'opinions,', 'interpretations, conclusions, and recommendations are those of', 'the authors and are not necessarily endorsed by the united', 'states government.', '. what makes a good speaker', 'recognition corpus?', 'in this section, we describe some of the desirable attributes', 'needed for a successful and accepted speaker-recognition', 'corpus to support research. before discussing some of the', 'different attributes, a couple of general comments are in order.', 'first, any corpus developed needs to strongly consider the', 'application(s) that it is addressing. for example, a corpus to', 'support speaker-recognition research in forensic speaker', 'recognition is likely very different than one for automatic', 'speaker labeling of meetings. to support application-relevant', 'scientific research, the corpus should support control variables', 'and dependent variables that are relevant to the intended', 'applications. this is not necessarily the same design as for a', 'corpus that is designed to be predictive of performance in a', 'given application, especially when many variables can be', 'involved. second, the application(s) under consideration', 'determine the meaningful measures of performance, namely', 'what metric(s) should be used. good metric designs consider', 'specific user-community needs to be informative to the', 'research and the user communities. furthermore, measures of', 'effectiveness can be used to measure task performance for', 'human consumers of speaker recognition methods. a deep', 'discussion of metrics is beyond the scope and focus of this', 'paper, but there are many good publications related to metrics,', 'such as [8] [9] [10].', 'given these general concepts for speaker-recognition data', 'collections, we focus on the desirable attributes referred to', 'earlier. these attributes include those driven by the specific', 'effects to be studied and those driven by the nature of', 'statistics. factors related to statistics are those associated with', 'the strength of the conclusions drawn from the evaluation.', 'ideally, these conclusions extend beyond the given evaluation', 'and have enough predictive power for related applications, but', 'caution must be used when making such leaps. statistical', 'factors include the following:', '\x03', 'number of speakers. sufficient to allow for', 'statistically-significant performance results.', '\x03', 'number of sessions per speaker. at least two', 'sessions and sufficient to capture variabilities of the', 'speaker, channels, conditions, and environments', 'reflected by the application.', '\x03', 'session duration. at least 30 seconds of speech time', 'per session. longer recordings are commonly', 'recorded and later reduced to study duration effects.', '\x03', 'intersession interval. sessions should be recorded', 'sufficiently', 'separated', 'in', 'time', 'to', 'support', 'independence assumptions and to capture variability.', 'copyright © 2016 isca', 'interspeech 2016', 'september 8–12', ', san francisco, usa', 'http://dx.doi.org/10.21437/interspeech.2016-1609']"
@@ -574,6 +581,7 @@ bertin16_interspeech	['irisa - cnrs umr 6074, rennes, france', 'inria, villers-l
 ravanelli16_interspeech	['fondazione bruno kessler (fbk), trento, italy']
 gamper16_interspeech	['microsoft research redmond', 'microsoft corporation']
 richardson16_interspeech	['mit lincoln laboratory']
+bosch16_interspeech	
 mcauliffe16_interspeech	['mcgill university, canada', 'university of british columbia, canada', 'university of oregon, usa']
 drozdova16_interspeech	['centre for language studies, radboud university nijmegen, the netherlands']
 hintz16_interspeech	['centre for language studies, radboud university nijmegen (nl)', 'donders institute for brain, cognition, & behavior, radboud university nijmegen (nl)']
@@ -600,6 +608,7 @@ oertel16_interspeech	['kth royal institute of technology', 'carnegie mellon univ
 gwon16_interspeech	['mit lincoln laboratory', 'harvard university']
 fernando16_interspeech	['school of electrical engineering and telecommunications, unsw australia', 'atp research laboratory, national ict australia (nicta), australia']
 kv16_interspeech	['speech and vision laboratory, iiit hyderabad, india']
+ali16_interspeech	
 ng16_interspeech	['department of computer science, university of sheffield, united kingdom']
 geng16_interspeech	['interactive digital media technology research center,', 'institute of automation chinese academy of sciences, beijing 100190, china']
 sagha16_interspeech	['chair of complex & intelligent systems, university of passau. germany', 'phonexia brno, czech republic', 'department of computing, imperial college london, uk']
@@ -638,6 +647,7 @@ pylkkonen16_interspeech	['amazon']
 jurafsky16_interspeech	['stanford university, usa']
 tong16_interspeech	['institute for infocomm research, singapore']
 tao16c_interspeech	['educational testing service', 'rosedale road', 'princeton, nj 08541, usa']
+qian16_interspeech	
 li16j_interspeech	['school of electrical and computer engineering, georgia institute of technology, atlanta, usa', 'department of telematics, kore university of enna, enna, italy', 'institute for infocomm research, singapore']
 wang16g_interspeech	['graduate school of science and engineering, doshisha university, kyoto, japan']
 rasipuram16_interspeech	['idiap research institute, martigny, switzerland']
@@ -670,10 +680,11 @@ li16k_interspeech	['center for language and speech processing, johns hopkins uni
 irtza16_interspeech	['li3', 'school of electrical engineering and telecommunications, unsw australia', 'atp research laboratory, national ict australia (nicta), australia', 'institute for infocomm research, a*star, singapore']
 masumura16_interspeech	['ntt media intelligence laboratories, ntt corporation, japan']
 geng16b_interspeech	['interactive digital media technology research center,', 'institute of automation chinese academy of sciences, beijing 100190, china']
-pesan16_interspeech	['jan pesan, lukas burget, jan ”honza” cernocky']
+pesan16_interspeech	
 kapolowicz16_interspeech	['school of behavioral and brain sciences', 'the university of texas at dallas']
 he16c_interspeech	['department of electronic engineering, tsinghua university, beijing 100084, china']
 jokinen16c_interspeech	['institute of behavioural sciences, university of helsinki, finland', 'school of computing, university of eastern finland, finland', 'institute of computer science, university of tartu, estonia']
+zhang16h_interspeech	['school of electronic and information engineering', 'south china university of technology, guangzhou, china']
 m16_interspeech	['school of information technology, indian institute of technology, kharagpur, india']
 chen16n_interspeech	['department of computer science and engineering, the ohio state university, usa', 'center for cognitive and brain sciences, the ohio state university, usa']
 kruspe16b_interspeech	['fraunhofer idmt, ilmenau, germany']
@@ -726,7 +737,7 @@ manenti16_interspeech	['universite de toulouse, ups, irit, toulouse, france']
 schlunz16_interspeech	['human language technology research group', 'csir meraka institute, pretoria, south africa']
 westhuizen16_interspeech	['department of electrical and electronic engineering, stellenbosch university,', 'stellenbosch, south africa']
 ramanarayanan16_interspeech	['educational testing service r&d, san francisco, ca', 'department of linguistics & cognitive science, university of delaware, newark, de', 'department of linguistics, university of southern california, los angeles, ca', 'department of radiology and biomedical imaging, university of california, san francisco, ca', 'department of otolaryngology, university of california, san francisco, ca', '†both authors contributed equally to this work.']
-dabbaghchian16_interspeech	['saeed dabbaghchian1, marc arnela2, olov engwall1, oriol guasch2, ian stavness3, pierre badin4']
+dabbaghchian16_interspeech	
 wei16_interspeech	['school of computer software, tianjin university, tianjin 300350, china', 'school of computer science and technology, tianjin university, tianjin 300350, china', 'department of engineering mechanics, zhejiang university, hangzhou 310027, china.']
 szabados16_interspeech	['university of grenoble alpes, gipsa-lab, f-38000 grenoble, france', 'cnrs, gipsa-lab, f-38000 grenoble, france']
 yoshinaga16_interspeech	['graduate school of engineering science, osaka university, osaka, japan', 'osaka university dental hospital, osaka, japan']
@@ -742,9 +753,11 @@ todisco16_interspeech	['department of digital security, eurecom, sophia antipoli
 sadjadi16_interspeech	['ibm research, yorktown heights, ny, usa', 'electrical eng. dept., indian institute of science, bangalore, india']
 kheder16c_interspeech	['lia, university of avignon, france']
 bahmaninezhad16_interspeech	['center for robust speech systems (crss), university of texas at dallas, richardson, tx 75080']
+qian16b_interspeech	
 phan16_interspeech	['⋆institute for signal processing, university of lubeck', '†graduate school for computing in medicine and life sciences, university of lubeck']
 karamanolakis16_interspeech	['school of electrical & computer engineering, national technical university of athens, greece', 'department of informatics, university of piraeus, greece']
 fujita16_interspeech	['yahoo japan corporation']
+zazo16_interspeech	
 graciarena16_interspeech	['sri international, california, usa', 'departamento de computacion, fceyn, universidad de buenos aires and conicet, argentina']
 karakos16_interspeech	['raytheon bbn technologies, usa']
 mitra16c_interspeech	['speech technology and research laboratory, sri international, menlo park, ca, usa', 'speech processing and auditory perception lab., univ. of california, los angeles, ca, usa', 'international computer science institute (icsi), berkeley, ca, usa', 'dept. of electrical and computer engineering, carnegie mellon university, pittsburg, pa, usa', 'center for robust speech systems (crss), u.t. dallas, richardson, tx, usa']
@@ -771,6 +784,7 @@ mitra16d_interspeech	['speech technology and research laboratory, sri internatio
 tomashenko16_interspeech	['lium, university of le mans, france', 'itmo university, saint-petersburg, russia', 'stc-innovations ltd, saint-petersburg, russia']
 bosch16b_interspeech	['radboud university nijmegen, the netherlands', 'nuance communications, aachen, germany']
 loweimi16_interspeech	['speech and hearing research group (spandh), university of sheffield, sheffield, uk', 'abstract', 'designing good normalisation to counter the effect of environmen-', 'tal distortions is one of the major challenges for automatic speech', 'recognition (asr). the vector taylor series (vts) method is a pow-', 'erful and mathematically well principled technique that can be ap-', 'plied to both the feature and model domains to compensate for both', 'additive and convolutional noises. one of the limitations of this', 'approach, however, is that it is tied to mfcc (and log-filterbank)', 'features and does not extend to other representations such as plp,', 'pncc and phase-based front-ends that use power transformation', 'rather than log compression.', 'this paper aims at broadening the', 'scope of the vts method by deriving a new formulation that as-', 'sumes a power transformation is used as the non-linearity during', 'feature extraction. it is shown that the conventional vts, in the log', 'domain, is a special case of the new extended framework. in ad-', 'dition, the new formulation introduces one more degree of freedom', 'which makes it possible to tune the algorithm to better fit the data', 'to the statistical requirements of the asr back-end. compared with', 'mfcc and conventional vts, the proposed approach provides upto', '.2% and 2.0% absolute performance improvements on average, in', 'aurora-4 tasks, respectively.', 'index terms: robust speech recognition, feature extraction, noise', 'compensation, vector taylor series, power transformation', '. introduction', 'automatic speech recognition (asr) in clean/matched acoustical', 'environments has become a less challenging problem.', 'however,', 'once the signal gets corrupted by noise asr performance starts to', 'degrade with a rate that depends on the type and level of the distur-', 'bance. both the recognition front-end and back-end can be modi-', 'fied in order to mitigate the sensitivity of the system to the environ-', 'mental distortions. three main strategies may be adopted in deal-', 'ing with this issue [1', ']. first, the signal may be passed through', 'a pre-processing enhancement stage prior to being supplied to the', 'parametrisation block. second, the feature extraction techniques can', 'be modified to produce features that are more robust against the dis-', 'tortions induced by noise [3–6]. a third solution is modification of', 'the back-end to increase its ability to cope with noise, either through', 'model compensation/adaptation or by using the noise data during', 'the training phase (multi-style training). one of the most successful', 'approaches to robust speech recognition is the vector taylor series', '(vts) method [7]. in this approach, taylor series expansion is em-', 'ployed to linearise the non-linear relationship between the clean and', 'noisy representations. this method has been studied from several', 'different perspectives [8–11] and can produce state-of-the-art per-', 'formance improvements.', 'however, the vts method is not flexible in terms of the features', 'it can enhance. specifically, it can only be used for mfcc or log', 'filterbank energies (fbe) and can not be directly applied to repre-', 'sentations which – instead of log compression – apply a power trans-', 'formation to the fbes. examples of such features are generalised-', 'mfcc [12], plp [3], pncc [5] and phase-based features [4,13–18].', 'as will be illustrated in section 3, substituting the log function with', 'the power transformation has a significant effect on the statistical', 'properties of these features and on their performance, particularly in', 'noisy conditions. as such by combining vts and power transfor-', 'mations a more flexible framework can be created.', 'in this paper, we develop a novel formulation for vts assuming', 'that a power transformation is employed instead of log compression.', 'this expands the applicability of the vts, increases the controlla-', 'bility of the compensation process and, performance-wise, it will be', 'shown that it leads to a better speech recognition results.', 'the rest of this paper is organized as follows.', 'in section 2', 'the conventional vts is reviewed. section 3 contains the motiva-', 'tions and formulation of the new approach called generalised vts', '(gvts). section 4 includes experimental results as well as discus-', 'sion and section 5 concludes the paper.', '. review of vts', '.1. signal contamination with noise', 'a typical acoustic environment can be modelled as follows', 'y [k] = x[k] |h(k)|2 + w[k],', '(1)', 'where index k, x[k], |h[k]|, w[k] and y [k] denote the discrete fre-', 'quency, power spectrum (ps) of the clean signal, frequency response', 'of the linear channel, ps of noise and ps of the noisy observation,', 'respectively. for simplification, it is assumed that there is no channel', 'noise. applying the logarithm to both sides of (1) yields', 'log{y [k]} = log{x[k]} + log{1 + w[k]', 'x[k] }', '˜y [k] = ˜', 'x[k] + log{1 + e', '˜', 'w [k]−˜', 'x[k]}', '|', '}', 'g( ˜', 'w , ˜', 'x)', '(2)', 'where log{z[k]} = ˜z[k]. taking the discrete cosine transform', '(dct) results in', '˜y[q] = ˜x[q] + c log{1 + ec−1\x00˜', 'w[q]−˜x[q]', '\x01', '}', '|', '}', 'g( ˜', 'w,˜x)', '.', '(3)', 'where c and c−1 denote the dct and inverse dct matrices, re-', 'spectively, and q, ˜x, ˜w, and ˜y are quefrency, (real) cepstrums of the', 'clean data, noise and noisy observation, respectively. as seen in (2)', 'use of generalised nonlinearity in vector taylor series noise compensation for', 'robust speech recognition', 'copyright © 2016 isca', 'interspeech 2016', 'september 8–12', ', san francisco, usa', 'http://dx.doi.org/10.21437/interspeech.2016-1028']
+mimura16_interspeech	
 higuchi16_interspeech	['ntt communication science laboratories, ntt corporation']
 tran16_interspeech	['ntt communication science laboratories, ntt corporation,', '-4, hikaridai, seika-cho (keihana science city), soraku-gun, kyoto 619-0237 japan']
 fujita16b_interspeech	['hitachi, ltd. research and development group']

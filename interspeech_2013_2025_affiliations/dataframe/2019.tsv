@@ -25,16 +25,18 @@ nakatani19_interspeech	['ntt communication science laboratories, ntt corporation
 snyder19_interspeech	['department of linguistics, university of california, davis']
 illa19_interspeech	['electrical engineering, indian institute of science (iisc), bangalore-560012, india']
 zhang19_interspeech	['college of intelligence and computing, tianjin university, tianjin, china']
-yoshinaga19_interspeech	['tsukasa yoshinaga1, kazunori nozaki2, shigeo wada3']
+yoshinaga19_interspeech	
 uttam19_interspeech	[', yaman kumar ∗', ', dhruva sahrawat ∗', ', mansi aggarwal4,', 'rajiv ratn shah3, debanjan mahata5, amanda stent5', 'adobe, india', 'midas, iiit-delhi, india', 'bloomberg, usa']
-saha19_interspeech	['pramit saha1, muhammad abdul-mageed2, sidney fels1']
+saha19_interspeech	
 chung19_interspeech	['computer science and artificial intelligence laboratory', 'massachusetts institute of technology', 'cambridge, ma 02139, usa']
 huang19_interspeech	['acoustic research institute, austrian academy of sciences']
 m19_interspeech	['indian institute of technology, kharagpur, india']
-pascual19_interspeech	['santiago pascual1, mirco ravanelli2, joan serra3, antonio bonafonte1∗, yoshua bengio2,4']
+pascual19_interspeech	
 nellore19_interspeech	['speech processing laboratory, international institute of information technology, hyderabad, india', 'tcs research and innovation-mumbai, india', 'indian institute of technology jammu, india']
+chatziagapi19_interspeech	
 kons19_interspeech	['ibm research']
 lorenzotrueba19_interspeech	['amazon.com, cambridge, united kingdom']
+neekhara19_interspeech	
 mustafa19_interspeech	['∗, arijit biswas2', ',2,', ', christian bergler1, julia schottenhamml1, andreas maier1', 'pattern recognition lab, fau erlangen-nuremberg, erlangen, germany', 'dolby germany gmbh, nuremberg, germany']
 wu19b_interspeech	['graduate school of informatics, nagoya university, japan', 'graduate school of information science, nagoya university, japan', 'information technology center, nagoya university, japan']
 tian19_interspeech	['department of electrical and computer engineering, national university of singapore', 'school of computer engineering, nanyang technological university, singapore']
@@ -99,7 +101,7 @@ liu19_interspeech	['national laboratory of pattern recognition, institute of aut
 yang19_interspeech	['columbia university, usa']
 dinkov19_interspeech	['faculty of mathematics and informatics, sofia university “st kliment ohridski”', 'qatar computing research institute, hbku']
 an19_interspeech	['department of engineering technology, queensborough community college (cuny), usa', 'department of computer science, cuny graduate center, usa', 'department of computer and information science, brooklyn college (cuny), usa']
-weninger19_interspeech	['felix weninger1, yang sun2, junho park1, daniel willett∗, puming zhan1']
+weninger19_interspeech	
 gosztolya19_interspeech	['mta-szte research group on artificial intelligence, szeged, hungary', 'university of szeged, institute of informatics, szeged, hungary']
 mori19_interspeech	['utsunomiya university, japan', 'chiba institute of technology, japan']
 ludusan19_interspeech	['phonetics and phonology workgroup, faculty of linguistics and literary studies,', 'bielefeld university, germany']
@@ -141,6 +143,7 @@ yamamoto19b_interspeech	['line corp., tokyo, japan', 'naver corp., seongnam, kor
 mohammadi19_interspeech	['oben, inc.']
 huang19c_interspeech	['academia sinica, taiwan', 'nagoya university, japan']
 liu19b_interspeech	['human-computer communications laboratory,', 'the chinese university of hong kong, shatin, n.t., hong kong sar, china', 'speechx limited, shenzhen, china']
+chen19b_interspeech	
 ding19_interspeech	['department of computer science and engineering, texas a&m university, usa']
 stephenson19_interspeech	['intel ai lab, santa clara, ca, usa']
 dey19_interspeech	['idiap research institute', 'adobe research']
@@ -158,8 +161,8 @@ peskov19_interspeech	['university of maryland department of computer science and
 gupta19_interspeech	['amazon.com, cambridge, ma-usa']
 marzinotto19_interspeech	['orange labs/ lannion france', 'aix marseille universite, univ. toulon, cnrs, lis, marseille, france']
 parcollet19_interspeech	['avignon universite, lia, france', 'orkis, aix-en-provence, france']
-georges19_interspeech	['munir georges1, krzysztof czarnowski1, tobias bocklet1,2']
-lugosch19_interspeech	['loren lugosch1, mirco ravanelli1, patrick ignoto2, vikrant singh tomar2, yoshua bengio1']
+georges19_interspeech	
+lugosch19_interspeech	
 shivakumar19_interspeech	['signal processing for communication understanding and behavior analysis laboratory', 'university of southern california, los angeles, usa']
 tomashenko19_interspeech	['lia, university of avignon, france', 'lium, university of le mans, france']
 song19_interspeech	['department of computer science and engineering,', 'the hong kong university of science and technology, hong kong', 'ai group, webank co., ltd, shenzhen, china']
@@ -171,7 +174,7 @@ kobayashi19_interspeech	['corporate research & development center, toshiba corpo
 seneviratne19_interspeech	['university of maryland college park', 'pindrop']
 dash19_interspeech	"['department of bioengineering, university of texas at dallas, usa', 'department of psychology, university of texas at austin, usa', ""meg lab, dell children's medical center, austin, tx, usa"", 'callier center for communication disorders, university of texas at dallas, usa']"
 sheth19_interspeech	['dept. of physics and astronomy, university of california, los angeles, usa', 'dept. of neurology and neurosurgery, tel aviv university, tel aviv, isr', 'dept. of neurosurgery, university of california, los angeles, usa', 'dept. of linguistics, university of california, los angeles, usa', 'dept. of radiological sciences, university of california, los angeles, usa']
-silva19_interspeech	['samuel silva1, antonio teixeira1, conceicao cunha2, nuno almeida1, arun joseph3, jens frahm3']
+silva19_interspeech	
 douros19_interspeech	['universite de lorraine, cnrs, inria, loria, f-54000 nancy, france,', 'universite de lorraine, inserm u1254, iadi, f-54000 nancy, france']
 rasskazova19_interspeech	['humboldt-universitat zu berlin, germany', 'leibniz-centre general linguistics, germany']
 gubian19b_interspeech	['institute of phonetics and speech processing, lmu munich, germany']
@@ -184,6 +187,7 @@ kleijn19_interspeech	['google llc., san francisco, ca', 'school of engineering a
 ramanathi19_interspeech	['electrical engineering, indian institute of science (iisc), bangalore 560012, india']
 mannem19_interspeech	['electrical engineering, indian institute of science (iisc), bangalore 560012, india', 'rajiv gandhi university of knowledge technologies (rgukt), kadapa', ', india']
 springenberg19_interspeech	['university of hamburg - dept. of informatics, knowledge technology']
+paraskevopoulos19_interspeech	
 dhiman19_interspeech	['department of electrical engineering, indian institute of science, bangalore-12, india', 'department of computer science, university of crete, greece']
 xu19_interspeech	['college of internet of things, nanjing university of posts and telecommunications, p.r. china', 'agile robots ag, germany', 'group on language audio and music, imperial college london, uk', 'school of information science and engineering, southeast university, p.r. china']
 sudhakara19_interspeech	['electrical engineering, indian institute of science (iisc), bangalore 560012, india']
@@ -192,7 +196,7 @@ vasquezcorrea19b_interspeech	['pattern recognition lab, friedrich-alexander-univ
 kiss19_interspeech	['budapest university of technology and economics, budapest, hungary']
 yarra19_interspeech	['electrical engineering, indian institute of science (iisc), bangalore 560012, india', 'rajiv gandhi university of knowledge technologies (rgukt), kadapa', ', india']
 nissen19b_interspeech	['department of communication disorders, brigham young university, provo, utah, usa', 'news media, department of communications, brigham young university, provo, utah, usa']
-miwardelli19_interspeech	['a. miwardelli1, i.gallagher2, j.gibson1, n.katsos3, k.knill4, h.wood1']
+miwardelli19_interspeech	
 annand19_interspeech	['university of cincinnati - usa']
 radostev19_interspeech	['ai and research, microsoft corporation']
 ryant19_interspeech	"['ganapathy5, mark liberman1', 'linguistic data consortium, university of pennsylvania, philadelphia, pa, usa', 'baidu research, sunnyvale, ca, usa', ""laboratoire de sciences cognitives et de psycholinguistique, dept d'etudes cognitives, ens,"", 'ehess, cnrs, psl university, paris, france', 'university of science and technology of china, hefei, china', 'electrical engineering department, indian institute of science, bangalore, india']"
@@ -201,7 +205,7 @@ vinals19_interspeech	['vivolab, aragon institute for engineering research (i3a),
 zajic19_interspeech	['university of west bohemia', 'faculty of applied sciences', 'ntis - new technologies for the information society and 2dept. of cybernetics,', 'univerzitni 8', ' 14 plzeˇn, czech republic']
 park19b_interspeech	['university of southern california, los angeles, ca, usa']
 novoselov19_interspeech	['itmo university, st.petersburg, russia', 'stc-innovations ltd., st.petersburg, russia']
-todisco19_interspeech	['massimiliano todisco1, xin wang2, ville vestman3,6, md sahidullah4, hector delgado1,', 'andreas nautsch1, junichi yamagishi2,5, nicholas evans1, tomi kinnunen3, kong aik lee6']
+todisco19_interspeech	
 lai19b_interspeech	['center for language and speech processing, johns hopkins university, baltimore, md, usa']
 chettri19_interspeech	['school of eecs, queen mary university of london, united kingdom', 'school of eecs, kth royal institute of engineering, stockholm, sweden']
 cai19_interspeech	['data science research center, duke kunshan university, kunshan, china', 'school of electronics and information technology, sun yat-sen university, guangzhou, china']
@@ -230,6 +234,7 @@ gangi19_interspeech	['university of trento, italy', 'fondazione bruno kessler, t
 hillis19_interspeech	['language technologies institute, carnegie mellon university, pittsburgh, pa, usa']
 bhattacharya19_interspeech	['mcgill university', 'computer research institute of montreal']
 wang19d_interspeech	['moe key lab of artificial intelligence', 'speechlab, department of computer science and engineering', 'shanghai jiao tong university, shanghai, china']
+ravanelli19_interspeech	
 you19_interspeech	['national engineering laboratory for speech and language information processing', 'university of science and technology of china, hefei, china']
 wu19e_interspeech	['moe key lab of artificial intelligence', 'speechlab, department of computer science and engineering', 'shanghai jiao tong university, shanghai, china']
 you19b_interspeech	['national engineering laboratory for speech and language information processing', 'university of science and technology of china, hefei, china']
@@ -264,7 +269,7 @@ okamoto19_interspeech	['national institute of information and communications tec
 kafle19_interspeech	['rochester institute of technology', 'lomb memorial drive, rochester, ny']
 chien19b_interspeech	['department of electrical and computer engineering, national chiao tung university, taiwan']
 sun19_interspeech	['∗, william sethares , erik p bucy', 'electrical and computer engineering, uw-madison', 'comc, texas tech university']
-shen19_interspeech	['yilin shen1, wenhu chen2, hongxia jin1']
+shen19_interspeech	
 tundik19_interspeech	['budapest university of technology and economics, budapest, hungary', 'nokia solutions and networks ltd, budapest, hungary', 'spicy analytics ltd, budapest, hungary', 'telepathy labs gmbh, zurich, switzerland']
 huang19e_interspeech	['college of mathematics and informatics, south china agricultural university, china']
 narisetty19_interspeech	['data science research laboratories, nec corporation, japan']
@@ -274,6 +279,7 @@ gu19_interspeech	['key laboratory of modern acoustics, institute of acoustics, n
 yang19c_interspeech	['graduate institute of networking and multimedia, national taiwan university']
 wichern19_interspeech	['mitsubishi electric research laboratories (merl), cambridge, ma, usa', 'whisper.ai, san francisco, ca, usa']
 chermaz19_interspeech	['the centre for speech technology research, university of edinburgh, united kingdom', 'dept. medical physics and acoustics and cluster of excellence hearing4all, university of', 'oldenburg, germany']
+edraki19_interspeech	
 zhang19c_interspeech	['department of speech and hearing sciences, indiana university, usa', 'department of computer science, indiana university, usa']
 dinh19_interspeech	['oregon health & science university', 'university of new york at buffalo']
 platen19_interspeech	['cambridge university engineering dept., trumpington st., cambridge, cb2 1pz u.k.', 'institute of communication systems (iks), rwth aachen university, germany']
@@ -284,24 +290,26 @@ zhang19d_interspeech	['centre for speech technology research, university of edin
 zhao19d_interspeech	['google, inc., usa']
 nasir19_interspeech	['university of southern california, los angeles, ca, usa', 'university of utah, salt lake city, ut, usa', 'university of washington, seattle, wa, usa']
 du19_interspeech	['language technologies institute, carnegie mellon university', 'department of psychology, university of pittsburgh']
-voleti19_interspeech	['rohit voleti1, stephanie woolridge3, julie m liss2, melissa milanovic3, christopher r bowie3,', 'visar berisha1,2']
-matton19_interspeech	['katie matton1, melvin g mcinnis2, emily mower provost1']
+voleti19_interspeech	
+matton19_interspeech	
 rohanian19_interspeech	['school of electronic engineering and computer science', 'queen mary university of london, uk']
 espywilson19_interspeech	['speech communication laboratory, institute of systems research, and department of electrical', 'and computer engineering, university of maryland, college park, maryland 20742', 'bioengineering systems & technologies, mit lincoln laboratory, lexington, ma 02421']
 paul19b_interspeech	['amazon']
 goel19_interspeech	['amazon']
 martinek19_interspeech	['dept. of computer science & engineering', 'university of west bohemia', 'plzeˇn, czech republic', 'ntis - new technologies for the information society', 'university of west bohemia', 'plzeˇn, czech republic', 'loria umr 7503', 'bp 239 - 54506 vandoeuvre, france']
+chao19_interspeech	
 griol19_interspeech	['dept. of computer science, universidad carlos iii de madrid, spain', 'dept. of languages and computer systems, university of granada, spain']
 chen19c_interspeech	['apple inc.', 'one apple park way', 'cupertino, ca 95014 united states']
 sadjadi19_interspeech	['nist itl/iad/multimodal information group, md, usa', 'mit lincoln laboratory, lexington, ma, usa', 'u.s. department of defense, md, usa']
 villalba19_interspeech	['center for language and speech processing, johns hopkins university, baltimore, md, us', 'human language technology center of excellence, johns hopkins university, baltimore, md, us', 'mit lincoln laboratory, lexington, ma, us', 'mit computer science and artificial intelligence laboratory, cambridge, ma, us', 'lse-epita, villejuif, france']
+garciaromero19_interspeech	
 lee19_interspeech	['nec corporation, japan', 'university of eastern finland, finland', 'jd ai research and platform, usa', 'institute for infocomm research, singapore', 'lium, universite du maine, france', 'national university of singapore, singapore', 'lia, university of avignon, france', 'nanyang technological university, singapore', 'northwestern polytechnic university, china', 'crss, university of texas at dallas, usa', 'eurecom, france']
 khoury19_interspeech	['pindrop, atlanta, ga, usa']
 garciaromero19b_interspeech	['human language technology center of excellence & center for language and speech processing', 'the johns hopkins university, baltimore, md 21218, usa']
 ayllon19_interspeech	['oben inc., ca, usa']
 kuo19_interspeech	['oben inc., ca, usa']
 braude19_interspeech	['cereproc ltd., uk', 'university of madeira, madeira iti, portugal', 'dublin city university, ireland', 'university of edinburgh, uk', 'technical university of cluj-napoca, romania']
-zen19_interspeech	['heiga zen, viet dang, rob clark, yu zhang, ron j weiss, ye jia, zhifeng chen, yonghui wu']
+zen19_interspeech	
 shamsi19_interspeech	['univ rennes, cnrs, irisa']
 hojo19_interspeech	['ntt communication science laboratories']
 lo19_interspeech	['institute of information science, academia sinica, taipei, taiwan', 'research center for information technology innovation, academia sinica, taipei, taiwan', 'graduate school of informatics, nagoya university, japan', 'national institute of informatics, japan']
@@ -353,6 +361,7 @@ luo19b_interspeech	['yangzhou university, china', '\x02\x03\x04\x05\x06\x07\x08'
 zarka19_interspeech	['department of linguistics, university of graz, austria', 'signal processing and speech communication laboratory, graz university of technology, austria', 'ifl phonetics, university of cologne, germany']
 alowonou19_interspeech	['college of intelligence and computing tianjin university, tianjin, china', 'japan advanced institute of science and technology, ishikawa, japan']
 guo19c_interspeech	['zd.b chair of embedded intelligence for health care and wellbeing, university of augsburg,', 'germany', 'school of information science and engineering, lanzhou university, china', 'college of computer and information engineering, tianjin normal university, china', 'glam −group on language, audio & music, imperial college london, uk']
+hao19_interspeech	
 pascual19b_interspeech	['universitat politecnica de catalunya', 'telefonica research']
 li19g_interspeech	['school of computer science and technology, wuhan university of technology, wuhan, hubei,', 'china']
 lin19b_interspeech	['department of computer science and information engineering, national taiwan university, taiwan', 'research center for information technology innovation, academia sinica, taiwan', 'college of engineering, city university of hong kong, hong kong']
@@ -380,6 +389,7 @@ haake19_interspeech	['tu dortmund university', 'universitat bielefeld']
 li19h_interspeech	['university of chinese academy of social sciences', 'institute of linguistics, chinese academy of social sciences']
 gjoreski19_interspeech	['voice inter connect gmbh, dresden, germany']
 yu19_interspeech	['university of pittsburgh', 'adapt centre, trinity college dublin']
+aldeneh19_interspeech	
 lubold19_interspeech	['arizona state university, tempe, az, usa', 'utah state university, logan, ut, usa', 'california state university chico, chico, ca, usa']
 lian19_interspeech	['national laboratory of pattern recognition, casia, beijing, china', 'cas center for excellence in brain science and intelligence technology, beijing, china', 'school of artificial intelligence, university of chinese academy of sciences, beijing, china']
 oneill19_interspeech	['university college dublin, ireland']
@@ -387,6 +397,7 @@ kakouros19_interspeech	['department of digital humanities, university of helsink
 peperkamp19_interspeech	['laboratoire de sciences cognitives et psycholinguistique, ens - psl university – ehess –', 'cnrs, paris, france']
 kocharov19_interspeech	['department of phonetics, saint petersburg university, russia']
 gobl19_interspeech	['phonetics and speech laboratory, school of linguistic, speech and communication sciences', 'trinity college dublin, ireland']
+chodroff19_interspeech	
 park19d_interspeech	['department of electrical and computer engineering, johns hopkins university', 'computaional and information sciences directorate, army research laboratory']
 sturm19_interspeech	['institute of phonetics, charles university, prague, czech republic']
 kelterer19_interspeech	['department of linguistics, university of graz, austria', 'signal processing and speech communication laboratory, graz university of technology,', 'austria']
@@ -396,6 +407,7 @@ xu19b_interspeech	['school of informatics, university of edinburgh', 'centre for
 sharma19b_interspeech	['samsung r&d institute india, bangalore']
 ardaillon19_interspeech	['umr 9912 stms (ircam / sorbonne university / cnrs), paris, france']
 dong19_interspeech	['university of science and technology of china', 'microsoft search technology center asia, xiaoice']
+sharma19c_interspeech	
 sharma19d_interspeech	['department of electrical and computer engineering,', 'national university of singapore, singapore']
 terasawa19_interspeech	['university of tsukuba, ibaraki, japan', 'wakayama university, wakayama, japan', 'health sciences university of hokkaido, sapporo, japan']
 lin19c_interspeech	['cloudminds technology inc., santa clara, ca 95054']
@@ -417,6 +429,7 @@ chen19g_interspeech	['east china normal university', 'ping an technology']
 cai19b_interspeech	['data science research center, duke kunshan university, kunshan, china', 'college of information and computer, taiyuan university of technology, taiyuan, china', 'school of electronics and information technology, sun yat-sen university, guangzhou, china']
 sun19c_interspeech	['peking university', 'microsoft research', 'microsoft stc asia']
 li19i_interspeech	['language technologies institute, carnegie mellon university; pittsburgh, pa; u.s.a.']
+arsikere19_interspeech	
 kannan19_interspeech	['google, inc.']
 mendes19_interspeech	['voiceinteraction, portugal', 'inesc-id, portugal', 'instituto superior tecnico, universidade de lisboa, portugal']
 viglino19_interspeech	['ecole polytechnique federale de lausanne', 'idiap research institute', 'logitech europe s.a.']
@@ -426,7 +439,7 @@ hu19_interspeech	['google, llc, usa']
 khassanov19_interspeech	['school of computer science and engineering, nanyang technological university, singapore', 'temasek laboratories, nanyang technological university, singapore', 'machine intelligence technology, alibaba group']
 zeng19_interspeech	['temasek laboratories, nanyang technological university, singapore', 'school of computer science and engineering, nanyang technological university, singapore', 'department of electrical and computer engineering, national university of singapore, singapore']
 zhang19f_interspeech	['machine intelligence technology, alibaba group', 'school of computer science, northwestern polytechnical university']
-swarup19_interspeech	['prakhar swarup1, roland maas2, sri garimella1, sri harish mallidi2, bjorn hoffmeister2']
+swarup19_interspeech	
 zhang19g_interspeech	['machine intelligence technology, alibaba group']
 peyser19_interspeech	['google inc., u.s.a']
 bai19_interspeech	['nlpr, institute of automation, chinese academy of sciences, china', 'school of artificial intelligence, university of chinese academy of sciences, china', 'cas center for excellence in brain science and intelligence technology, china', 'jiangsu normal university, china']
@@ -447,7 +460,7 @@ lalonde19_interspeech	['boys town national research hospital, omaha, nebraska, u
 bentum19_interspeech	['center for language studies, radboud university, nijmegen, the netherlands', 'max planck institute for psycholinguistics, nijmegen, the netherlands', 'knaw meertens institute, amsterdam, the netherlands']
 bentum19b_interspeech	['center for language studies, radboud university, nijmegen, the netherlands', 'max planck institute for psycholinguistics, nijmegen, the netherlands', 'knaw meertens institute, amsterdam, the netherlands']
 turner19_interspeech	['northwestern university']
-bosch19b_interspeech	['l. ten bosch1, l boves1, k mulder1']
+bosch19b_interspeech	
 liu19e_interspeech	['† electrical and computer engineering, ryerson university, toronto, on, canada', '‡ shenzhen research institute of big data, the chinese university of hong kong, shenzhen, china', '§ univ. grenoble alpes, cnrs, grenoble inp*, gipsa-lab', ' grenoble, france', '* institute of engineering univ. grenoble alpes']
 yokoe19_interspeech	['sophia university, tokyo, japan']
 meyer19_interspeech	['univ. grenoble alpes, cnrs, gipsa-lab, france', 'the world whistles research association, paris, france', 'laboratoire de phonetique et phonologie (lpp), univ. paris 3/cnrs, paris, france']
@@ -490,7 +503,7 @@ medennikov19_interspeech	['stc-innovations ltd, st. petersburg, russia', 'itmo u
 chong19_interspeech	['institute for infocomm research, singapore 138632']
 jati19_interspeech	['university of southern california, los angeles, ca, usa']
 snyder19b_interspeech	['center for language and speech processing', 'human language technology center of excellence', 'johns hopkins university, baltimore, md, usa']
-huang19h_interspeech	['jonathan huang1, tobias bocklet1,2']
+huang19h_interspeech	
 sun19d_interspeech	['institute for infocomm research, a*star, singapore']
 liang19_interspeech	['lenovo research']
 wang19f_interspeech	['center for language and speech processing, johns hopkins university, usa', 'human language technology center of excellence, johns hopkins university, usa']
@@ -498,6 +511,7 @@ cai19c_interspeech	['data science research center, duke kunshan university, kuns
 hauptman19_interspeech	['afeka tel-aviv college of engineering, aclp, israel', 'movement disorders unit, dept of neurology, tel-aviv sourasky medical center, israel', 'ono academic college, faculty of health professions, communication sciences and disorders', 'department, kiryat ono, israel', 'sackler school of medicine, tel-aviv university, tel-aviv, israel,', 'sagol school of neuroscience, tel aviv university, israel']
 drioli19_interspeech	['department of mathematics, computer science and physics, university of udine, italy.', 'medical university of vienna, department of otorhinolaryngology, division of', 'phoniatrics-logopedics, vienna, austria.']
 kadiri19_interspeech	['department of signal processing and acoustics, aalto university, finland']
+cho19_interspeech	
 schoentgen19_interspeech	['bio-, electro- and mechanical systems, faculty of applied sciences, universite libre de', 'bruxelles, brussels, belgium', 'medical university of vienna, division of phoniatrics-logopedics, department of', 'otorhinolaryngology, vienna, austria']
 schaeffler19_interspeech	['clinical audiology, speech and language (casl) research centre, queen margaret university', 'edinburgh, scotland, uk', 'fitvoice cic, business innovation zone, university drive, musselburgh, scotland, uk']
 moore19b_interspeech	['arizona state university, united states']
@@ -509,7 +523,7 @@ okawa19_interspeech	['integrated graduate school of medicine engineering, and ag
 mulimani19_interspeech	['dept. of cse, national institute of technology karnataka, suarthkal, india', ' 025']
 shen19b_interspeech	['department of electronic engineering, tsinghua university, beijing 100084, china']
 ford19_interspeech	['computer science and artificial intelligence laboratory', 'massachusetts institute of technology', 'cambridge, ma, usa']
-reddy19b_interspeech	['microsoft corporation, redmond wa']
+reddy19b_interspeech	
 tarantino19_interspeech	['ecole polytechnique federale de lausanne, switzerland', 'artificial intelligence and machine learning group, swisscom', 'idiap research institute, martigny, switzerland']
 nachmani19_interspeech	['facebook ai research', 'the school of computer science, tel aviv university']
 lee19c_interspeech	['music & audio research group, seoul national university', 'center for super intelligence, seoul national university']
@@ -517,10 +531,11 @@ yi19_interspeech	['national engineering laboratory for speech and language infor
 dahmani19_interspeech	['universite de lorraine, cnrs, inria, loria, f-54000 nancy, france']
 ayllon19b_interspeech	['oben inc., ca, usa']
 biasuttolervat19_interspeech	['universite de lorraine, cnrs, inria, loria, f-54000 nancy, france']
-park19e_interspeech	['daniel s park1∗, william chan2, yu zhang1, chung-cheng chiu1,', 'barret zoph1, ekin d cubuk1, quoc v le1']
+park19e_interspeech	
 audhkhasi19_interspeech	['ibm research ai, ibm t j. watson research center, yorktown heights, ny 10598']
 miao19_interspeech	['key laboratory of speech acoustics and content understanding, institute of acoustics, china', 'university of chinese academy of sciences, china', 'xinjiang laboratory of minority speech and language information processing, xinjiang technical', 'institute of physics and chemistry, chinese academy of sciences, china']
 zhang19h_interspeech	['ibm research']
+zhang19i_interspeech	
 menne19_interspeech	['human language technology and pattern recognition, computer science department,', 'rwth aachen university', ' aachen, germany', 'apptek gmbh', ' aachen, germany']
 novak19_interspeech	['university of illinois at chicago, united states of america']
 shi19_interspeech	['university of illinois at urbana-champaign, usa', 'beijing language and culture university, china']
@@ -532,6 +547,7 @@ yusuf19b_interspeech	['bogazici university']
 yang19e_interspeech	['columbia university, usa']
 wang19g_interspeech	['department of electrical and computer engineering, university of illinois, urbana champaign', 'beckman institute, university of illinois, urbana champaign']
 boito19_interspeech	"[""laboratoire d'informatique de grenoble, univ. grenoble alpes (uga), france"", 'school of computer science and electronic engineering, university of essex, uk', 'institute of informatics, federal university of rio grande do sul, brazil']"
+xue19b_interspeech	['jd ai research']
 grondin19_interspeech	['computer science and artificial intelligence laboratory', 'massachusetts institute of technology', 'cambridge, ma 02139, usa']
 zhang19j_interspeech	['moe key lab of artificial intelligence', 'speechlab, department of computer science and engineering', 'shanghai jiao tong university, shanghai, china']
 masuyama19_interspeech	['department of intermedia art and science, waseda university, tokyo, japan', 'line corpolation, tokyo, japan']
@@ -568,7 +584,7 @@ gao19b_interspeech	['department of computer science and engineering, new york un
 stafylakis19_interspeech	['omilia - conversational intelligence, athens, greece', 'brno university of technology, faculty of information technology, it4i centre of excellence,', 'czechia']
 nautsch19b_interspeech	['audio security and privacy, digital security department, eurecom, france', 'cryptography and privacy engineering, department of computer science, tu darmstadt, germany', 'omilia – conversational intelligence, greece']
 liu19f_interspeech	['tsinghua national laboratory for information science and technology,', 'department of electronic engineering, tsinghua university, beijing 100084, china']
-hajavi19_interspeech	['amirhossein hajavi1, ali etemad1,2']
+hajavi19_interspeech	
 zhou19_interspeech	['school of electronic science and engineering, xiamen university, china', 'school of information science and engineering, xiamen university, china']
 shon19b_interspeech	['mit computer science and artificial intelligence laboratory, cambridge, ma, usa']
 avila19_interspeech	['inrs-emt, university of quebec, canada', 'computer research institut of montreal (crim), canada']
@@ -579,6 +595,7 @@ marras19_interspeech	['university of cagliari, cagliari, italy', 'new york unive
 gunendradasan19_interspeech	['school of electrical engineering and telecommunications, unsw, australia', 'atp research laboratory, data61, csiro, australia', 'national university of singapore, singapore']
 yun19_interspeech	['qualcomm ai research†, qualcomm korea yh']
 seo19_interspeech	['dept. of computer science and engineering, sogang university, republic of korea']
+you19c_interspeech	
 wang19i_interspeech	['moe key lab of artificial intelligence', 'speechlab, department of computer science and engineering', 'shanghai jiao tong university, shanghai, china']
 kanagasundaram19_interspeech	['department of electrical & electronic engineering, university of jaffna, sri lanka', 'speech and audio research lab, saivt, queensland university of technology, australia', 'leap lab, indian institute of science, india']
 chen19i_interspeech	['center for language and speech processing', 'johns hopkins university, baltimore, md, usa']
@@ -591,13 +608,14 @@ farooq19_interspeech	['center for language engineering,', 'al-khawarizmi institu
 tang19b_interspeech	['nuance communications, bellevue, washington, usa']
 szaszak19_interspeech	['telepathy labs gmbh, zurich, switzerland', 'budapest university of technology and economics, budapest, hungary', 'nokia solutions and networks ltd, budapest, hungary']
 pellegrini19_interspeech	['irit, universite paul sabatier, cnrs, toulouse, france', 'airbus, toulouse, france']
+oneata19_interspeech	
 wang19j_interspeech	['center for language and speech processing, the johns hopkins university, usa', 'human language technology center of excellence, the johns hopkins university, usa']
 biswas19_interspeech	['department of electrical and electronic engineering, stellenbosch university, south africa']
 helgadottir19_interspeech	['reykjavik university', 'language and voice lab']
 gupta19d_interspeech	['centre de recherche informatique de montreal (crim)']
 rutowski19_interspeech	['ellipsis health, inc.']
 pietrowicz19_interspeech	['ibm thomas j watson research center', 'icahn school of medicine at mount sinai', 'bronx va mirecc']
-jeancolas19_interspeech	['1samovar, cnrs, télécom sudparis, institut polytechnique de paris, evry, france', 'sorbonne universite, upmc univ paris 06 umr s 1127; inserm u 1127 and cic 1422; cnrs', 'umr 7225, paris, france', '3département de neurologie, groupe hospitalier pitié-salpêtrière, ap-hp, paris, france', '4icm - institut du cerveau et de la moelle epiniere, paris, france', 'perform centre, electrical & computer engineering department concordia university,', 'montreal, canada']
+jeancolas19_interspeech	['samovar, cnrs, télécom sudparis, institut polytechnique de paris, evry, france', 'sorbonne universite, upmc univ paris 06 umr s 1127; inserm u 1127 and cic 1422; cnrs', 'umr 7225, paris, france', 'département de neurologie, groupe hospitalier pitié-salpêtrière, ap-hp, paris, france', 'icm - institut du cerveau et de la moelle epiniere, paris, france', 'perform centre, electrical & computer engineering department concordia university,', 'montreal, canada']
 janbakhshi19_interspeech	['idiap research institute, speech, and audio processing group, martigny, switzerland', 'ecole polytechnique federale de lausanne, lausanne, switzerland']
 pasquale19_interspeech	['technological university dublin, ireland', 'university of the west of scotland, uk']
 rueda19_interspeech	['orozco-arroyave2,3, sridhar krishnan1, elmar n¨oth3', 'department of electrical and computer engineering, ryerson university, canada', 'faculty of engineering, universidad de antioquia, colombia', 'pattern recognition lab, friedrich-alexander-university erlangen-nuremberg, germany']
@@ -636,6 +654,7 @@ khare19_interspeech	['ibm research', 'university of copenhagen']
 soomro19_interspeech	['school of computing, university of eastern finland, joensuu, finland']
 ding19b_interspeech	['university of science and technology of china, hefei 230026, china', 'microsoft research asia, beijing 100080, china']
 lopezespejo19_interspeech	['department of electronic systems, aalborg university, denmark', 'oticon a/s, denmark']
+doulaty19_interspeech	['microsoft, germany', 'university of sheffield, uk']
 li19o_interspeech	['key laboratory of speech acoustics and content understanding, institute of acoustics,', 'xinjiang laboratory of minority speech and language information processing, xinjiang technical', 'institute of physics and chemistry, chinese academy of sciences, china', 'university of chinese academy of sciences']
 suzuki19b_interspeech	['faculty of information science and technology, osaka institute of technology, japan']
 hsu19b_interspeech	['computer science and artificial intelligence laboratory', 'massachusetts institute of technology', 'cambridge, ma, usa']
@@ -678,7 +697,7 @@ gupta19e_interspeech	['department of electronics and electrical engg', 'indian i
 mittag19_interspeech	['quality and usability lab, technische universitat berlin, berlin, germany', 'deutsches forschungszentrum fur kunstliche intelligenz (dfki), berlin, germany']
 chai19b_interspeech	['school of data science, university of science and technology of china, hefei, anhui, p r. china', 'university of science and technology of china, hefei, anhui, p r. china', 'georgia institute of technology, atlanta, ga. usa']
 moller19_interspeech	['quality and usability lab, technische universitat berlin, germany', 'deutsches forschungszentrum fur kunstliche intelligenz (dfki), berlin, germany', 'orange, lannion, france', 'nippon telegraph and telephone corporation, japan']
-sadhu19_interspeech	['samik sadhu1, hynek hermansky1,2']
+sadhu19_interspeech	
 li19r_interspeech	['moe key lab of artificial intelligence', 'speechlab, department of computer science and engineering', 'shanghai jiao tong university, shanghai, china']
 agrawal19_interspeech	['learning and extraction of acoustic patterns (leap) lab, dept. of electrical engg.,', 'indian institute of science, bengaluru-560012, india']
 ramsay19_interspeech	['mit media laboratory, usa', 'google ai, switzerland']
@@ -696,6 +715,8 @@ yu19b_interspeech	['the chinese university of hong kong, hong kong sar, china']
 agenbag19_interspeech	['department of electrical and electronic engineering', 'stellenbosch university, south africa']
 coucheirolimeres19_interspeech	['ferreiros-lopez1', 'speech technology group, universidad politecnica de madrid, spain']
 gao19d_interspeech	['china mobile research']
+ritchie19_interspeech	
+sharma19e_interspeech	
 sennema19_interspeech	['university of vienna, austria', 'university of amsterdam, the netherlands']
 lewis19_interspeech	['department of linguistics, queen mary university of london']
 jenne19_interspeech	['institute for natural language processing (ims)', 'universitat stuttgart, germany']
@@ -720,10 +741,10 @@ shi19c_interspeech	['toyota technological institute at chicago', 'amazon alexa r
 chen19m_interspeech	['hikvision research institute, hangzhou, china']
 zhang19k_interspeech	['ibm research - china, beijing 100193']
 lu19e_interspeech	['institute for infocomm research, a*star, singapore']
-mizgajski19_interspeech	['augustyniak12, mikolaj morzy13, yishay carmiel1, jeff hodson1, lukasz wojciak1,', 'adam wrobel1, bartosz borowik1, adam artajew1, marcin baran1,', '˙zyla-hoppe1', 'avaya, santa clara, california, united states', 'wroclaw university of science and technology, wroclaw, poland', 'poznan university of technology, poznan, poland', 'agh university of science and technology, krakow, poland']
+mizgajski19_interspeech	['augustyniak12, mikolaj morzy13, yishay carmiel1, jeff hodson1, lukasz wojciak1,', 'adam wrobel1, bartosz borowik1, adam artajew1, marcin baran1,', 'zyla-hoppe1', 'avaya, santa clara, california, united states', 'wroclaw university of science and technology, wroclaw, poland', 'poznan university of technology, poznan, poland', 'agh university of science and technology, krakow, poland']
 an19b_interspeech	['game dev. ai team, narc, netmarble, south korea', 'game contents ai team, narc, netmarble, south korea', 'magellan division, narc, netmarble, south korea']
 chylek19_interspeech	['new technologies for the information society (ntis)', 'faculty of applied sciences, university of west bohemia, czech republic']
-jelil19_interspeech	['sarfaraz jelil1, abhishek shrivastava2, rohan kumar das3, s r. m prasanna1,4, rohit sinha1']
+jelil19_interspeech	
 wu19h_interspeech	['department of electrical and computer engineering, national university of singapore, singapore', 'institute for infocomm research, a*star, singapore']
 hu19c_interspeech	['chung1, to ka hei1, jianwei yu1, ka ho wong1, xunying liu1, helen meng1', 'the chinese university of hong kong, hong kong sar, china', 'university of cambridge, cambridge, uk']
 schiel19_interspeech	['institute of phonetics and speech processing, lmu munich, germany']
@@ -738,6 +759,7 @@ szekely19_interspeech	['division of speech, music and hearing, kth royal institu
 kessler19_interspeech	['rochester institute of technology']
 bernardo19_interspeech	['trancoso2,3', 'unbabel, lisboa, portugal', 'instituto superior tecnico, universidade de lisboa, lisboa, portugal', 'spoken language systems laboratory, inesc-id lisboa, lisboa, portugal']
 rabiee19_interspeech	['kaist institute for artificial intelligence', 'korea advanced institute of technology, daejeon, korea']
+nautsch19c_interspeech	
 srivastava19_interspeech	['inria, france', 'universite de lille, france', 'universite de lorraine, cnrs, inria, loria, f-54000 nancy, france']
 nelus19_interspeech	['ruhr-universitat bochum, institute of communication acoustics, bochum, germany']
 nelus19b_interspeech	['ruhr-universitat bochum, institute of communication acoustics, bochum, germany', 'universitat paderborn, fachgebiet nachrichtentechnik, paderborn, germany']
@@ -759,7 +781,7 @@ hannun19_interspeech	['facebook ai research, usa']
 baskar19_interspeech	['φbrno university of technology, czech republic', 'πibm t j. watson research center, usa', '†johns hopkins university, usa', 'υmerl, usa']
 bai19c_interspeech	['nlpr, institute of automation, chinese academy of sciences, china', 'school of artificial intelligence, university of chinese academy of sciences, china', 'cas center for excellence in brain science and intelligence technology']
 irie19_interspeech	['human language technology and pattern recognition group, computer science department', 'rwth aachen university, d-52056 aachen, germany', 'google, mountain view, ca 94043, usa']
-weninger19b_interspeech	['felix weninger1, jesus andres-ferrer2, xinwei li1, puming zhan1']
+weninger19b_interspeech	
 runarsdottir19_interspeech	['language and voice lab, reykjavik university, menntavegur 1', ' reykjavik, iceland']
 fukunaga19_interspeech	['sony corporation, japan']
 jorge19_interspeech	['departament de sistemes informatics i computacio, universitat politecnica de valencia, spain']
@@ -777,12 +799,13 @@ morovelazquez19_interspeech	['center for language and speech processing, the joh
 wang19m_interspeech	"['cas key laboratory of human-machine intelligence-synergy systems, shenzhen institutes of', 'advanced technology, chinese academy of sciences, shenzhen, china', ""department of neurology, shenzhen luohu people's hospital, shenzhen, china"", 'speech science laboratory, university of hong kong, hong kong, china']"
 wang19n_interspeech	['department of electronic engineering, the chinese university of hong kong, hong kong']
 korzekwa19_interspeech	['lajszczak1', 'amazon tts-research', 'gdansk university of technology, faculty of eti, poland']
+noufi19_interspeech	
 ogawa19_interspeech	['ntt communication science laboratories, ntt corporation, kyoto, japan']
 irie19b_interspeech	['human language technology and pattern recognition group, computer science department', 'rwth aachen university', ' aachen, germany', 'apptek gmbh', ' aachen, germany']
 raju19_interspeech	['amazon alexa']
 likhomanenko19_interspeech	['facebook ai research, menlo park & new york, usa']
 latif19_interspeech	['university of southern queensland, australia', 'distributed sensing systems group, data61, csiro australia', 'university of new south wales, australia']
-sarma19_interspeech	['mousmita sarma1, pegah ghahremani2, daniel povey2 3, nagendra kumar goel4,', 'kandarpa kumar sarma1, najim dehak2']
+sarma19_interspeech	
 cao19_interspeech	['department of computer science and technology, university of science and technology beijing,', 'beijing, china']
 oates19_interspeech	['audeering gmbh, gilching, germany', 'zd.b chair of embedded intelligence for health care and wellbeing, university of augsburg,', 'germany', 'glam – group on language, audio & music, imperial college london, uk']
 gosztolya19c_interspeech	['mta-szte research group on artificial intelligence, szeged, hungary']
@@ -829,6 +852,7 @@ razavi19_interspeech	['university of rochester']
 bechet19_interspeech	['aix marseille univ, universite de toulon, cnrs, lis, marseille, france', 'insa rennes, irisa, rennes,france']
 liu19l_interspeech	['atr hiroshi ishiguro labs, japan', 'graduate school of engineering science, osaka university']
 coman19_interspeech	['signals and interactive systems lab, department of information engineering and computer', 'science, university of trento, italy', 'augmented human communication laboratory, graduate school of information science, nara', 'institute of science and technology, japan']
+su19b_interspeech	
 heldner19_interspeech	['department of linguistics, stockholm university, sweden', 'constantine the philosopher university in nitra, slovakia', 'institute of informatics, slovak academy of sciences, bratislava, slovakia', 'departamento de computacion, fceyn, universidad de buenos aires (uba), argentina', 'instituto de investigacion en ciencias de la computacion (icc), conicet-uba, argentina']
 hara19_interspeech	['school of informatics, kyoto university, kyoto, japan']
 lala19_interspeech	['kyoto university, graduate school of informatics, kyoto, japan']
@@ -862,7 +886,7 @@ vinals19b_interspeech	['vivolab, aragon institute for engineering research (i3a)
 tu19_interspeech	['department of electronic and information engineering, the hong kong polytechnic university,', 'hong kong sar', 'department of electrical and computer engineering, national chiao tung university, taiwan']
 liu19m_interspeech	['department of electrical and computer engineering,', 'national university of singapore, singapore']
 nandwana19c_interspeech	['speech technology and research laboratory, sri international, menlo park, california, usa', 'instituto de investigacon en ciencias de la computacion, uba-conicet, argentina']
-novotny19_interspeech	['ondrej novotny, oldrich plchot, ondrej glembek and lukas burget']
+novotny19_interspeech	
 salvati19_interspeech	['department of mathematics, computer science and physics, university of udine']
 naini19_interspeech	['electrical engineering, indian institute of science, bangalore 560012, india']
 zhu19b_interspeech	['department of computer science & engineering', 'the hong kong university of science & technology', 'department of computer science and engineering', 'south university of science and technology, shenzhen, china']
@@ -882,7 +906,7 @@ moriya19_interspeech	['ntt media intelligence laboratories, ntt corporation, jap
 parcollet19b_interspeech	['avignon universite, lia, france', 'orkis, aix-en-provence, france', 'mcgill university, montreal, qc, canada']
 yi19b_interspeech	['institute of automation, chinese academy of sciences, china', 'university of chinese academy of sciences, china']
 denisov19_interspeech	['institute for natural language processing (ims), university of stuttgart']
-hayashi19_interspeech	['tomoki hayashi1, shinji watanabe2, tomoki toda1, kazuya takeda1', 'shubham toshniwal3, karen livescu3']
+hayashi19_interspeech	
 szekely19b_interspeech	['division of speech, music and hearing, kth royal institute of technology, stockholm, sweden']
 klimkov19_interspeech	['amazon research, cambridge']
 hussain19_interspeech	['koc university, turkey']
@@ -901,7 +925,7 @@ connaghan19_interspeech	['speech and feeding disorders lab, mgh institute of hea
 rowe19_interspeech	['massachusetts general hospital institute of health professions']
 mayle19_interspeech	['school of electrical engineering and computer science, ohio university, athens, oh, usa', 'department of rehabilitation, first affiliated hospital of jinan university, guangzhou, china', 'school of rehabilitation and communication sciences, ohio university, athens, oh, usa']
 sudro19_interspeech	['indian institute of technology guwahati, guwahati, india', 'indian institute of technology dharwad, dharwad, india']
-eshghi19_interspeech	['mgh institute of health professions, usa', '2university of kansas, usa', '3 vanderbilt university, usa', 'university of toronto, canada']
+eshghi19_interspeech	['mgh institute of health professions, usa', 'university of kansas, usa', 'vanderbilt university, usa', 'university of toronto, canada']
 wang19q_interspeech	"['cas key laboratory of human-machine intelligence-synergy systems, shenzhen institutes of', 'advanced technology, chinese academy of sciences, shenzhen, china', ""department of neurology, shenzhen luohu people's hospital, shenzhen, china"", ""department of neurology, shenzhen people's hospital, shenzhen, china""]"
 chen19p_interspeech	['shanghai international studies university, china', 'shenzhen university, china', 'shanghai sunshine rehabilitation center, china']
 hermes19_interspeech	['laboratoire de phonetique et phonologie, umr 7018, cnrs/sorbonne-nouvelle, france', 'ifl – phonetics, university of cologne, germany', 'department of neurology, university hospital cologne, germany']
@@ -923,5 +947,6 @@ shi19f_interspeech	['fujitsu research and development center', 'fujitsu laborato
 lluis19_interspeech	['music technology group, universitat pompeu fabra, barcelona.']
 foley19_interspeech	['the university of queensland, australia', 'arc centre of excellence for the dynamics of language (coedl), australia']
 gruber19b_interspeech	['new technologies for the information society (ntis)', 'faculty of applied sciences, university of west bohemia, czech republic']
+huang19k_interspeech	
 dikici19_interspeech	['sail labs technology gmbh, austria']
 goel19b_interspeech	['go-vivace inc., mclean, va, usa']

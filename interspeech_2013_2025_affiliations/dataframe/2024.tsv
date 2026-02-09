@@ -175,7 +175,7 @@ xin24_interspeech	['school of ece, peking university, shenzhen, china']
 sato24_interspeech	['ashihara1, atsushi ando1, kentaro shinayama1, marc delcroix1', 'ntt corporation, japan']
 monaghan24_interspeech	['easwar1,2, padraig kitterick1,2', 'national acoustic laboratories, australia', 'macquarie university, australia']
 zaitova24_interspeech	['saarland university, germany']
-turetzky24_interspeech	['cohen2, yosi shrem2, bronya r chernyak2, olga seleznova2, joseph keshet2, yossi adi1', 'the hebrew university of jerusalem, israel', 'technion, israel institute of technology']
+turetzky24_interspeech	['cohen2, yosi shrem2, bronya roni chernyak2, olga seleznova2, joseph keshet2, yossi adi1', 'the hebrew university of jerusalem, israel', 'technion, israel institute of technology']
 xue24_interspeech	['language science and techonology, saarland university, germany']
 yan24_interspeech	['ai lab, xiaomi corporation, china']
 wang24l_interspeech	"['national institute of informatics, japan', 'school of computing, university of eastern finland,', 'finland', 'department of electrical and electronic engineering, the hong kong polytechnic', 'university, hong kong', ""laboratoire informatique d'avignon, avignon universite, france""]"
@@ -947,7 +947,7 @@ feng24d_interspeech	['nagoya university, japan']
 heuser24b_interspeech	['university of pennsylvania, usa']
 delafuente24_interspeech	['stanford university']
 ma24d_interspeech	"['xu1, huan zhao1, binbin zhang4, lei xie1,∗', ""school of computer science, northwestern polytechnical university, xi'an, china"", 'shenzhen research institute of big data', 'school of data science,', 'the chinese university of hong kong, shenzhen (cuhk-shenzhen), china', 'wenet open source community, china']"
-dumpala24b_interspeech	['sri harsha dumpala1,2,', 'katerina dikaios3,', 'abraham nunes1,', 'frank rudzicz1,2,', 'rudolf uher1,4,', 'sageev oore1,2']
+dumpala24b_interspeech	
 chen24w_interspeech	['college of computer science, inner mongolia university, china', 'inner mongolia key laboratory of mongolian information processing technology']
 baser24_interspeech	['department of electrical and computer engineering, the university of texas at austin, usa', 'department of electrical and electronics engineering, bogazici university, turkey']
 shi24i_interspeech	['nagoya university, japan', 'hainan university, china']
@@ -1060,3 +1060,7 @@ yoder24_interspeech	['university of illinois urbana-champaign, united states of 
 phan24b_interspeech	['aalto university, finland', 'university of helsinki, finland', 'university of jyvaskyla, finland']
 akhtar24_interspeech	['school of computer science, upes, dehradun, india', 'iiit-delhi, india,', 'carl, isrc, scei, ulster university', '*equal contribution']
 phukan24c_interspeech	['iiit-delhi, india', 'ggsipu new delhi, india', 'bit mesra, india', 'isrc, ulster university, uk', 'university of tartu, estonia, *equal contribution']
+trancoso24_interspeech	
+araki24_interspeech	
+noeth24_interspeech	
+tillmann24_interspeech	

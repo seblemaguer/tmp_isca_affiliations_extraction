@@ -32,6 +32,7 @@ rajan20_interspeech	['college of engineering, trivandrum, kerala,india', 'rajiv 
 dai20_interspeech	['school of information science, beijing language and culture university, china', 'institute of acoustics and speech communication, tu dresden, germany', 'national laboratory of pattern recognition, institute of automation, chinese academy of', 'sciences, china', 'mig, tencent science and technology ltd., beijing, china']
 hu20_interspeech	['utrecht university, the netherlands', 'digital humanities lab, utrecht university, the netherlands', 'avans university of applied sciences, the netherlands', 'radboud university, the netherlands']
 gresse20_interspeech	['lia, avignon university, france']
+yegnanarayana20_interspeech	
 gump20_interspeech	['computer science and artificial intelligence laboratory', 'massachusetts institute of technology', 'cambridge, ma, usa']
 tran20_interspeech	['microsoft corporation']
 setlur20_interspeech	['†carnegie mellon university']
@@ -52,8 +53,8 @@ lo20_interspeech	['national taiwan normal university']
 knill20_interspeech	['alta institute, cambridge university engineering department', 'trumpington street, cambridge, cb2 1pz, uk.']
 kathania20_interspeech	['department of signal processing and acoustics, aalto university, finland']
 shahin20_interspeech	['unsw, school of electrical engineering and telecommunications, sydney, australia', 'data61, csiro, tasmania, australia']
-horiguchi20_interspeech	['shota horiguchi1, yusuke fujita1, shinji watanabe2, yawen xue1, kenji nagamatsu1']
-medennikov20_interspeech	['ivan medennikov1,2, maxim korenevsky1, tatiana prisyach1, yuri khokhlov1,', 'mariya korenevskaya1, ivan sorokin1, tatiana timofeeva1, anton mitrofanov1,', 'andrei andrusenko2, ivan podluzhny1, aleksandr laptev2, aleksei romanenko1,2']
+horiguchi20_interspeech	
+medennikov20_interspeech	
 aronowitz20_interspeech	['ibm research ai, haifa, israel', 'ibm research ai, yorktown heights, new york, usa', 'ibm research ai, tokyo, japan']
 lin20_interspeech	['data science research center, duke kunshan university, kunshan, china', 'school of computer science, wuhan university, wuhan, china', 'school of electronics and information technology, sun yat-sen university, guangzhou, china']
 wang20b_interspeech	['university of toronto, canada', 'vector institute, canada', 'microsoft, usa']
@@ -72,12 +73,13 @@ deadman20_interspeech	['department of computer science, university of sheffield,
 botelho20_interspeech	['inesc-id/instituto superior tecnico (ist), university of lisbon, portugal', 'cognitive systems lab (csl), university of bremen, germany', 'chair of embedded intelligence for health care and wellbeing, universitat augsburg, germany', 'glam – group on language, audio, & music, imperial college london, uk']
 zhang20c_interspeech	['department of computer science, columbia university, usa']
 pan20b_interspeech	['institute of data science, nus, singapore', 'graduate school for integrative sciences and engineering, nus, singapore', 'department of electrical and computer engineering,', 'national university of singapore (nus), singapore', 'osaka university, osaka, japan']
-shen20_interspeech	['guang shen1, riwei lai1, rui chen1∗, yu zhang2, kejia zhang1, qilong han1, hongtao song1']
+shen20_interspeech	
 chen20b_interspeech	['zhejiang university, no.38 zheda road, hangzhou, china', 'hithink royalflush information network co., ltd., hangzhou, china']
 liu20b_interspeech	['speechx limited, shenzhen, china', 'the chinese university of hong kong, hong kong sar, china']
 khare20_interspeech	['amazon.com, sunnyvale, ca']
 li20d_interspeech	['department of electrical engineering, national tsing hua university', 'most joint research center for ai technology and all vista healthcare']
 lian20b_interspeech	['national laboratory of pattern recognition, casia, beijing', 'cas center for excellence in brain science and intelligence technology, beijing', 'school of artificial intelligence, university of chinese academy of sciences, beijing']
+yang20b_interspeech	
 gutkin20_interspeech	['google research, london, united kingdom', 'british library, london, united kingdom']
 ha20_interspeech	['naver ai lab, naver corp., korea', 'naver clova, naver corp., korea', 'hankuk university of foreign studies, korea', 'the hong kong university of science and technology']
 wang20d_interspeech	['laix inc.', 'baidu research', 'shanghai key laboratory of artificial intelligence in learning and cognitive science']
@@ -93,9 +95,11 @@ li20f_interspeech	['school of electronic science and engineering, xiamen univers
 chowdhury20_interspeech	['qatar computing research institute, hbku, doha, qatar', 'asapp inc., new york, ny, usa', 'mit computer science and artificial intelligence laboratory, cambridge, ma, usa']
 lindgren20_interspeech	['department of signal processing and acoustics, aalto university, finland', 'department of digital humanities, university of helsinki, finland']
 alvarez20_interspeech	['universidad politecnica de madrid', 'university of hawaii at manoa', 'university of arizona']
-abdullah20_interspeech	['badr m abdullah1,2, tania avgustinova2, bernd m¨obius2, dietrich klakow1,2']
+abdullah20_interspeech	
+tits20_interspeech	
 hu20b_interspeech	['universite de lorraine, cnrs, inria, loria, f-54000 nancy, france', 'https://gitlab.inria.fr/kaldi.web/kaldi-wasm']
 kelly20_interspeech	['soapbox labs, dublin, ireland']
+kelly20b_interspeech	
 kulebi20_interspeech	['col·lectivat', 'universitat pompeu fabra', 'universitat politecnica de catalunya']
 ramanarayanan20b_interspeech	['∗modality.ai, inc.', '† university of california, san francisco', 'www.modality.ai']
 lin20b_interspeech	['department of applied mathematics, university of washington, seattle, usa', 'department of electrical & computer engineering, university of washington, seattle, usa']
@@ -103,6 +107,7 @@ ren20_interspeech	"['chair of embedded intelligence for health care and wellbein
 feng20_interspeech	['graduate school of informatics, kyoto university, sakyo-ku, kyoto, japan']
 su20_interspeech	['department of electrical engineering, national tsing hua university', 'most joint research center for ai technology and all vista healthcare']
 mallolragolta20_interspeech	"['eihw – chair of embedded intelligence for health care & wellbeing, university of augsburg, germany', ""department of biostatistics and health informatics, ioppn, king's college london, uk"", 'glam – group on language, audio, & music, imperial college london, uk']"
+sridhar20_interspeech	
 latif20_interspeech	['university of southern queensland, australia', 'distributed sensing systems group, data61, csiro australia', 'information technology university, lahore, pakistan', 'university of new south wales, australia', 'queensland university of technology, australia', 'glam – group on language, audio, & music, imperial college london, uk', 'chair of embedded intelligence for health care and wellbeing, university of augsburg, germany']
 dissanayake20_interspeech	['augmented human lab, auckland bioengineering institute, the university of auckland', 'empathic computing lab, auckland bioengineering institute, the university of auckland']
 mao20_interspeech	['department of electronic engineering, the chinese university of hong kong, hong kong']
@@ -111,27 +116,32 @@ kumar20_interspeech	['microsoft corporation, redmond, wa']
 moriya20_interspeech	['ntt corporation, japan']
 tuske20_interspeech	['ibm research ai, yorktown heights, usa']
 chen20c_interspeech	['google', 'simon fraser university']
-shao20_interspeech	['yiwen shao1, yiming wang1, daniel povey3, sanjeev khudanpur1,2']
+shao20_interspeech	
 an20_interspeech	['speech processing and machine intelligence (spmi) lab, tsinghua university, china']
 inaguma20_interspeech	['graduate school of informatics, kyoto university, kyoto, japan']
 houston20_interspeech	['amazon, seattle, washington, usa']
 song20b_interspeech	['tsinghua shenzhen international graduate school, tsinghua university, shenzhen, china', 'the chinese university of hong kong, shatin, n.t., hong kong sar, china', 'tencent ai lab, shenzhen, china']
 stan20_interspeech	['communications department', 'technical university of cluj-napoca, romania']
+shangguan20_interspeech	
 liu20c_interspeech	['facebook ai, menlo park, ca, usa']
 ramakrishna20_interspeech	['signal analysis and interpretation laboratory, university of southern california,', 'los angeles, ca']
+fan20_interspeech	
+woodward20_interspeech	
 ali20_interspeech	['qatar computing research institute, hbku, doha, qatar', 'centre for speech technology research, university of edinburgh, uk']
 ludusan20_interspeech	['phonetics workgroup, faculty of linguistics and literary studies & citec,', 'bielefeld university, germany']
 martin20_interspeech	['department of linguistics, university of florida, gainesville, fl, u.s.a.', '-5454']
-zellou20_interspeech	['georgia zellou1, rebecca scarborough2, and renee kemp1']
+zellou20_interspeech	
 lorin20_interspeech	"[""departement d'etudes cognitives, ecole normale superieure, psl university, paris, france"", 'scuola normale superiore, pisa, italy', 'laboratoire des systemes perceptifs, cnrs umr 8248, ecole normale superieure, psl university,', 'paris, france']"
 luo20_interspeech	['shanghai international studies university']
 yue20_interspeech	['department of linguistics, graduate school, university of chinese academy of social sciences', 'institute of linguistics, chinese academy of social sciences']
 wang20f_interspeech	['school of foreign languages, east china university of science and technology, shanghai, china']
 zellers20_interspeech	['institute for scandinavian studies, frisian studies and general linguistics,', 'kiel university, germany', 'signal processing and speech communication laboratory, graz university of technology, austria']
 huang20b_interspeech	['institute of linguistics, national tsing hua university']
+li20g_interspeech	
+wilkins20_interspeech	
 li20h_interspeech	['school of electrical engineering and telecommunications, unsw australia', 'data61, csiro, australia']
 lu20_interspeech	['amazon.com']
-caseiro20_interspeech	['diamantino caseiro, pat rondon, quoc-nam le the, petar aleksic']
+caseiro20_interspeech	
 mao20b_interspeech	['uc san diego']
 geng20_interspeech	['the chinese university of hong kong', 'shenzhen institutes of advanced technology, chinese academy of sciences']
 wei20_interspeech	['ping an technology (shenzhen) co., ltd.']
@@ -146,25 +156,26 @@ mun20_interspeech	['department of electrical and computer engineering and the in
 alumae20_interspeech	['tallinn university of technology, estonia']
 shen20b_interspeech	['national institute of information and communications technology, japan']
 thienpondt20_interspeech	['idlab, department of electronics and information systems, ghent university - imec, belgium']
-lozanodiez20_interspeech	['alicia lozano-diez, anna silnova, bhargav pulugundla, johan rohdin, karel vesely, lukas burget,', 'oldrich plchot, ondrej glembek, ondrej novotny, pavel matejka']
+lozanodiez20_interspeech	
 ravi20_interspeech	['university of california los angeles, usa']
 zhang20d_interspeech	['national engineering laboratory for speech and language information processing,', 'university of science and technology of china, hefei, p.r.china']
 ding20_interspeech	['department of computer science and engineering, texas a&m university, usa']
 li20i_interspeech	['college of telecommunication & information engineering, njupt, nanjing, p.r. china', 'school of software engineering, jit, nanjing, p.r. china', 'vivo ai lab, shenzhen, p.r. china']
 polyak20_interspeech	['facebook ai research', 'the school of computer science, tel aviv university']
 zhang20e_interspeech	['singapore r&d, yitu technology', 'school of computing, national university of singapore']
-wang20g_interspeech	['tao wang1,2, jianhua tao1,2,3, ruibo fu1,2, jiangyan yi1, zhengqi wen1, rongxiu zhong1,2']
-polyak20b_interspeech	['adam polyak1,2∗, lior wolf1,2, yossi adi1, yaniv taigman1']
+wang20g_interspeech	
+polyak20b_interspeech	
 ishihara20_interspeech	['gree inc.', 'the university of tokyo']
 cong20_interspeech	"[""northwestern polytechnical university, xi'an, china"", 'meituan-dianping group, beijing, china']"
 hong20_interspeech	['adsplab, school of ece, peking university, shenzhen, china', 'peng cheng laboratory, shenzhen, china', 'center for vision, speech and signal processing, university of surrey, uk']
 wang20h_interspeech	['adsplab, school of ece, peking university, shenzhen, china', 'peng cheng laboratory, shenzhen, china', 'center for vision, speech and signal processing, university of surrey, uk']
 wang20i_interspeech	['deepmind']
-pankajakshan20_interspeech	['arjun pankajakshan1, helen l bear1, vinod subramanian1, emmanouil benetos1,2']
+pankajakshan20_interspeech	
 kim20_interspeech	['korea university, south korea', 'army research lab, usa']
 zheng20_interspeech	['national engineering laboratory for speech and language information processing,', 'university of science and technology of china, hefei, china.', 'ict cluster, singapore institute of technology, singapore', 'iflytek research, iflytek co., ltd, hefei, china']
 kao20_interspeech	['alexa speech, amazon.com inc.', 'toyota technological institute at chicago']
-park20b_interspeech	['inyoung park1 and hong kook kim1,2']
+chang20_interspeech	
+park20b_interspeech	
 jindal20_interspeech	['manipal academy of higher education, india', 'massachusetts institute of technology, usa', 'netaji subhas institute of technology, india', 'indraprastha institute of information technology, india']
 radfar20_interspeech	['alexa machine learning, amazon']
 liu20e_interspeech	['moe key lab of artificial intelligence, ai institute, shanghai jiao tong university', 'speechlab, department of computer science and engineering', 'shanghai jiao tong university, shanghai']
@@ -199,6 +210,7 @@ kawamura20_interspeech	['himeji dokkyo university, japan', 'konan university, ja
 choi20_interspeech	['sungkyunkwan university', 'hanyang university', 'electronics and telecommunications research institute']
 xie20_interspeech	['advanced innovation center for language resource and intelligence, beijing language and', 'culture university, beijing, china;', 'yunfan hailiang (beijing) technology co., ltd, beijing, china']
 udayakumar20_interspeech	['samsung research and development institute, bangalore, india']
+shi20_interspeech	
 saeki20_interspeech	['graduate school of information science and technology, the university of tokyo, japan']
 feng20b_interspeech	['beijing language and culture university, beijing, china', 'yunfan hailiang (beijing) technology co., ltd, beijing, china']
 kimura20_interspeech	['the university of tokyo, japan']
@@ -235,23 +247,26 @@ li20n_interspeech	['xiaomi ai lab']
 jung20b_interspeech	['school of computer science, university of seoul, republic of korea']
 zhang20j_interspeech	['school of computer science and technology, harbin institute of technology, china', 'information technology lab, fujitsu research & development center, co., ltd.']
 sharma20_interspeech	['centre for artificial intelligence research', 'department of information and communication technology', 'university of agder, norway']
+wang20m_interspeech	
 hu20e_interspeech	['electrical and computer engineering, georgia institute of technology, atlanta, ga, usa', 'computer engineering school, university of enna, italy', 'tencent media lab, tencent corporation, shenzhen, guangdong, china']
 hu20f_interspeech	['school of electrical and computer engineering, georgia institute of technology, usa', 'computer engineering school, university of enna, italy', 'tencent media lab, tencent corporation, shenzhen, guangdong, china', 'university of science and technology of china, hefei, china']
 devalraju20_interspeech	['school of computing and electrical engineering, indian institute of technology, mandi']
 tzirakis20_interspeech	['glam – group on language, audio, & music, imperial college london, uk', 'eihw – chair of embedded intelligence for health care and wellbeing, university of augsburg,', 'germany']
 kwiatkowska20_interspeech	['samsung r&d institute', 'warsaw, poland']
+angelini20_interspeech	
 wu20d_interspeech	['beijing university of posts and telecommunications', 'tencent ai lab']
 zhang20k_interspeech	['beijing institute of technology', 'tencent ai lab', 'china conservatory of music']
 hou20b_interspeech	['⇤beijing university of posts and telecommunications', '†microsoft research asia', '‡microsoft search technology center asia, xiaoice']
 liu20f_interspeech	['northwestern polytechnical university, xian, china']
-sadhu20_interspeech	['samik sadhu1, hynek hermansky1,2']
+sadhu20_interspeech	
 wan20_interspeech	['university of science and technology of china', 'iflytek research, iflytek co., ltd.']
 huang20c_interspeech	['microsoft corporation']
 zhao20b_interspeech	['nanyang technological university, singapore', 'machine intelligence technology, alibaba group']
 ding20d_interspeech	['national engineering laboratory for speech and language information processing', 'university of science and technology of china, hefei, china']
-mathur20_interspeech	['akhil mathur1,2, nadia berthouze1, nicholas d lane3']
+mathur20_interspeech	
 winata20_interspeech	['center for artificial intelligence research (caire)', 'the hong kong university of science and technology']
 khandelwal20_interspeech	['indian institute of technology bombay, mumbai, india']
+turan20_interspeech	
 takeda20_interspeech	['the institute of scientific and industrial research, osaka university, osaka, japan']
 wu20e_interspeech	['xiaoice, software technology center asia, microsoft']
 lu20b_interspeech	['centre for speech technology research, school of informatics,', 'university of edinburgh, united kingdom']
@@ -271,6 +286,7 @@ arai20b_interspeech	['sophia university, tokyo, japan']
 fang20_interspeech	['institute of linguistics, chinese academy of social sciences']
 illa20_interspeech	['electrical engineering, indian institute of science (iisc), bangalore-560012, india']
 liu20g_interspeech	['department of speech, hearing and phonetic sciences, university college london, uk', 'institute of linguistics, national tsing hua university, taiwan']
+santos20_interspeech	
 zhang20l_interspeech	['tianjin key laboratory of cognitive computing and application,', 'college of intelligence and computing, tianjin university, tianjin, china', 'fraunhofer institute for building physics, stuttgart, germany']
 mannem20_interspeech	['electrical engineering, indian institute of science, bangalore-560012, india.', 'electronics and communications engineering, rajiv gandhi university of knowledge', 'technologies, kadapa-516330, india.']
 purohit20_interspeech	['electrical engineering, indian institute of science, bengaluru 560012, india']
@@ -279,7 +295,7 @@ li20p_interspeech	['data science research center, duke kunshan university, kunsh
 qu20b_interspeech	['knowledge technology, department of informatics, university of hamburg', 'vogt-koelln-str. 30', ' hamburg, germany']
 zhang20m_interspeech	['singapore r&d, yitu technology', 'school of computing, national university of singapore']
 li20q_interspeech	['moe key lab of artificial intelligence', 'speechlab, department of computer science and engineering', 'ai institute, shanghai jiao tong university, shanghai']
-hao20_interspeech	['yunzhe hao1,2, jiaming xu1,2†, jing shi1,2, peng zhang1,2, lei qin4, bo xu1,2,3†']
+hao20_interspeech	
 zhao20c_interspeech	['tokyo institute of technology', 'www.ts.ip.titech.ac.jp']
 ochiai20_interspeech	['ntt corporation, japan']
 yasuda20_interspeech	['ntt corporation, japan']
@@ -289,6 +305,8 @@ elbayad20_interspeech	['univ. grenoble alpes, cnrs, grenoble inp, inria, lig, lj
 nguyen20_interspeech	['lig - universite grenoble alpes, france', 'lia - avignon universite, france', 'lium - le mans universite, france']
 gaido20_interspeech	['fondazione bruno kessler, italy', 'university of trento, italy']
 pino20_interspeech	['facebook ai, usa', 'johns hopkins university, usa']
+federico20_interspeech	
+ohishi20_interspeech	
 wu20g_interspeech	['facebook ai, usa']
 jung20c_interspeech	['school of computer science, university of seoul, republic of korea']
 jung20d_interspeech	['school of electrical engineering, kaist, daejeon, south korea']
@@ -308,14 +326,16 @@ wang20q_interspeech	['samsung research america']
 cao20_interspeech	['amazon ai']
 orihashi20_interspeech	['ntt media intelligence laboratories, ntt corporation, japan']
 sar20_interspeech	['department of electrical and computer engineering,', 'university of illinois at urbana-champaign, il, usa']
+whang20_interspeech	
 caubriere20_interspeech	['lium - le mans university, france', 'lia - avignon university, france', 'ls2n - nantes university, france']
-mcguire20_interspeech	['grant l mcguire1, molly babel2']
+mcguire20_interspeech	
 ngoc20_interspeech	"[""universite côte d'azur, cnrs, bcl, france"", 'universite grenoble alpes, cnrs, gipsa-lab, grenoble, france']"
 ngoc20b_interspeech	"[""universite côte d'azur, cnrs, bcl, france"", 'universite grenoble alpes, cnrs, gipsa-lab, grenoble, france']"
 cordero20_interspeech	"[""universite côte d'azur, cnrs, bcl, france"", 'university lyon 1, lyon, france', 'cnrs, umr 5292, inserm, u1028, lyon neuroscience research center, auditory cognition', 'and psychoacoustics team, lyon, france', 'universite grenoble alpes, cnrs, lpnc, grenoble, france']"
 michelas20_interspeech	"['aix marseille univ, cnrs, lpl, aix-en-provence, france', 'in two long-term repetition priming experiments, we', 'investigated how accentual information is processed and', ""represented in the french listeners' mind. repeated prime and"", ""target words either matched (/b  'do/ - / b  'do/ ‘headband') or"", ""mismatched in their accentual patterns (/b  do/ - /b  'do/). in"", 'experiment 1, the target words were presented in the left ear', 'only, and attenuation in the repetition priming effect was', 'observed when the primes and the targets mismatched in their', 'accentual pattern. the differential priming effect between', 'match and mismatch primes was no longer observed in', 'experiment 2 when the targets were presented in the right ear', 'only. together, these results showed that accentual variation at', 'the word level in french is treated as related-talker variation,', 'and only influences word recognition under specific', 'circumstances, in particular, when we push word processing in', 'the right hemisphere.', 'index terms: spoken word recognition; french prosody;', 'primary accent; hemispheric dominance.', '. introduction', 'most of germanic and romance languages use lexical stress.', 'stress placement is thus assigned at the word level and the', 'position of stress within word can change its meaning. in these', 'languages, stress information appears to be a nondetachable', 'aspect of phonemic information and the two types of', 'information similarly influence word recognition. contrary to', 'these languages, french does not have lexical stress and', 'french listeners have been found to experience stress deafness', '([1]). on the other hand, french has phrasal accent, meaning', 'that accent always affects the last syllable of a larger unit than', 'the word, that is the accentual phrase (e.g., [2], [3], [4]). as a', ""result, the same word receives accent ([un petit 'chou]) “a"", ""little cabbage” or not ([un chou 'bleu]) “a blue cabbage”"", 'depending on its position within the accentual phrase. since', 'accent in french signals the end of accentual phrases and thus', 'the end of words occurring at the end of accentual phrases, it', 'has a demarcation function ([5]). nonetheless, in french,', 'accent has not a lexically contrastive function, and as', 'indicated in the preceding example, the word chou, whether', 'accented or not, conserves the same meaning. does this mean', 'however that accentual information never influences spoken', 'word recognition in this language? this is precisely the', 'question we addressed in this study by examining how', 'accentual information is processed and represented in the', 'mind of french listeners.', 'because in french accent always affects the last syllable', 'of words located at the end of accentual phrases, several', 'studies have shown that french listeners use it to segment', 'speech into words, and in particular to locate word offset/onset', 'in continuous speech ([6], [7], [8], [9], [10]). for example, [8]', 'showed that accent helps french listeners to resolve', 'competition between overlapping lexical candidates. the', 'authors asked participants to detect a target word (e.g., chat', ""“cat”) in sentences like [le chat grin'cheux] “the grumpy"", 'cat” in which only the word grincheux bears accent on its last', ""syllable or in sentences like [le chat'] [grim'pait] “the cat"", 'climbed up” in which both the words chat and grimpait bear', 'primary accent. they found slower detection times in [le', ""chat grin'cheux] than in [le chat'] [grim'pait]. the"", ""slower detection of chat in [le chat grin'cheux] has been"", 'interpreted as resulting from competition between chat and', 'its competitor chagrin “sadness”. in this case, since there is', 'no accent on chat to indicate its end, the word chagrin', 'remains active and competes with the word chat. the results', ""of christophe et al.'s thus suggest that french listeners insert a"", 'word-final boundary each time they encounter an accented', 'syllable. consequently, accentual information in french', 'appears to boost word recognition process by preventing', 'activation of inappropriate lexical candidates.', 'in a recent study ([11]), we have examined whether', 'accentual information could be stored in the french mental', 'lexicon. this question is particularly relevant for models of', 'spoken word recognition assuming that multiple variants of a', 'same word encoding fine-grained acoustic details are stored in', 'memory ([12]). because french listeners are inevitably', 'exposed to the accented and unaccented versions of words, a', 'possibility within this class of models is that french listeners', 'have created lexical traces corresponding to the accented and', 'unaccented forms of words.  in our study, participants heard a', 'first block of stimuli, the prime block, followed by a second', 'block of stimuli, the target block. some of the words from the', 'prime block were repeated in the target block. the repeated', ""primes and targets either matched (e.g., (/b  'do/ - /b  'do/"", ""‘headband') or mismatched (/b  do/ - /b  'do/) in their"", 'accentuation. in comparison to a control condition in which', ""primes and targets were unrelated (/maʁ  / - / b  'do/ “chestnut-"", 'headband”), we reported that match and mismatch primes', 'were equally effective in facilitating the subsequent processing', 'of the target words.  the observation that a change in the', 'accentual pattern of words has no impact on the magnitude of', 'the repetition priming effect indicates that accented and', 'unaccented variants of words activate the same-form based', 'representations. hence, words in their different accentuation', 'appear to be associated with a single representation in the', 'french mental lexicon. our results are thus more compatible', 'with the view of an abstract lexicon that does not encode fine-', 'grained acoustic details ([13], [14], [15], [16], [17]).', 'given this finding, we ask here how french listeners used', 'accentual information during spoken word recognition. the']"
 liu20h_interspeech	['school of literature, shandong university, china']
 zeng20_interspeech	['western sydney university, australia', 'university of oslo, norway', 'bilkent university, turkey', 'national taiwan university, taiwan']
+feng20c_interspeech	
 zellou20b_interspeech	['uc davis, phonetics lab, department of linguistics, davis, ca, usa']
 kavaki20_interspeech	['the graduate center, cuny, new york, usa', 'brooklyn college, cuny, new york, usa']
 loweimi20b_interspeech	['centre for speech technology research (cstr), school of informatics, university of edinburgh']
@@ -334,6 +354,7 @@ mawalim20_interspeech	['japan advanced institute of science and technology,', '-
 maouche20_interspeech	['tommasi2, emmanuel vincent3', 'inria, france', 'universite de lille, france', 'universite de lorraine, cnrs, inria, loria, france']
 srivastava20_interspeech	"['inria, france', ""laboratoire informatique d'avignon (lia), avignon universite, france"", 'national institute of informatics, tokyo, japan', 'universite de lorraine, cnrs, inria, loria, france', 'universite de lille, france']"
 noe20_interspeech	"[""laboratoire informatique d'avignon (lia), avignon universite, france"", 'digital security department, eurecom, france']"
+park20c_interspeech	
 zhang20n_interspeech	['databaker (beijing) technology co., ltd, beijing, china']
 cohn20_interspeech	['phonetics laboratory, department of linguistics, uc davis, usa']
 taylor20_interspeech	['the centre for speech technology research, the university of edinburgh, uk']
@@ -344,7 +365,8 @@ gallegos20_interspeech	['the centre for speech technology research, university o
 das20_interspeech	['gutierrez-osuna1', 'department of computer science and engineering, texas a&m university, usa', 'department of english, iowa state university, usa']
 zhou20c_interspeech	['human language technology and pattern recognition, computer science department,', 'rwth aachen university', ' aachen, germany', 'apptek gmbh', ' aachen, germany']
 chen20e_interspeech	['institute of microelectronics, beijing innovation center for future chip, tsinghua university', 'shanghaitech university', 'tsingmicro intelligent technology co., limited', 'beijing national research center for information science and technology']
-wong20_interspeech	['microsoft speech and language group']
+wang20r_interspeech	
+wong20_interspeech	
 kim20c_interspeech	['vuno inc.', ', gangnam-daero, seocho-gu, seoul']
 garg20_interspeech	['samsung research korea']
 beck20_interspeech	['human language technology and pattern recognition, computer science department,', 'rwth aachen university', ' aachen, germany']
@@ -372,20 +394,21 @@ lalhminghlui20_interspeech	['department of humanities and social sciences', 'cen
 wu20h_interspeech	['laboratoire de phonetique et phonologie (umr7018, cnrs-sorbonne nouvelle), france', 'limsi, cnrs, universite paris-saclay, rue john von neumann, f-91405 orsay cedex, france', 'modeles, dynamiques, corpus (modyco), umr 7114, cnrs']
 gao20c_interspeech	['institute of acoustics and speech communication, tu dresden, germany', 'department of speech, hearing and phonetic sciences, university college london, uk', 'college of information sciences, beijing language and culture university, china']
 lai20_interspeech	['department of lingusitics, university of pennsylvania']
+zhang20p_interspeech	
 cui20_interspeech	['peking university', 'university of pennsylvania, united states']
 rose20_interspeech	['australian national university emeritus faculty, australia', 'https://philjohnrose.net']
 tang20_interspeech	['school of foreign studies, nanjing university of science and technology, china']
 loukina20_interspeech	['educational testing service, nj, usa']
 mhiri20_interspeech	['fluent.ai inc., montreal, quebec, canada']
 wang20s_interspeech	['amazon.com, cambridge, ma, usa', 'boston university, boston, ma, usa']
-vuong20_interspeech	['tyler vuong,1 yangyang xia,1 richard m stern1,2']
+vuong20_interspeech	
 chang20b_interspeech	['google inc., u.s.a']
 wang20t_interspeech	['paradigm inc., beijing, china', 'department of computer science and engineering', 'southern university of science and technology, shenzhen, china', 'chalearn, usa']
 kumar20c_interspeech	['amazon alexa science, cambridge, ma', 'boston university, boston, ma']
 koizumi20_interspeech	['ntt corporation, japan']
 mo20_interspeech	[', yakun yu , mohammad salameh2, di niu1, shangling jui2', 'university of alberta, edmonton, ab, canada', 'huawei technologies']
 li20s_interspeech	['cas key laboratory of wireless-optical communications,', 'university of science and technology of china, hefei, p r. china']
-wang20u_interspeech	['xin wang1, junichi yamagishi1,2']
+wang20u_interspeech	
 liu20i_interspeech	['taiwan ai labs, taipei, taiwan', 'academia sinica, taipei, taiwan']
 nakashika20_interspeech	['the university of electro-communications, japan']
 choi20c_interspeech	['hyperconnect, seoul, south korea']
@@ -395,7 +418,7 @@ ellinas20_interspeech	['innoetics, samsung electronics, greece', 'mobile communi
 yu20c_interspeech	['tencent ai lab']
 mitsui20_interspeech	['the university of tokyo, japan']
 m20_interspeech	['indian institute of technology, madras']
-schuller20_interspeech	['bjorn w schuller1,2,3, anton batliner2,4, christian bergler4, eva-maria messner5, antonia hamilton6,', 'shahin amiriparian2,3, alice baird2, georgios rizos1, maximilian schmitt2, lukas stappen2,', 'harald baumeister5, alexis deighton macintyre6, simone hantke3']
+schuller20_interspeech	
 koike20_interspeech	['educational physiology laboratory, the university of tokyo, japan', 'glam – group on language, audio, & music, imperial college london, uk', 'chair of embedded intelligence for health care and wellbeing, university of augsburg, germany']
 illium20_interspeech	['mobile and distributed systems group, lmu munich']
 klumpp20_interspeech	['perez-toro1,2, florian h¨onig1, elmar n¨oth1, juan rafael orozco-arroyave2', 'friedrich-alexander-universitat erlangen-nurnberg, erlangen, germany', 'universidad de antioquia, medellin, colombia']
@@ -442,12 +465,12 @@ wang20w_interspeech	['center for robust speech systems (crss), university of tex
 sang20_interspeech	['center for robust speech systems, university of texas at dallas, tx 75080']
 chowdhury20b_interspeech	['michigan state university']
 li20v_interspeech	['† amazon, usa', '§university of california los angeles, usa', '¶university of notre dame, usa']
-rybakov20_interspeech	['oleg rybakov1, natasha kononenko1, niranjan subrahmanya2, mirko visontai2, stella laurenzo1']
+rybakov20_interspeech	
 liu20j_interspeech	['noah stein, anish shah, shiv naga prasad vitaladevuni', 'amazon alexa']
 kong20_interspeech	['cyberspace security research center, peng cheng laboratory, shenzhen, china', 'college of computer science and electronic engineering, hunan university, china']
 wang20x_interspeech	"[""school of software engineering, xi'an jiaotong university, china."", 'multimedia computing group, delft university of technology, delft, the netherlands.', 'college of computer science and technology, zhejiang university, china.']"
 zuluagagomez20_interspeech	['idiap research institute, martigny, switzerland', 'ecole polytechnique federale de lausanne (epfl), switzerland', 'school of information and electronics, beijing institute of technology, beijing, china']
-gudepu20_interspeech	['prithvi r r. gudepu, gowtham p vadisetti, abhishek niranjan, kinnera saranu, raghava sarma,', 'm ali basha shaik, periyasamy paramasivam']
+gudepu20_interspeech	
 sawhney20_interspeech	['netaji subhas institute of technology, india', 'adobe, india', 'midas, iiit-delhi, india', 'university of maryland, united states of america']
 chen20i_interspeech	['uc san diego, usa', 'microsoft research, usa']
 hout20_interspeech	['multimedia computing group, delft university of technology, delft, the netherlands', 'ku leuven, leuven, belgium', 'university of illinois, urbana-champaign, il, usa']
@@ -461,6 +484,7 @@ mao20c_interspeech	['department of electronic engineering, the chinese universit
 mao20d_interspeech	['department of electronic engineering, the chinese university of hong kong, hong kong', 'ming heish department of electrical engineering, university of southern california, usa']
 perezramon20_interspeech	['language and speech laboratory, university of the basque country, vitoria, spain', 'ikerbasque (basque science foundation), spain']
 liu20l_interspeech	['the hong kong polytechnic university']
+li20w_interspeech	
 spinu20_interspeech	['city university of new york', 'stony brook university', 'university of delaware']
 chowdhury20c_interspeech	['qatar computing research institute, hbku, doha, qatar', 'concordia university, montreal, quebec, canada']
 johnson20_interspeech	['department of linguistics, university of british columbia, canada']
@@ -476,14 +500,15 @@ lee20d_interspeech	['department of computer science and information engineering,
 bando20_interspeech	['national institute of advanced industrial science and technology, japan', 'riken aip, japan', 'graduate school of informatics, kyoto university, japan']
 bulut20_interspeech	['center for robust speech systems, university of texas at dallas, tx 75080', 'microsoft corporation, one microsoft way, redmond, wa 98052']
 tran20b_interspeech	['microsoft corporation']
-li20y_interspeech	['haoyu li1,2, junichi yamagishi1,2']
+li20y_interspeech	
 deng20_interspeech	['kuai shou technology co., beijing, china']
-li20z_interspeech	['westlake university, hangzhou, china.', 'inria grenoble rhˆone-alpes, montbonnot saint-martin, france.']
+li20z_interspeech	['westlake university, hangzhou, china.', 'inria grenoble rhone-alpes, montbonnot saint-martin, france.']
 strake20_interspeech	['technische universitat braunschweig', 'institute for communications technology', ' braunschweig, germany', 'goodix technology (belgium) bv', ' leuven, belgium']
 hu20g_interspeech	"[""northwestern polytechnical university, xi'an, china"", 'ai interaction division, sogou inc., beijing, china']"
 westhausen20_interspeech	['communication acoustics & cluster of excellence hearing4all', 'carl von ossietzky university, oldenburg, germany']
 valin20_interspeech	['amazon web services, canada', 'amazon web services, usa', 'copyright © 2020 isca', 'interspeech 2020', 'october 25–29', ', shanghai, china', 'http://dx.doi.org/10.21437/interspeech.2020-2730']
-reddy20_interspeech	['chandan k a. reddy1, vishak gopal1, ross cutler1, ebrahim beyrami1, roger cheng1,', 'harishchandra dubey1, sergiy matusevych1, robert aichner1, ashkan aazami1, sebastian braun 2,', 'puneet rana1, sriram srinivasan1, johannes gehrke1']
+isik20_interspeech	
+reddy20_interspeech	
 akbarzadeh20_interspeech	['university of texas at dallas', 'tongmyong university']
 wan20b_interspeech	['the guangdong key laboratory of intelligent information processing, college of electronics and', 'information engineering, shenzhen university, china', 'acoustics laboratory, school of physics and optoelectronics, south china university of', 'technology, china', 'peng cheng laboratory, shenzhen, china']
 irino20_interspeech	['faculty of systems engineering, wakayama university, japan']
@@ -514,16 +539,20 @@ chen20k_interspeech	['school of computer science and communication engineering, 
 wang20y_interspeech	['tencent ai lab, china']
 pariente20_interspeech	['universite de lorraine, cnrs, inria, loria, france', 'universita politecnica delle marche, italy', 'university of illinois at urbana-champaign, usa', 'universitat paderborn, germany', 'inria and lirmm, university of montpellier, france', 'universidad de granada, spain', 'universitat hamburg, germany', 'technion - israel institute of technology, israel', 'https://github.com/mpariente/asteroid']
 chen20l_interspeech	['school of computer science and communication engineering, jiangsu university, china', 'jiangsu engineering research center of big data ubiquitous perception and intelligent agriculture', 'applications, zhenjiang, china']
+deng20b_interspeech	
 kinoshita20_interspeech	['ntt corporation, japan', 'paderborn university, germany']
 narayanaswamy20_interspeech	['sensip center, school of ecee, arizona state university, tempe, az', 'lawrence livermore national labs', ' east avenue, livermore, ca']
 qiu20b_interspeech	['school of natural and computational sciences, massey university, new zealand']
 xiang20_interspeech	['christensen1', 'audio analysis lab, create, aalborg university, aalborg, denmark', 'capturi a/s, aarhus, denmark']
 zhang20x_interspeech	['department of electronics and information engineering,', 'harbin institute of technology, shenzhen, china']
+wang20z_interspeech	
 shi20d_interspeech	['fujitsu research and development center', 'harbin institute of technology']
 hao20b_interspeech	['college of computer science, inner mongolia university, hohhot, china', 'ai interaction division, sogou inc., beijing, china', 'westlake university, hangzhou, china']
 roy20_interspeech	['signal processing laboratory, griffith school of engineering,', 'griffith university, brisbane, qld, australia']
 yu20e_interspeech	['department of electrical and computer engineering, concordia university, canada', 'department of electrical and computer engineering, mcgill university, canada']
 li20aa_interspeech	['school of computer science and technology, wuhan university of technology, wuhan, china']
+shi20e_interspeech	
+nortje20_interspeech	
 lee20e_interspeech	['department of electrical and computer engineering,', 'seoul national university, seoul, south korea']
 csapo20_interspeech	['department of telecommunications and media informatics,', 'budapest university of technology and economics, budapest, hungary', 'mta-elte lendulet lingual articulation research group, budapest, hungary']
 csapo20b_interspeech	['department of telecommunications and media informatics,', 'budapest university of technology and economics, budapest, hungary', 'mta-elte lendulet lingual articulation research group, budapest, hungary', 'institute of informatics, university of szeged, hungary', 'mta-szte research group on artificial intelligence, szeged, hungary', 'department of applied linguistics and phonetics, e¨otv¨os lorand university, budapest, hungary']
@@ -541,7 +570,7 @@ dash20_interspeech	"['department of electrical and computer engineering, univers
 chen20m_interspeech	['georgia institute of technology, usa', 'salesforce research, usa', 'amazon alexa, usa']
 tulsiani20_interspeech	['amazon alexa, bangalore, india']
 kanda20b_interspeech	['microsoft corp.']
-weninger20_interspeech	['felix weninger1, franco mana2, roberto gemello2, jesus andres-ferrer3, puming zhan1']
+weninger20_interspeech	
 guo20_interspeech	['amazon.com, usa']
 zeyer20_interspeech	['human language technology and pattern recognition, computer science department,', 'rwth aachen university', ' aachen, germany,', 'apptek gmbh', ' aachen, germany']
 park20d_interspeech	['google inc., u.s.a.']
@@ -551,6 +580,7 @@ wang20aa_interspeech	['moreno2', 'simon fraser university', 'google']
 das20b_interspeech	['department of signal processing and acoustics, aalto university, finland', 'fraunhofer iis, germany']
 broucke20_interspeech	['idiap research institute, martigny, switzerland']
 skoglund20_interspeech	['google, san francisco, ca, usa', 'amazon, palo alto, ca, usa']
+manocha20_interspeech	
 masztalski20_interspeech	['samsung r&d institute poland']
 naderi20_interspeech	['quality and usability lab, technische universitat berlin', 'microsoft corp.']
 mittag20b_interspeech	['tu berlin', 'microsoft corp.']
@@ -567,7 +597,7 @@ lenain20_interspeech	['novoic ltd']
 naini20_interspeech	['electrical engineering, indian institute of science, bangalore 560012, india', 'rajiv gandhi university of knowledge technologies (rgukt), kadapa', ', india']
 zhao20e_interspeech	['machine intelligence technology, alibaba group']
 liu20m_interspeech	['the hong kong university of science and technology', 'department of computer science and engineering']
-fu20b_interspeech	['ruibo fu1,2, jianhua tao1,2,3, zhengqi wen1, jiangyan yi1, chunyu qiang1,2, tao wang1,2']
+fu20b_interspeech	
 staib20_interspeech	['foglianti1, raphael lenain2*, jiameng gao1']
 xin20_interspeech	['graduate school of information science and technology, the university of tokyo, japan']
 liu20n_interspeech	['samsung research china-beijing(src-b)']
@@ -582,7 +612,7 @@ shi20f_interspeech	['speech and hearing research group', 'department of computer
 montalvo20_interspeech	['advanced technologies application center (cenatav), cuba', 'lia-ceri avignon university, france']
 khan20_interspeech	['talp research center, department of signal theory and communications,', 'universitat politecnica de catalunya barcelona, spain']
 liu20o_interspeech	['national engineering laboratory for speech and language information processing, university of', 'science and technology of china, hefei, china.', 'ict cluster, singapore institute of technology', 'iflytek research, iflytek co., ltd., hefei, anhui 230088, china.']
-zheng20c_interspeech	['naijun zheng1, xixin wu1, jinghua zhong2, xunying liu1, helen meng1']
+zheng20c_interspeech	
 chen20n_interspeech	['moe key lab of artificial intelligence', 'speechlab, department of computer science and engineering', 'ai institute, shanghai jiao tong university, shanghai']
 lin20f_interspeech	['smart platform product department, tencent technology co., ltd, china', 'college of information science, beijing language and culture university, china']
 lo20b_interspeech	['national taiwan normal university']
@@ -601,6 +631,7 @@ liu20p_interspeech	['chair of embedded intelligence for health care and wellbein
 zhu20b_interspeech	['ece department, university of illinois, usa']
 neumann20_interspeech	['paderborn university, department of communications engineering, paderborn, germany', 'ntt corporation, japan']
 upadhyay20_interspeech	['department of electrical engineering, national tsing hua university', 'most joint research center for ai technology and all vista healthcare']
+cornell20_interspeech	
 moritz20_interspeech	['mitsubishi electric research laboratories (merl), cambridge, ma, usa']
 diener20_interspeech	['cognitive systems lab (csl), university of bremen, germany', 'chair of embedded intelligence for health care and wellbeing, universitat augsburg, germany', 'inesc-id/instituto superior tecnico (ist), university of lisbon, portugal', 'glam – group on language, audio, and music, imperial college london, uk']
 zhong20_interspeech	['department of electrical engineering, national tsing hua university', 'college of management, national taiwan university', 'most joint research center for ai technology and all vista healthcare', 'gamania digital entertainment co., ltd. (hq)']
@@ -611,11 +642,12 @@ sabu20_interspeech	['department of electrical engineering,', 'indian institute o
 xue20_interspeech	['centre for language and speech technology (clst), radboud university nijmegen', 'department of otorhinolaryngology, head and neck surgery and communication disorders,', 'university hospital of antwerp', 'centre for language studies (cls), radboud university nijmegen', 'donders institute for brain, cognition and behaviour, radboud university nijmegen']
 lin20h_interspeech	['speech-language-hearing center, school of foreign languages, shanghai jiao tong university,', 'shanghai, china']
 anjos20_interspeech	['nova lincs, department of computer science', 'faculdade de ciencias e tecnologia, universidade nova de lisboa', '-516 caparica, portugal', 'language technologies institute, carnegie mellon university', 'forbes avenue, pittsburgh, pa 15213, usa', 'escola superior de saude do alcoitao', 'rua conde barao, alcoitao', '-506 alcabideche, portugal']
+zhang20y_interspeech	
 palkama20_interspeech	['aalto university, espoo, finland']
 yang20g_interspeech	['microsoft, china']
 katsurada20_interspeech	['department of information sciences, tokyo university of science, tokyo, japan', 'center for speech technology research, university of edinburgh, edinburgh, united kingdom']
 liang20_interspeech	['tsinghua-cuhk joint research center for media sciences, technologies and systems,', 'shenzhen international graduate school, tsinghua university, shenzhen, china', 'department of computer science and technology, tsinghua university, beijing, china', 'search technology center asia (stca), microsoft', 'department of systems engineering and engineering management,', 'the chinese university of hong kong, shatin, n.t., hong kong sar, china']
-mohan20_interspeech	['devang s ram mohan1, raphael lenain2*, lorenzo foglianti1, tian huey teh1, marlene staib1,', 'alexandra torresquintero1, jiameng gao1']
+mohan20_interspeech	
 tu20b_interspeech	['college of electrical engineering and computer science, national taiwan university']
 saha20_interspeech	['department of electrical and computer engineering, university of british columbia, canada']
 yamashita20_interspeech	['faculty of engineering, the university of tokyo, japan', 'graduate school of information science and technology, the university of tokyo, japan', 'ntt media intelligence laboratories, ntt corporation, japan']
@@ -629,13 +661,14 @@ georges20_interspeech	['intel labs, munich, germany', 'apple inc, cupertino, cal
 kreyssig20_interspeech	['cambridge university engineering dept., trumpington st., cambridge, cb2 1pz u.k.']
 peng20b_interspeech	['∗', ',2', 'adsplab, school of ece, peking university, shenzhen, china', 'peng cheng laboratory, shenzhen, china']
 li20ca_interspeech	['center for speech and language technologies, tsinghua university']
-cho20b_interspeech	['jaejin cho1, piotr ˙zelasko1, jesus villalba1,2, shinji watanabe1,2, najim dehak1,2']
+cho20b_interspeech	
 zhao20f_interspeech	['department of computer science and engineering', '& center for cognitive and brain sciences, the ohio state university, usa']
 zhang20z_interspeech	['department of speech, language and hearing sciences, indiana university, usa', 'department of computer science, indiana university, usa', 'didi chuxing, beijing, china']
 du20c_interspeech	['school of computer science and technology, harbin institute of technology', 'speech lab, alibaba damo academy']
+kegler20_interspeech	
 shankar20_interspeech	['department of electrical and computer engineering, the university of texas at dallas,', 'richardson, tx-75080, usa']
 lin20j_interspeech	['clemson university, clemson, sc', 'linkedin inc., mountain view, ca', 'nokia bell labs, nokia, murray hill, nj']
-defossez20_interspeech	['alexandre defossez1,2,3, gabriel synnaeve1, yossi adi1']
+defossez20_interspeech	
 romaniuk20_interspeech	['samsung r&d institute poland']
 chiba20_interspeech	['graduate school of engineering, tohoku university, japan']
 li20da_interspeech	['nlpr, institute of automation, chinese academy of sciences, china', 'school of artificial intelligence, university of chinese academy of sciences, china', 'huawei technologies, china']
@@ -660,6 +693,7 @@ shankar20c_interspeech	['department of electrical and computer engineering, john
 tits20b_interspeech	['numediart institute, university of mons']
 cao20b_interspeech	['ping an technology']
 sorin20_interspeech	['ibm research - haifa']
+zhou20d_interspeech	['adepartment of electrical and computer engineering, national university of singapore, singapore', 'bsingapore university of technology and design, singapore']
 matsumoto20_interspeech	['graduate school of interdisciplinary science and engineering in health systems,', 'okayama university, japan']
 zhang20aa_interspeech	['department of electronic engineering, the chinese university of hong kong']
 kishida20_interspeech	['the university of electro-communications, japan']
@@ -678,6 +712,7 @@ wand20_interspeech	"[""istituto dalle molle di studi sull'intelligenza artificia
 yu20f_interspeech	['the chinese university of hong kong', 'tencent ai lab']
 li20ea_interspeech	['didi chuxing, beijing, china']
 sterpu20_interspeech	['sigmedia lab, adapt centre, school of engineering, trinity college dublin, ireland', 'adapt centre, school of computer science and statistics, trinity college dublin, ireland']
+koumparoulis20_interspeech	
 mortazavi20_interspeech	['futurewei technologies, santa clara, california, usa']
 liu20r_interspeech	['key laboratory of machine perception, shenzhen graduate school, peking university, china']
 konda20_interspeech	['indian institute of technology bombay, india', 'monash university, australia']
@@ -700,18 +735,23 @@ michel20_interspeech	['human language technology and pattern recognition, comput
 han20_interspeech	['google inc.']
 sainath20_interspeech	['google inc., u.s.a']
 liu20s_interspeech	['department of data science and knowledge engineering, maastricht university, the netherlands']
+li20ga_interspeech	
 jain20b_interspeech	['department of signal processing and acoustics, aalto university']
 futami20_interspeech	['graduate school of informatics, kyoto university, sakyo-ku, kyoto, japan']
-huo20_interspeech	['jingjing huo1, yingbo gao1,2, weiyue wang1,2, ralf schluter1,2, hermann ney1,2']
+chien20_interspeech	
+huo20_interspeech	
 liu20t_interspeech	['†national taiwan university', '⋆facebook ai, usa']
 higuchi20b_interspeech	['center for language and speech processing, johns hopkins university, baltimore, usa', 'department of communications and computer engineering, waseda university, tokyo, japan']
 fujita20_interspeech	['yahoo japan corporation, tokyo, japan', 'center for language and speech processing, johns hopkins university, baltimore, md, usa']
+chen20o_interspeech	
 lee20f_interspeech	['school of electrical engineering, kaist, daejeon, south korea']
 xu20e_interspeech	['department of computer science, inner mongolia university, hohhot, china']
 kumar20e_interspeech	['‡department of electronics and communication engineering, nit sikkim, india', '†department of electronics and communication engineering, nit patna, india', '∗department of electronics and communication engineering, nit calicut, india']
+lavechin20b_interspeech	
 agarwal20_interspeech	['department of electrical engineering', 'indian institute of technology (iit) dharwad', 'dharwad 580011, karnataka, india']
 zheng20d_interspeech	['ping an technology (shenzhen) co., ltd.']
 kreuk20_interspeech	['bar-ilan university', 'facebook ai research']
+zelasko20_interspeech	['dehak1,2', 'ece department and beckman institute, university of illinois, urbana-champaign, usa', 'multimedia computing group, delft university of technology, delft, the netherlands']
 limonard20_interspeech	['centre for language and speech technology (clst), radboud university nijmegen', 'centre for language studies (cls), radboud university nijmegen', 'donders institute for brain, cognition and behaviour, radboud university nijmegen']
 rasilo20_interspeech	['artificial intelligence lab, vrije universiteit brussel']
 csapo20c_interspeech	['department of telecommunications and media informatics,', 'budapest university of technology and economics, budapest, hungary', 'mta-elte lendulet lingual articulation research group, budapest, hungary']
@@ -743,9 +783,11 @@ papi20_interspeech	['diism - universita di siena, italy', 'fondazione bruno kess
 wang20ba_interspeech	['educational testing service', 'new montgomery st. #1450, san francisco, ca 94105, usa', 'rosedale rd., princeton, nj 08541, usa']
 raina20_interspeech	['alta institute/ engineering department, cambridge university, uk']
 wu20n_interspeech	['alta institute, cambridge university engineering department', 'trumpington street, cambridge, cb2 1pz, uk.', 'yandex, moscow, russia']
+lin20k_interspeech	
 bai20b_interspeech	['centre for language and speech technology (clst), radboud university nijmegen, the', 'netherlands', 'centre for language studies (cls), radboud university nijmegen, the netherlands', 'donders institute for brain, cognition and behaviour, radboud university nijmegen, the', 'netherlands']
 woszczyk20_interspeech	[', david millard', 'department of computing, imperial college london, uk', 'school of electronics and computer science, university of southampton, uk']
 hidaka20_interspeech	['graduate school of design, kyushu university, japan', 'department of otorhinolaryngology, faculty of medicine, kyushu university, japan', 'faculty of design, kyushu university, japan']
+chien20b_interspeech	
 jeong20_interspeech	['department of computer science, yonsei university, seoul, korea']
 luo20c_interspeech	['mit csail', 'amazon ai']
 hong20b_interspeech	['clova ai, naver corp.', 'electronics and telecommunications research institute']
@@ -765,8 +807,8 @@ fan20c_interspeech	['key laboratory of modern acoustics and institute of acousti
 kim20e_interspeech	['department of electronics and computer engineering', 'hanyang university, seoul, republic of korea']
 cai20c_interspeech	['⋆electrial & computer engineering, duke university, durham, nc, united states', '† data science research center, duke kunshan university, kunshan, china']
 cooper20_interspeech	['national institute of informatics, japan', 'massachusetts institute of technology, usa']
-wang20da_interspeech	['tao wang1,2, xuefei liu1, jianhua tao1,2,3, jiangyan yi1, ruibo fu1,2, zhengqi wen1']
-wang20ea_interspeech	['tao wang1,2, jianhua tao1,2,3, ruibo fu1,2, jiangyan yi1, zhengqi wen1, chunyu qiang1,2']
+wang20da_interspeech	
+wang20ea_interspeech	
 peirolilja20_interspeech	['taln research group, universitat pompeu fabra, barcelona, spain']
 li20ha_interspeech	['university of electronic science and technology of china', 'microsoft research asia, beijing, china', 'microsoft stc asia, beijing, china']
 lim20_interspeech	['kakao corp., seongnam, korea', 'kakao enterprise corp., seongnam, korea']
@@ -776,9 +818,10 @@ fong20_interspeech	['the centre for speech technology research, university of ed
 chen20r_interspeech	['school of software and microelectronics, peking university', 'microsoft research asia,', 'zhejiang univeristy,', 'tsinghua university,', 'microsoft azure speech']
 papadopoulos20_interspeech	['signal analysis and interpretation lab, university of southern california, usa']
 ji20_interspeech	['agora io, inc, shanghai, china', 'college of information science and technology, donghua university, shanghai, china', 'concordia university, montreal, canada']
-seki20_interspeech	['shogo seki1, moe takada1, tomoki toda2']
+seki20_interspeech	
 weisman20_interspeech	['school of electrical and computer engineering', 'ben-gurion university of the negev, beer-sheva 84105, israel', 'facebook reality labs']
 ho20_interspeech	['department of electrical and electronic engineering, yonsei university, seoul, south korea', 'artificial intelligence lab, lg electronics co., seoul, south korea']
+fedorov20_interspeech	
 hikosaka20_interspeech	['nagoya university, japan', 'human dataware lab. co., ltd., japan', 'meijo university, japan']
 hou20c_interspeech	['school of computer science and engineering, nanyang technological university, singapore', 'temasek laboratories, nanyang technological university, singapore', 'institute of high performance computing (ihpc), a*star, singapore', 'department of electrical and computer engineering, national university of singapore, singapore', 'machine listening lab, university of bremen, germany']
 hou20d_interspeech	['school of computer science and engineering, nanyang technological university, singapore', 'temasek laboratories, nanyang technological university, singapore', 'institute of high performance computing (ihpc), a*star, singapore', 'department of electrical and computer engineering, national university of singapore, singapore', 'machine listening lab, university of bremen, germany']
@@ -801,6 +844,7 @@ menshikova20_interspeech	['saint petersburg state university, saint petersburg, 
 xu20g_interspeech	['school of foreign languages and cultures, nanjing normal university, china', 'school of chinese language and literature, nanjing normal university, china']
 li20ja_interspeech	['the marcs institute, western sydney university, australia']
 yang20k_interspeech	['department of chinese and bilingual studies, the hong kong polytechnic university,', 'hong kong s.a.r., china', 'the hong kong polytechnic university-peking university research centre on chinese', 'linguistics, hong kong s.a.r., china']
+chuang20b_interspeech	
 kuo20b_interspeech	['national taiwan university of science and technology']
 huang20e_interspeech	['carnegie mellon unversity', 'amazon alexa ai']
 zhang20ga_interspeech	['tokyo institute of technology', 'www.ts.ip.titech.ac.jp']
@@ -811,18 +855,22 @@ fuscone20_interspeech	['aix-marseille univ, cnrs, lpl, aix-en-provence, france',
 hu20i_interspeech	['dataminr. inc.']
 das20c_interspeech	['department of electrical and computer engineering, national university of singapore, singapore', 'school of computing, university of eastern finland, joensuu, finland']
 sholokhov20_interspeech	['huawei technologies ltd., moscow, russia', 'computational speech group, university of eastern finland, finland', 'biometrics research laboratories, nec corporation, tokyo, japan']
+jiang20b_interspeech	
 wang20fa_interspeech	"[""school of computer science, northwestern polytechnical university, xi'an, china""]"
-villalba20_interspeech	['jesus villalba1,2, yuekai zhang1, najim dehak1,2']
-zhang20ha_interspeech	['yuekai zhang1, ziyan jiang1, jesus villalba1,2, najim dehak1,2']
+villalba20_interspeech	
+zhang20ha_interspeech	
 n20_interspeech	['hashcut inc., india']
 manakul20_interspeech	['engineering department, university of cambridge, uk']
 zhang20ia_interspeech	['speech processing and machine intelligence (spmi) lab, tsinghua university, china', 'china mobile research institute']
+wang20ga_interspeech	
 nguyen20d_interspeech	['vietnam artificial intelligence system, vietnam', 'thai nguyen university of education, vietnam', 'university of science and technology of hanoi, vietnam']
 yadav20b_interspeech	['midas, iiit-delhi, india', 'national institute of informatics, tokyo']
+mckenna20_interspeech	
 tran20c_interspeech	['dept. of electrical and computer engineering, university of washington, usa', 'dept. of electrical and computer engineering, university of california los angeles, usa']
 mittal20_interspeech	['ibm research ai']
 agarwal20b_interspeech	['apple, one apple park way, cupertino, ca, usa']
 liu20u_interspeech	['pensees pte ltd, singapore', 'department of electrical and computer engineering, national university of singapore, singapore']
+yi20b_interspeech	
 han20b_interspeech	['department of electrical & electronic engineering, yonsei university, seoul, south korea']
 lin20l_interspeech	['dept. of electronic and information engineering,', 'the hong kong polytechnic university', 'dept. of electrical and computer engineering,', 'national chiao tung university']
 hautamaki20_interspeech	['computational speech group, school of computing, university of eastern finland, finland']
@@ -838,6 +886,7 @@ kumar20f_interspeech	['samsung research']
 wu20o_interspeech	['iflytek research, iflytek co., ltd', 'university of science and technology of china']
 zhu20c_interspeech	['key laboratory of speech acoustics and content understanding, institute of acoustics, china', 'university of chinese academy of sciences, china', 'china mobile online services company limited, china']
 novitasari20_interspeech	['nara institute of science and technology, japan', 'riken, center for advanced intelligence project (aip), japan']
+raissi20_interspeech	
 shahnawazuddin20_interspeech	['†department of electronics and communication engineering, nit patna, india', '‡department of computer science, university of crete, greece', '∗department of electronics and communication engineering, nit calicut, india']
 karlapati20_interspeech	['amazon research, cambridge, united kingdom']
 lin20m_interspeech	['smart platform product department, tencent technology co., ltd, china', 'college of information science, beijing language and culture university, china']
@@ -856,12 +905,14 @@ hirschi20_interspeech	['northern arizona university, usa', 'radboud university, 
 niekerk20_interspeech	['department of speech, hearing and phonetic sciences, university college london, uk', 'faculty of electrical engineering and information technologies, ucms, skopje, rn macedonia', 'institute of acoustics and speech communication, technische universitat dresden, germany']
 krishnamohan20_interspeech	['learning and extraction of acoustic patterns (leap) lab, indian institute of science, bangalore.', 'mercedes-benz research and development, bangalore, india.']
 lan20_interspeech	['school of foreign languages, shenzhen university, china']
+tsukada20_interspeech	
 ng20b_interspeech	['department of electronic engineering, the chinese university of hong kong']
 ding20e_interspeech	['speech-language-hearing center, school of foreign languages', 'shanghai jiao tong university, china', 'smart platform product department, tencent technology co., ltd, china']
 zhou20h_interspeech	['university of lisbon, portugal', 'university of amsterdam, the netherlands']
 li20ka_interspeech	['shanghai jiao tong university, china', 'national chengchi university, taiwan']
 cheng20b_interspeech	['speech and audio signal processing laboratory, faculty of information technology,', 'beijing university of technology, beijing', ', china']
 wang20ha_interspeech	['university of science and technology of china, hefei, anhui, p.r.china', 'georgia institute of technology, atlanta, ga, usa']
+su20b_interspeech	
 pandey20_interspeech	['department of computer science and engineering, the ohio state university, usa', 'center for cognitive and brain sciences, the ohio state university, usa']
 richter20_interspeech	['signal processing (sp), universitat hamburg, germany']
 gogate20_interspeech	['school of computing, edinburgh napier university, scotland, uk']
@@ -877,12 +928,13 @@ gosztolya20b_interspeech	['mta-szte research group on artificial intelligence, s
 huckvale20_interspeech	['speech, hearing and phonetic sciences, university college london, u.k.']
 teplansky20_interspeech	['department of speech, language, and hearing sciences, university of texas at austin, usa', 'department of neurology, dell medical school, university of texas at austin, usa', 'austin ear, nose, and throat clinic, usa', 'department of otolaryngology, ut southwestern medical center, usa']
 yue20b_interspeech	['speech and hearing group (spandh), dept. of computer science, university of sheffield, uk', 'centre for assistive technology and connected healthcare (catch), university of sheffield, uk']
+mallela20_interspeech	
 pompili20b_interspeech	['inesc-id, lisbon, portugal', 'instituto superior tecnico, universidade de lisboa (ul), portugal', 'laboratory of clinical pharmacology and therapeutics, faculdade de medicina, ul, portugal', 'laboratorio de estudos de linguagem, faculdade de medicina, ul, portugal', 'instituto de medicina molecular, lisbon, portugal', 'cns - campus neurologico senior, torres vedras, portugal', 'alcoitao schoool of health sciences, santa casa da misericorida de lisboa, portugal', 'departments of clinical pharmacology and neurosciences, cic 1436, ns-park/fcrin network', 'and neurotoul coen center, inserm, chu of toulouse and university of toulouse, france']
 zhang20ja_interspeech	['ping an technology']
 falkowskigilski20_interspeech	['gdansk university of technology, faculty of electronics, telecommunications and informatics,', 'gdansk, poland', 'general tadeusz kosciuszko military university of land forces, wroclaw, poland', 'wroclaw university of science and technology, faculty of electrical engineering,', 'wroclaw, poland', 'wroclaw university of science and technology, faculty of electronics, wroclaw, poland', 'komag institute of mining technology, gliwice, poland', 'kghm polska miedz s.a., lubin, poland', 'china agriculture university, college of engineering, beijing, china']
 chiu20_interspeech	"[""department of computer science and software engineering, xi'an jiaotong-liverpool university,"", 'suzhou 215123, china', 'school of computer science and technology, anhui university, hefei', ', china']"
 huang20h_interspeech	['department of computer science, university of sheffield', 'sheffield, uk']
-ragano20_interspeech	['alessandro ragano1,2,3,4, emmanouil benetos3,4, andrew hines1,2']
+ragano20_interspeech	
 algayres20_interspeech	['ens-psl, ehess, cnrs, paris', 'inria, paris']
 li20la_interspeech	['department of computer science, inner mongolia university, china', 'department of computer science and engineering, the ohio state university, usa', 'center for cognitive and brain sciences, the ohio state university, usa']
 dong20_interspeech	['department of computer science, indiana university, usa']
@@ -894,12 +946,12 @@ kreuk20b_interspeech	['bar-ilan university', 'facebook ai research', 'carnegie m
 daubener20_interspeech	['ruhr university bochum, germany']
 adelani20_interspeech	['spoken language systems group, saarland informatics campus, saarland university, germany']
 jayashankar20_interspeech	['mitsubishi electric research laboratories (merl), cambridge, ma, usa', 'university of illinois at urbana-champaign, champaign, il, usa']
-huang20i_interspeech	['wen-chin huang1, tomoki hayashi1, yi-chiao wu1, hirokazu kameoka2, tomoki toda1']
+huang20i_interspeech	
 suda20_interspeech	['the university of tokyo']
 chen20s_interspeech	['department of biomedical engineering, national yang-ming university', 'research center for information technology innovation, academia sinica', 'department of audiology and speech language pathology, mackay medical college']
 wu20p_interspeech	['college of electrical engineering and computer science, national taiwan university']
-park20e_interspeech	['seung-won park1,2, doo-young kim1,2, myun-chul joe2']
-fu20c_interspeech	['ruibo fu1,2, jianhua tao1,2,3, zhengqi wen1, jiangyan yi1, tao wang1,2, chunyu qiang1,2']
+park20e_interspeech	
+fu20c_interspeech	
 lian20d_interspeech	"['national laboratory of pattern recognition, casia, beijing', 'school of artificial intelligence, university of chinese academy of sciences, beijing', 'cas center for excellence in brain science and intelligence technology, beijing', ""school of computer science, northwestern polytechnical university, xi'an"", 'momo dllab, beijing']"
 nercessian20_interspeech	['izotope, inc.']
 chen20t_interspeech	['ping an technology, china']
@@ -926,6 +978,7 @@ rowe20_interspeech	['mgh institute of health professions', 'harvard university']
 alhinti20_interspeech	['department of computer science, university of sheffield, united kingdom', 'health sciences school, university of sheffield, united kingdom', 'centre for assistive technology and connected healthcare (catch), sheffield, united kingdom']
 halpern20_interspeech	['university of amsterdam, aclc, amsterdam, the netherlands', 'multimedia computing group, delft university of technology, delft, the netherlands', 'netherlands cancer institute, amsterdam, the netherlands']
 dunbar20_interspeech	"['ondel3, laurent besacier4, sakriani sakti5,6, emmanuel dupoux2,7', 'universite de paris, llf, cnrs, paris, france', 'cognitive machine learning (ens - cnrs - ehess - inria - psl research university), france', 'department of computer graphics and multimedia, brno univ. of technology, czech republic', ""laboratoire d'informatique de grenoble, equipe getalp (universite grenoble alpes), france"", 'nara institute of science and technology', 'riken center for advanced intelligence project, japan', 'facebook a.i. research, paris, france']"
+niekerk20b_interspeech	
 ds20_interspeech	['indian institute of techonology madras, india']
 gundogdu20_interspeech	['bogazici university, turkey', 'national defense university naval academy, turkey']
 tjandra20_interspeech	['nara institute of science and technology, japan', 'riken, center for advanced intelligence project aip, japan']
@@ -933,7 +986,7 @@ morita20_interspeech	['primate research institute, kyoto university, japan']
 tobing20_interspeech	['graduate school of information science, nagoya university, japan', 'information technology center, nagoya university, japan']
 chen20u_interspeech	['department of computer science, university of sheffield, sheffield, uk']
 rasanen20_interspeech	['unit of computing sciences, tampere university, finland', 'dept. signal processing and acoustics, aalto university, finland']
-bhati20_interspeech	['saurabhchand bhati1, jesus villalba1,2, piotr ˙zelasko1, najim dehak1,2']
+bhati20_interspeech	
 millet20_interspeech	"['coml, ens/cnrs/ehess/inria/psl research university, paris, france', 'universite de paris, llf, cnrs, paris, france', ""cri, departement frontieres du vivant et de l'apprendre, iifr, universite de paris""]"
 clayton20_interspeech	['the university of edinburgh', 'speakunique limited']
 m20b_interspeech	['indian institute of technology, kharagpur, india']
@@ -954,6 +1007,7 @@ pan20d_interspeech	['dept. of computer science, university of sheffield, uk', 'a
 romana20_interspeech	['computer science and engineering, university of michigan, ann arbor, michigan, usa', 'physical medicine & rehabilitation, university of michigan, ann arbor, michigan, usa', 'communication sciences and disorders, northwestern university, evanston, illinois, usa']
 kadiri20_interspeech	['department of signal processing and acoustics, aalto university, finland', 'speech processing laboratory, international institute of information technology, hyderabad, india']
 quintas20_interspeech	['irit, universite de toulouse, cnrs, toulouse, france', 'chu larrey, oncopole, toulouse, france']
+abraham20_interspeech	
 perez20_interspeech	['university of michigan, ann arbor']
 kodrasi20_interspeech	['∗speech and audio processing group, idiap research institute, martigny, switzerland', '†faculty of psychology and educational sciences, university of geneva, geneva, switzerland']
 shi20i_interspeech	['facebook ai, usa']

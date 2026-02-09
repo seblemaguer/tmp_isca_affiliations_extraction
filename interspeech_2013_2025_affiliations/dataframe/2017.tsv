@@ -1,6 +1,6 @@
 paper_id	affiliations
 itakura17_interspeech	"['nagoya university, japan', 'monday', ' august', ':45–10:15, aula magna', 'biography', 'fumitada itakura was born in toyokawa, in japan, in august 1940. he studied electronic', 'engineering at nagoya university', '–1963. he advanced to its graduate school and studied', 'information engineering with topics such as statistical optical character recognition and time', ""series analysis of cardiac rhythmicity. after finishing his master's degree in 1965, he worked on"", 'speech signal processing using a statistical approach. he received his doctorate in engineering', 'from nagoya university in 1971 for his work on a statistical method for speech analysis and', 'synthesis.', ""itakura's early work on speech spectral envelope and formant estimation using the maximum"", 'likelihood methods (1967) laid the groundwork for much of the research in speech signal process-', 'ing in the three subsequent decades, ranging from vocoder designs for low bit-rate transmission', 'to distance measures (itakura-saito distance) for speech pattern recognition. he introduced the', 'concepts of the auto-regressive model and the partial auto-correlation to the speech area and', 'developed the first mathematically tractable formulation of the speech recognition problem', 'based on the minimum prediction residual principle, providing a solid framework for integrat-', 'ing speech analysis, representation, and pattern matching into a complete engineering system.', 'his work on autoregressive modeling of speech is used in almost every low-to-medium bit rate', 'speech transmission system. the line spectral pair (lsp) representation, which he developed', 'in the 1975, is now used in nearly every cellular phone system and handset. itakura and hong', ""wang's recent work in sub-band dereverberation algorithms has also become the foundation for"", 'many new breakthroughs. his singular and yet broad contributions to speech signal processing', 'earned him the ieee morris liebmann award in 1986, the most prestigious society award from', 'the ieee signal processing society in 1996, ieee fellow in 2003, the purple ribbon medal from', 'the japanese government in 2003 and the distinguished achievement and contributions award', 'from ieice in 2003. these technical achievements were accomplished mainly at nagoya univer-', 'sity (1965–1968', '–2003), the fourth research section of musashino electrical communication', 'laboratory of ntt (1963–1973', '–1983), acoustic research laboratory of bell telephone', 'laboratories, murray hill (1973–1975), and meijo university (2003–2011).', 'isca medal for scientific achievement', 'the isca medal for scientific achievement 2017 will be awarded to professor fumitada itakura', 'by the president of isca during the opening ceremony.', 'copyright © 2017 isca', 'interspeech 2017', 'august 20–24', ', stockholm, sweden', 'copyright © 2017 isca', 'interspeech 2017', 'august 20–24', ', stockholm, sweden']"
-kinnunen17_interspeech	['tomi kinnunen1, md sahidullah1, hector delgado2, massimiliano todisco2,', 'nicholas evans2, junichi yamagishi3,4, kong aik lee5']
+kinnunen17_interspeech	
 font17_interspeech	['biometric vox s l., spain']
 patil17_interspeech	['speech research lab, dhirubhai ambani institute of information and communication technology', '(da-iict), gandhinagar, gujarat, india']
 cai17_interspeech	['sysu-cmu joint institute of engineering, school of electronics and information technology,', 'sun yat-sen university, guangzhou, china', 'sysu-cmu shunde international joint research institute, guangdong, china', 'jiangsu jinling science and technology group limited']
@@ -18,11 +18,12 @@ westhuizen17_interspeech	['department of electrical and electronic engineering, 
 soto17_interspeech	['columbia university, ny, usa']
 lavrentyeva17_interspeech	['itmo university, st.petersburg, russia', 'stc-innovations ltd., st.petersburg, russia']
 ji17_interspeech	['national computer network emergency response technical team', 'coordination center of china(cncert/cc), china', 'big data innovation center, creditease, china']
+li17b_interspeech	
 nagarsheth17_interspeech	['pindrop, atlanta, usa']
 chen17_interspeech	['school of electronic and information engineering', 'south china university of technology, guangzhou, china']
 alluri17_interspeech	['speech processing laboratory, kcis', 'international institute of information technology, hyderabad, india']
 hartmann17_interspeech	['raytheon bbn technologies, cambridge, ma, usa']
-wong17_interspeech	['department of engineering, university of cambridge', 'trumpington street, cb2 1pz cambridge, england']
+wong17_interspeech	
 cui17_interspeech	['ibm t j. watson research center, yorktown heights, ny 10598, usa']
 ma17_interspeech	['raytheon bbn technologies, cambridge, ma, usa']
 saon17_interspeech	['ibm watson, yorktown heights, usa', 'ibm research - tokyo, japan', 'appen, sydney, australia']
@@ -56,11 +57,12 @@ oualil17_interspeech	['spoken language systems (lsv)', 'collaborative research c
 chen17b_interspeech	['university of cambridge engineering department', 'chinese university of hong kong']
 huang17b_interspeech	['ibm thomas j watson research center, yorktown heights, ny, usa']
 kurata17_interspeech	['ibm research - tokyo, japan', 'ibm t j. watson research center, usa']
-benes17_interspeech	['karel benes, murali karthick b.askar, lukas burget']
+benes17_interspeech	
 poorjam17_interspeech	['audio analysis lab, ad:mt, aalborg university, aalborg, dk', 'engineering and applied science, aston university, birmingham, uk', 'media lab, mit, cambridge, massachusetts, usa']
 le17_interspeech	['university of michigan, ann arbor, mi 48109, usa', '†computer science and engineering, ‡university center for language and literacy']
 garcia17_interspeech	['faculty of engineering, universidad de antioquia udea, medellin, colombia', 'pattern recognition lab, friedrich-alexander-universitat erlangen-nurnberg, germany', 'institute for infocomm research i2r, a*star, singapore', 'center for language and speech processing, johns hopkins university, baltimore, usa']
 chien17_interspeech	['center for analysis and design of intelligent agents, reykjavik university, iceland']
+pokorny17_interspeech	
 vasquezcorrea17_interspeech	['faculty of engineering, university of antioquia udea, calle 70 no. 52-21, medellin, colombia.', 'pattern recognition lab, friedrich-alexander-universitat erlangen-nurnberg, germany.']
 bai17_interspeech	['department of electronic electrical and systems engineering,', 'the university of birmingham, birmingham b15 2tt, uk']
 chen17c_interspeech	['school of electrical engineering and telecommunications', 'the university of new south wales, unsw sydney, nsw 2052, australia', 'data61 csiro, australia']
@@ -123,7 +125,7 @@ matsui17_interspeech	['graduate school of systems engineering, wakayama universi
 lorenzotrueba17_interspeech	['national institute of informatics, tokyo, japan', 'the university of edinburgh, edinburgh, uk']
 niebuhr17_interspeech	['mads clausen institute, irca, university of southern denmark, soenderborg, denmark', 'dept. of general linguistics, kiel university, kiel, germany']
 marques17_interspeech	['university of colorado at boulder, usa']
-kim17b_interspeech	['university of hawai‘i at mānoa, usa']
+kim17b_interspeech	['university of hawai‘i at manoa, usa']
 silva17_interspeech	['deti / ieeta, university of aveiro (aveiro, portugal)']
 somandepalli17_interspeech	['signal analysis and interpretation laboratory, university of southern california, los angeles, usa']
 asadiabadi17_interspeech	['multimedia, vision and graphics laboratory,', 'college of engineering, koc university, istanbul, turkey']
@@ -143,10 +145,10 @@ romren17_interspeech	['oslo and akershus university college of applied sciences/
 zhou17_interspeech	['institute of automation, chinese academy of sciences', 'university of chinese academy of sciences']
 siohan17_interspeech	['google, usa']
 tong17_interspeech	['idiap research institute, martigny, switzerland', 'ecole polytechnique federale de lausanne (epfl), switzerland']
-karafiat17_interspeech	['martin karafiat, murali karthick b.askar, pavel matejka, karel vesely, frantisek grezl', 'lukas burget and jan “honza” cernocky']
+karafiat17_interspeech	
 matassoni17_interspeech	['center for information and communication technology', 'fondazione bruno kessler, via sommarive 18, trento (italy)']
 kim17c_interspeech	['school of electrical engineering, kaist, daejeon, republic of korea']
-do17_interspeech	['van hai do1,4, nancy f chen2, boon pang lim2, mark hasegawa-johnson1,3']
+do17_interspeech	
 joy17_interspeech	['indian institute of technology-madras, india']
 samarakoon17_interspeech	['hong kong university of science and technology', 'google, inc']
 fainberg17_interspeech	['the centre for speech technology research, university of edinburgh, united kingdom']
@@ -245,6 +247,8 @@ huber17_interspeech	['medizinische physik and cluster of excellence hearing4all,
 neufeld17_interspeech	['university of maryland']
 wang17f_interspeech	['university of science and technology of china, hefei, anhui, p r. china', 'georgia institute of technology, atlanta, ga. usa']
 higuchi17_interspeech	['ntt communication science laboratories, ntt corporation, kyoto, japan']
+pirhosseinloo17_interspeech	
+chien17b_interspeech	
 andrei17_interspeech	['university “politehnica” of bucharest']
 li17f_interspeech	['key laboratory of speech acoustics and content understanding,', 'institute of acoustics, chinese academy of sciences, beijing 1001090, china', 'university of chinese academy of sciences, china', 'xinjiang laboratory of minority speech and language information processing']
 quiroz17_interspeech	['leibniz-zas & berlin school of mind and brain, berlin, germany', 'leibniz-zas & humboldt-universitaet zu berlin, berlin, germany']
@@ -268,8 +272,11 @@ mohammadi17_interspeech	['center for spoken language understanding, oregon healt
 sak17_interspeech	['google inc., usa']
 pundak17_interspeech	['google inc., new york, ny, usa']
 ravanelli17_interspeech	['fondazione bruno kessler, trento, italy', 'universite de montreal, montreal, canada']
+chien17c_interspeech	
 ratajczak17_interspeech	['graz university of technology, signal processing and speech communication laboratory', 'eth zurich, learning & adaptive systems group']
 han17_interspeech	['capio inc., belmont, ca, usa']
+lee17_interspeech	
+torrescarrasquillo17_interspeech	
 colibro17_interspeech	['nuance communications, inc.', 'politecnico di torino, italy']
 zhang17c_interspeech	['center for robust speech systems (crss), erik jonsson school of engineering,', 'university of texas at dallas, richardson, texas, u.s.a.']
 plchot17_interspeech	['nuance communications, inc.', 'crim, montreal (quebec), canada']
@@ -286,6 +293,7 @@ athanasopoulou17_interspeech	['uc san diego, usa', 'university of delaware, usa'
 plug17_interspeech	['university of leeds, united kingdom', 'university of glasgow, united kingdom']
 yang17_interspeech	['communication sciences and disorders, university of central arkansas, usa', 'communication sciences and disorders, ohio university, usa', 'chinese academy of social sciences, china']
 ewald17_interspeech	['lund university, sweden', 'university of tartu, estonia']
+qian17_interspeech	
 yue17_interspeech	['the university of tokyo,', 'tokyo international university,', 'kyoto university']
 lee17b_interspeech	['educational testing service', 'rosedale road, princeton, nj, usa', 'clee001, syoon, xwang002,']
 arora17_interspeech	['faculty of linguistics, philology and phonetics, university of oxford, uk', 'goethe university, frankfurt am main, germany']
@@ -314,7 +322,7 @@ bousquet17_interspeech	['university of avignon - lia, france']
 mccree17_interspeech	['human language technology center of excellence', 'johns hopkins university, baltimore, md, usa']
 borgstrom17_interspeech	['mit lincoln laboratory, lexington, ma', 'nist itl/iad/multimodal information group, md']
 tan17_interspeech	['dept. of electronic and information engineering, the hong kong polytechnic university']
-matejka17_interspeech	['pavel matejka, ondrej novotny, oldrich plchot, lukas burget,', 'mireia diez sanchez, jan “honza” cernocky']
+matejka17_interspeech	
 silnova17_interspeech	['brno university of technology, czech republic']
 travadi17_interspeech	['signal analysis and interpretation lab, university of southern california']
 rahman17_interspeech	['speech and audio research laboratory, queensland university of technology, brisbane, australia']
@@ -363,7 +371,7 @@ fernandez17_interspeech	['department of linguistics, stockholm university, swede
 sjons17_interspeech	['department of linguistics, stockholm university, sweden', 'center for language and cognition groningen, university of groningen, the netherlands']
 zhang17e_interspeech	['department of chinese and bilingual studies, the hong kong polytechnic university, hong kong', 'shenzhen institutes of advanced technology, chinese academy of sciences, china']
 marklund17_interspeech	['stockholm babylab, phonetics laboratory, dept. of linguistics, stockholm university, sweden']
-berisha17_interspeech	['visar berisha1,2, julie liss1, timothy huston2, alan wisler1, yishan jiao1, jonathan eig3']
+berisha17_interspeech	
 castellana17_interspeech	['department of electronics and telecommunications, politecnico di torino, italy', 'department of speech, music and hearing, kth, stockholm, sweden', 'department of energy, politecnico di torino, italy']
 bandini17b_interspeech	['university health network: toronto rehabilitation institute, toronto, canada', 'mgh institute of health professions, boston, usa', 'neurology, sunnybrook health sciences centre, toronto, canada', 'brain sciences, sunnybrook research institute, toronto, canada', 'department of speech-language pathology, university of toronto, canada']
 adiga17_interspeech	['department of electronics and electrical engineering', 'indian institute of technology guwahati, india', 'vit university, chennai, india']
@@ -389,6 +397,7 @@ zegers17_interspeech	['ku leuven, dept. esat, belgium']
 yang17b_interspeech	['key laboratory of machine perception,', 'shenzhen graduate school, peking university, china']
 karthik17_interspeech	['electrical engineering, indian institute of science (iisc), bengaluru-560012, india']
 chen17i_interspeech	['dept. electrical engineering, national tsing hua university, taiwan']
+tao17_interspeech	
 maas17_interspeech	['amazon.com, usa']
 kothapally17_interspeech	['center for robust speech systems (crss), university of texas at dallas, usa']
 wu17d_interspeech	['institute of information science, academia sinica, taipei, taiwan', 'research center for information technology innovation, academia sinica, taipei, taiwan']
@@ -410,6 +419,8 @@ meermeier17_interspeech	['raytheon bbn technologies, cambridge, massachusetts, u
 cernak17_interspeech	['idiap research institute, switzerland']
 lenarczyk17_interspeech	['ipi pan – institute of computer science of the polish academy of sciences, warsaw, poland']
 chennupati17_interspeech	['speech processing lab, international institute of information technology, hyderabad, india.', 'research centre imarat, hyderabad, india.']
+stemmer17_interspeech	
+tsuji17_interspeech	
 daniel17_interspeech	['nxp semiconductors, sophia antipolis, france']
 milosevic17_interspeech	['school of electrical engineering, university of belgrade, serbia', 'empa, swiss federal laboratories for materials science and technology, switzerland']
 hagerer17_interspeech	['audeering gmbh, gilching, germany', 'chair of complex & intelligent systems, university of passau, germany']
@@ -486,6 +497,7 @@ haider17_interspeech	['adapt centre, trinity college dublin, ireland', 'iphsi, u
 li17j_interspeech	['microsoft ai and research, one microsoft way, redmond, wa 98052']
 ahmad17_interspeech	['department of electronics and communication engineering, nit sikkim, india.', 'department of electronics and communication engineering, nit patna, india.', 'department of computer science and engineering, nit sikkim, india', '.']
 xie17_interspeech	['key laboratory of human-machine intelligence-synergy systems,', 'shenzhen institutes of advanced technology, chinese academy of sciences, shenzhen, china', 'chinese university of hong kong, hong kong, china']
+arsikere17_interspeech	
 srinivasamurthy17_interspeech	['idiap research institute, martigny, switzerland', 'spoken language systems group, saarland university (uds), saarbrucken, germany', 'institute for flight guidance, german aerospace center (dlr), braunschweig, germany']
 kim17f_interspeech	['mila, universite de montreal, canada', 'samsung advanced institute of technology, republic of korea']
 bosker17b_interspeech	['max planck institute for psycholinguistics, po box 310', ' ah, nijmegen, netherlands', 'donders institute for brain, cognition and behaviour, radboud university, nijmegen, netherlands']
@@ -522,6 +534,7 @@ gelly17_interspeech	['limsi, cnrs, univ. paris-sud, universite paris-saclay', ' 
 jin17_interspeech	['national engineering laboratory of speech and language information processing', 'university of science and technology of china, hefei, china', 'school of computing, university of kent, medway, uk']
 zhang17i_interspeech	['center for robust speech systems (crss), erik jonsson school of engineering', 'university of texas at dallas, richardson, texas, u.s.a.']
 irtza17_interspeech	['school of electrical engineering and telecommunications, unsw australia', 'data61, csiro, sydney, australia', 'national university of singapore, singapore']
+qian17c_interspeech	
 khurana17_interspeech	['glass2', 'qatar computing research institute, hbku, doha, qatar', 'mit computer science and artificial intelligence laboratory (csail), cambridge, ma, usa']
 alluri17b_interspeech	['speech processing laboratory, kcis', 'international institute of information technology, hyderabad, india']
 sailor17_interspeech	['speech research lab, dhirubhai ambani institute of information and communication technology', '(da-iict), gandhinagar-382007, gujarat, india']
@@ -540,7 +553,7 @@ pfeifenberger17_interspeech	['signal processing and speech communication laborat
 wood17b_interspeech	['necotis, gegi, universite de sherbrooke, canada']
 ji17b_interspeech	['computer and telecomm. eng. division', 'yonsei university, wonju, korea']
 zhang17j_interspeech	['university of illinois, urbana-champaign, il, usa', 'microsoft research, redmond, wa, usa']
-liu17d_interspeech	['yuanyuan liu1,2, tan lee1,2, p.c. ching1, thomas k.t. law3, kathy y.s. lee2,3']
+liu17d_interspeech	
 ylmaz17c_interspeech	['cls/clst, radboud university, nijmegen, netherlands']
 smith17_interspeech	['data61, csiro, hobart, australia', 'university of sydney, sydney, australia', 'acoustics research centre, university of salford, manchester, u.k.', 'health and biosecurity, csiro, sydney, australia', 'murdoch childrens research institute, melbourne, australia']
 joy17b_interspeech	['indian institute of technology-madras, india']
@@ -554,7 +567,7 @@ kumar17c_interspeech	['signal analysis and interpretation lab, university of sou
 zhu17_interspeech	['microsoft', ' 110th ave ne, bellevue, wa, united states']
 dimitriadis17_interspeech	['ibm', 'yorktown heights, usa', 'prague, czech republic']
 seshadri17_interspeech	['department of signal processing and acoustics, aalto university, finland.', 'department of mathematics and statistics, university of helsinki, finland.']
-proenca17b_interspeech	['jorge proenca1,2, carla lopes1,3, michael tjalve4, andreas stolcke5, sara candeias6,', 'fernando perdigao1,2']
+proenca17b_interspeech	
 yoon17_interspeech	['educational testing service,', 'rosedale road, princeton, nj, usa', 'syoon, clee001, ichoi001,']
 li17k_interspeech	['school of electrical and computer engineering, georgia institute of technology, atlanta, usa', 'institute for infocomm research, singapore', 'department of telematics, kore university of enna, enna, italy']
 tsujimura17_interspeech	['department of computer science and engineering, toyohashi university of technology, japan', 'department of computer science, chubu university, japan']
@@ -589,6 +602,7 @@ tsuchiya17_interspeech	['department of computer science and engineering, toyohas
 lopezotero17_interspeech	['atlanttic research center, multimedia technologies group, university of vigo, spain']
 kumar17e_interspeech	['amazon inc, usa', 'university of illinois at urbana-champaign, usa']
 tsunoo17_interspeech	['the university of edinburgh, united kingdom', 'sony corporation, japan']
+bouchekif17_interspeech	
 bang17_interspeech	['chungbuk national university, south korea', 'electronics and telecommunications research institute, south korea']
 svec17_interspeech	['ntis, university of west bohemia, czechia', 'department of cybernetics, university of west bohemia, czechia', 'center for language and speech processing, johns hopkins university, usa']
 gallardo17c_interspeech	['quality and usability lab, telekom innovation laboratories, tu berlin, germany', 'tno, the hague, netherlands']
@@ -610,7 +624,7 @@ benus17_interspeech	['constantine the philosopher university in nitra, slovakia,
 jochim17b_interspeech	['institute of phonetics and speech processing, ludwig-maximilians-universitat munchen, germany']
 nellore17_interspeech	['speech processing laboratory,', 'international institute of information technology, hyderabad, india']
 ding17_interspeech	['institute of cross-linguistic processing and cognition, school of foreign languages,', 'shanghai jiao tong university, china', 'department of chinese and bilingual studies, the hong kong polytechnic university, hong kong']
-schatz17_interspeech	"['laboratoire de sciences cognitives et psycholinguistique (ens, ehess, cnrs),', ""departement d'etudes cognitives de l'ecole normale superieure, psl research university, france"", ""sierra project-team (ens, inria, cnrs), laboratoire d'informatique de l'ecole normale"", 'superieure, psl research university, france', 'department of linguistics, university of hawai‘i at m¯anoa, usa']"
+schatz17_interspeech	"['laboratoire de sciences cognitives et psycholinguistique (ens, ehess, cnrs),', ""departement d'etudes cognitives de l'ecole normale superieure, psl research university, france"", ""sierra project-team (ens, inria, cnrs), laboratoire d'informatique de l'ecole normale"", 'superieure, psl research university, france', 'department of linguistics, university of hawai‘i at manoa, usa']"
 lin17b_interspeech	['singapore university of technology and design, singapore', 'chinese university of hong kong, hong kong']
 phan17_interspeech	['and alfred mertins⋆', '⋆institute for signal processing, university of lubeck', '†graduate school for computing in medicine and life sciences, university of lubeck']
 sandsten17_interspeech	['mathematical statistics, centre for mathematical sciences, lund university, sweden', 'department of biomedical engineering, lund university, sweden,']
@@ -632,7 +646,7 @@ gupta17_interspeech	['∗amazon.com, usa', '+speech communication laboratory, un
 gillespie17_interspeech	['georgia institute of technology, united states of america', 'georgia state university, united states of america', 'grady memorial hospital, united states of america', 'northeastern university, united states of america']
 novotny17_interspeech	['department of circuit theory, faculty of electrical engineering, czech technical university in', 'prague, prague, czech republic', 'department of neurology and centre of clinical neuroscience, first faculty of medicine, charles', 'university in prague, prague, czech republic', 'institute of anatomy, first faculty of medicine, charles university in prague, prague, czech', 'republic']
 hantke17_interspeech	['chair of complex & intelligent systems, university of passau, germany', 'machine intelligence & signal processing group, technische universitat munchen, germany', 'audeering gmbh, gilching, germany', 'department of computing, imperial college london, uk']
-agurto17_interspeech	['carla agurto1, raquel norel1, rachel ostrand1, gillinder bedi2,3, harriet de wit2,', 'matthew j baggott2, matthew g kirkpatrick4, margaret wardle5, guillermo a cecchi1']
+agurto17_interspeech	
 mirheidari17_interspeech	['department of computer science, university of sheffield, sheffield, uk', 'sheffield institute for translational neuroscience (sitran), university of sheffield, sheffield, uk', 'department of neurology, royal hallamshire hospital, sheffield, uk', 'department of human communication sciences, university of sheffield, sheffield, uk', 'irccs fondazione ospedale san camillo, venice, italy', 'academic neurology unit, university of sheffield, royal hallamshire hospital, sheffield, uk']
 zhang17k_interspeech	['department of computing, imperial college london, london, u.k.', 'nuance communications, ulm, germany']
 lopezotero17b_interspeech	['atlanttic research center, multimedia technologies group, university of vigo, spain', 'l2f - spoken language systems lab, inesc-id lisboa, portugal', 'ist - instituto superior tecnico, university of lisbon, portugal']
@@ -672,6 +686,7 @@ korpusik17_interspeech	['mit computer science and artificial intelligence labora
 parcollet17_interspeech	['lia, university of avignon (france)']
 simonnet17_interspeech	['lium, le mans university, france', 'lia, university of avignon, france', 'mcgill university, montreal, canada']
 ma17e_interspeech	['department of eecs, oregon state university, usa', 'ibm watson group, t j. watson research center, ibm, usa']
+nayak17_interspeech	
 riou17_interspeech	['ceri-lia, university of avignon, france']
 martinezhinarejos17_interspeech	['pattern recognition and human language technology research center,', 'universitat politecnica de valencia, camino de vera, s/n', ', spain', 'sciling s.l., carrer del riu 321, pinedo', ', spain']
 morales17_interspeech	['department of linguistics, cuny graduate center, usa', 'institute for creative technologies, university of southern california, usa', 'department of computer science, brooklyn college (cuny), usa']
@@ -685,7 +700,8 @@ kaneko17c_interspeech	['ntt communication science laboratories, ntt corporation,
 bollepalli17_interspeech	['department of signal processing and acoustics, aalto university, finland']
 luo17c_interspeech	['graduate school of system informatics, kobe university, japan']
 doddipatla17_interspeech	['toshiba research europe limited, cambridge research laboratory, cambridge, uk.', 'dept. of electrical and electronics engineering, federal university of santa catarina,', 'florianopolis, brazil.']
-li17l_interspeech	['runnan li1, zhiyong wu1,2, yishuang ning1, lifa sun2, helen meng1,2, lianhong cai1']
+li17l_interspeech	
+ramos17_interspeech	
 moore17_interspeech	['speech & hearing research group, dept. computer science, university of sheffield, uk', 'dept. psychology, university of sheffield, uk']
 dominguez17_interspeech	['universitat pompeu fabra, barcelona, spain', 'catalan institute for research and advanced studies (icrea), barcelona, spain']
 gruber17_interspeech	['new technologies for the information society (ntis)', 'department of cybernetics', 'faculty of applied sciences, university of west bohemia, czech republic']
@@ -703,6 +719,7 @@ huckvale17_interspeech	['university college london, london, u.k.', 'hungarian ac
 cai17b_interspeech	['school of electronics and information technology, sun yat-sen university, guangzhou, china', 'sysu-cmu shunde international joint research institute, guangdong, china', 'jiangsu jinling science and technology group limited, jiangsu, china']
 wagner17c_interspeech	['human centered multimedia, augsburg university, augsburg, germany', 'vocapia research', ' rue jean rostand', ' orsay, france']
 suresh17_interspeech	['telecommunication engineering, pes institute of technology, bangalore 560085, india', 'electrical engineering, indian institute of science (iisc), bangalore 560012, karnataka, india']
+nwe17_interspeech	
 kitamura17_interspeech	['konan university, japan', 'chiba institute of technology, japan', 'national research institute of police science, japan', 'showa university, japan']
 arnela17_interspeech	['gtm - grup de recerca en tecnologies media, la salle, universitat ramon llull, barcelona,', 'catalonia, spain', 'department of speech, music, and hearing, kth royal institute of technology, stockholm,', 'sweden']
 vasudevan17_interspeech	['department of electrical and computer engineering, university of british columbia, canada', 'department of advanced robotics, istituto italiano di tecnologia, italy']
@@ -717,8 +734,9 @@ gosztolya17b_interspeech	['university of szeged, institute of informatics, szege
 kaya17_interspeech	['department of computer engineering, namik kemal university, c orlu, tekirdag, turkey', 'st. petersburg institute for informatics and automation of russian academy of sciences, russia', 'department of speech information systems, itmo university, st. petersburg, russia']
 toshniwal17_interspeech	['toyota technological institute at chicago']
 shannon17b_interspeech	['google inc., usa']
+sainath17_interspeech	
 meng17b_interspeech	['school of electrical and computer engnineering, georgia institute of technology', '5th street nw, atlanta, ga 30308, usa']
-dighe17_interspeech	['pranay dighe1,2, afsaneh asaei1, herve bourlard1,2']
+dighe17_interspeech	
 yang17c_interspeech	['institute of information science, academia sinica, taiwan', 'research center for information technology innovation, academia sinica, taiwan', 'national taiwan normal university, taiwan']
 zajic17_interspeech	['university of west bohemia', 'faculty of applied sciences', 'ntis - new technologies for the information society and 2dept. of cybernetics,', 'univerzitni 8', ' 14 plzeˇn, czech republic']
 jati17_interspeech	['university of southern california, los angeles, ca, usa']
@@ -744,7 +762,8 @@ wand17_interspeech	['the swiss ai lab idsia, usi & supsi, manno-lugano, switzerl
 abdelaziz17_interspeech	['international computer science institute, berkeley, usa']
 csapo17_interspeech	['department of telecommunications and media informatics,', 'budapest university of technology and economics, budapest, hungary', 'mta-elte lendulet lingual articulation research group, budapest, hungary', 'institute of informatics, university of szeged, hungary', 'mta-szte research group on artificial intelligence, szeged, hungary', 'department of phonetics, e¨otv¨os lorand university, budapest, hungary']
 kamper17_interspeech	['toyota technological institute at chicago']
-vesely17_interspeech	['karel vesely, lukas burget, jan “honza” cernocky']
+chien17d_interspeech	
+vesely17_interspeech	
 hou17b_interspeech	['national engineering laboratory for speech and language information processing', 'university of science and technology of china, hefei, anhui, p r. china']
 fukuda17_interspeech	['ibm watson multimodal, ibm research, chuo-ku hakozaki, tokyo', '-8510, japan', 'ibm t j. watson research center, yorktown heights, ny 10598, us']
 prabhavalkar17b_interspeech	['google, inc., u.s.a', 'nvidia, u.s.a.']

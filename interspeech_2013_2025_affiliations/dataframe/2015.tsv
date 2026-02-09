@@ -56,6 +56,7 @@ renkens15_interspeech	['department electrical engineering-esat, katholieke unive
 bastianelli15_interspeech	['dicii', ' dii - university of rome tor vergata - rome, italy', 'diag - sapienza university of rome - rome, italy']
 luan15_interspeech	['mitsubishi electric research laboratories']
 ferreira15_interspeech	['ceri-lia, university of avignon, avignon - france']
+tafforeau15_interspeech	
 yang15b_interspeech	['tsinghua national laboratory for information science and technology', 'department of electronic engineering, tsinghua university, beijing 100084']
 lopes15_interspeech	['kth speech, music and hearing, stockholm, sweden', 'ist/inesc-id lisboa, lisboa, portugal', 'iscte/inesc-id lisboa, lisboa, portugal']
 crook15_interspeech	['microsoft corporation, redmond wa 98052, usa']
@@ -63,6 +64,7 @@ solanki15_interspeech	['glasgow university laboratory of phonetics, university o
 laskowski15_interspeech	['carnegie mellon university, pittsburgh pa, usa', 'voci technologies inc., pittsburgh pa, usa']
 llimona15_interspeech	['telefonica research', 'edificio telefonica-diagonal 00, barcelona, spain']
 callejas15_interspeech	['dept. of languages and computer systems, university of granada / citic-ugr, granada, spain', 'dept. of computer science, university carlos iii of madrid, leganes, spain']
+nakamura15_interspeech	
 gravano15_interspeech	['departamento de computacion, fceyn, universidad de buenos aires, argentina', 'national scientific and technical research council (conicet), buenos aires, argentina', 'constantine the philosopher university in nitra & ii-slovak academy of sciences, slovakia', 'dept. of computer and information science, brooklyn college cuny, new york, ny, usa', 'dept. of computer science, columbia university, new york, ny, usa']
 chowdhury15_interspeech	['department of information engineering & computer science, university of trento, italy']
 christodoulides15_interspeech	['centre valibel, institute for language & communication, universite de louvain, belgium', 'dtal, faculty of modern & medieval languages, university of cambridge, uk']
@@ -71,6 +73,7 @@ despotovic15_interspeech	['university of belgrade, technical faculty of bor, ser
 svec15_interspeech	['ntis - new technologies for information society', 'university of west bohemia, pilsen, czech republic']
 chen15b_interspeech	['school of computer science, carnegie mellon university', 'forbes avenue, pittsburgh, pa 15213-3891, usa']
 szekely15_interspeech	['school of computer science and informatics', 'university college dublin', 'belfield, dublin 4, ireland']
+cowan15_interspeech	
 ma15_interspeech	['department of computer science, university of sheffield, sheffield s1 4dp, uk']
 schymura15_interspeech	['institute of communication acoustics, ruhr-universitat bochum, germany', 'institute of communications engineering, university of rostock, germany']
 may15_interspeech	['hearing systems group,', 'technical university of denmark,', 'dk-2800 kgs. lyngby, denmark']
@@ -93,7 +96,7 @@ alam15_interspeech	['crim, montreal (qc) canada']
 lee15_interspeech	['institute for infocomm research, a*star, singapore', 'universite du mans - lium, france', 'centre de recherche informatique de montreal (crim), quebec, canada', 'agnitio research, somerset west, south africa', 'novolanguage, the netherlands', 'ibm research – haifa, israel', 'voicetrust, ontario, canada', 'agnitio s l., madrid, spain']
 he15_interspeech	['school of computer science and technology, harbin university of science and technology', 'school of computer science and technology, harbin institute of technology, harbin, china']
 nautsch15_interspeech	['⋆da/sec – biometrics and internet security research group, hochschule darmstadt, germany', '†department of signal processing and acoustics, aalto university, finland']
-fredes15_interspeech	['josue fredes1, jose novoa1, victor poblete1', ', simon king3, richard stern4, nestor becerra yoma1']
+fredes15_interspeech	
 shokouhi15_interspeech	['center for robust speech systems (crss)', 'the university of texas at dallas,tx 75080-3021, usa']
 wang15_interspeech	['tianjin key laboratory of cognitive computation & its applications, tianjin university, tianjin,', 'p. r china', 'center for speaker and language technologies (cslt), tsinghua university, beijing, p r.', 'china', 'school of information science, japan advanced institute of science and technology, ishikawa,', 'japan']
 yella15_interspeech	['idiap research institute, ch-1920 martigny, switzerland.', 'microsoft research, mountain view, ca, u.s.a.']
@@ -152,11 +155,11 @@ hasan15_interspeech	['the university of sheffield, sheffield, united kingdom']
 kuang15_interspeech	['department of linguistics, university of pennsylvania, u.s.a.']
 bao15_interspeech	['school of computer software, tianjin university', 'school of computer science and technology, tianjin university', 'chinese academy of social science', 'school of information science, jaist, japan']
 barbier15_interspeech	['speech and cognition department, gipsa-lab, cnrs & grenoble university, grenoble, france', 'anatomy laboratory, montpellier university, montpellier, france', 'lpnc, cnrs & grenoble university, grenoble, france', 'crnl, inserm, cnrs & lyon 1 university, lyon, france']
-sivaraman15_interspeech	['ganesh sivaraman 1, vikramjit mitra2, mark tiede3,', 'elliot saltzman4, louis goldstein5, carol espy-wilson1']
+sivaraman15_interspeech	
 barbier15b_interspeech	['speech and cognition department, gipsa-lab & grenoble university, grenoble, france', 'department of linguistics, universite du quebec a montreal, montreal, quebec, canada', 'univ. grenoble alpes, timc-imag, f-38000 grenoble, france', 'cnrs, timc-imag, f-38000 grenoble, france', 'haskins laboratories, new haven, connecticut, usa', 'mit, cambridge, massachusetts, usa;', 'boston university, boston, massachusetts, usa']
 kaburagi15_interspeech	['kyushu university', '-9-1 shiobaru, minami-ku, fukuoka, japan']
 skordilis15_interspeech	['signal analysis & interpretation lab, university of southern california, los angeles, ca, usa', 'educational testing service r&d', ' new montgomery st, #1500, san francisco, ca, usa', 'department of linguistics, university of southern california, los angeles, ca, usa']
-fer15_interspeech	['radek fer, pavel matejka, frantisek grezl, oldrich plchot and jan ”honza” cernocky']
+fer15_interspeech	
 mccree15_interspeech	['human language technology center of excellence', 'johns hopkins university, baltimore, md, usa']
 song15_interspeech	['national engineering laboratory of speech and language information processing,', 'university of science and technology of china, hefei, china']
 lozanodiez15_interspeech	['atvs-biometric recognition group, universidad autonoma de madrid, madrid, spain']
@@ -237,10 +240,12 @@ liu15b_interspeech	['university of washington, seattle']
 kamper15_interspeech	['cstr and 2ilcc, school of informatics, university of edinburgh, uk', 'hltcoe and clsp, johns hopkins university, usa']
 tilk15_interspeech	['institute of cybernetics', 'tallinn university of technology, estonia']
 ylmaz15_interspeech	['dept. esat-psi, ku leuven, belgium']
+gao15_interspeech	
 joshi15_interspeech	['department of electrical engineering, indian institute of technology bombay, india']
 kumar15b_interspeech	['microsoft corporation, redmond, wa']
 liu15c_interspeech	['department of systems engineering and engineering management,', 'the chinese university of hong kong, hong kong sar, china', 'human language technology department,', 'institute for infocomm research, singapore']
 sharma15_interspeech	['iit mandi, india']
+niculescu15_interspeech	
 yeo15_interspeech	['institute for infocomm research, singapore']
 dharo15_interspeech	['institute for infocomm research - a*star', 'fusionopolis way, connexis south', 'singapore']
 salimbajevs15_interspeech	['tilde', 'a vienibas gatve, lv-1004, riga, latvia', 'university of latvia', ' raina blvd., lv-1586, riga, latvia']
@@ -250,7 +255,7 @@ stadtschnitzer15_interspeech	['fraunhofer iais, schloss birlinghoven, sankt augu
 bell15_interspeech	['centre for speech technology research, university of edinburgh, edinburgh eh8 9ab, uk']
 znotins15_interspeech	['institute of mathematics and computer science, university of latvia', 'leta, latvia']
 assayag15_interspeech	['intel corporation israel, po box 1659, matam industrial park, haifa 31015, israel', 'intel labs, santa clara , ca ', ' usa', 'intel corporation germany, dornacher strasse 1, d-85622 feldkirchen/muenchen, germany']
-zioko15_interspeech	['tomasz pe¸dzima¸˙z1,2, ireneusz gawlik1, szymon palka1', 'agh university of science and technology,', 'department of computer science, electronics and telecommunications,', 'al. mickiewicza 30, krakow, poland, www.dsp.agh.edu.pl', 'techmo, krakow, poland, techmo.pl']
+zioko15_interspeech	['tomasz pe¸dzima¸z1,2, ireneusz gawlik1, szymon palka1', 'agh university of science and technology,', 'department of computer science, electronics and telecommunications,', 'al. mickiewicza 30, krakow, poland, www.dsp.agh.edu.pl', 'techmo, krakow, poland, techmo.pl']
 faria15_interspeech	['remeeting, inc.']
 masudakatsuse15_interspeech	['faculty of humanity-oriented science and engineering, kindai university, fukuoka, japan']
 kaufhold15_interspeech	['pattern recognition lab, fau erlangen-nuremberg, germany', 'e.sigma technology gmbh, ilmenau, germany']
@@ -263,6 +268,7 @@ rothlisberger15_interspeech	['ulla', 'richardson 4, silvia brem 1,2', 'universit
 pfab15_interspeech	['institut fur phonetik und sprachverarbeitung, lmu munchen, munich, germany', 'entwicklungsgruppe klinische neuropsychologie (ekn), munchen']
 patil15_interspeech	['data analytics lab, xerox research center india (xrci), bangalore, karnataka, india']
 anguera15_interspeech	['sinkronigo, s.l., barcelona, spain']
+besacier15_interspeech	
 lee15c_interspeech	['institute for infocomm research, a*star, singapore']
 arai15_interspeech	['department of information and communication sciences', 'sophia university, tokyo, japan']
 budnik15_interspeech	"[""laboratoire d'informatique de grenoble (lig), univ. grenoble alpes, grenoble, france"", 'limsi, cnrs - orsay, france', 'list, luxembourg']"
@@ -297,6 +303,7 @@ achanta15_interspeech	['international institute of information technology, hyder
 fan15_interspeech	['microsoft research asia, beijing, china']
 valentinibotinhao15_interspeech	['the centre for speech technology research, university of edinburgh, united kingdom']
 song15b_interspeech	['department of electrical and electronic engineering, yonsei university, seoul, korea']
+wu15b_interspeech	
 wang15c_interspeech	['national engineering laboratory for speech and language information processing,', 'university of science and technology of china, hefei, anhui, p r. china', 'school of electrical and computer engineering, georgia institute of technology, usa']
 irtza15_interspeech	['school of electrical engineering and telecommunications, unsw australia', 'atp research laboratory, national ict australia (nicta), australia', 'institute for infocomm research, a*star, singapore']
 cumani15b_interspeech	['politecnico di torino, italy']
@@ -315,7 +322,7 @@ huang15b_interspeech	['school of ece, georgia institute of technology, atlanta, 
 huang15c_interspeech	['microsoft corporation, one microsoft way, redmond, wa 98052']
 li15_interspeech	['speech and hearing research center,', 'key laboratory of machine perception (ministry of education),', 'peking university, beijing']
 kumar15d_interspeech	['microsoft corporation, redmond, wa']
-karthickb15_interspeech	['murali karthick b., prateek kolhar, s umesh']
+karthickb15_interspeech	
 miao15b_interspeech	['language technologies institute, school of computer science, carnegie mellon university']
 parisotto15_interspeech	['department of computer science, university of toronto', ' toronto rehabilitation institute-uhn;', 'sickkids research institute', ' university of calgary;', 'neurology, hospital for sick children; toronto on canada']
 werff15_interspeech	['reykjavik university', 'menntavegur 1', ' reykjavik, iceland']
@@ -409,12 +416,13 @@ govender15_interspeech	['human language technology research group, csir, meraka 
 kim15d_interspeech	['human media interaction, university of twente, enschede, the netherlands']
 sadeghian15_interspeech	['department of electrical and computer engineering, watson school,', 'binghamton university, new york, usa']
 proenca15_interspeech	['instituto de telecomunicacões, portugal', 'department of electrical and computer engineering, university of coimbra, portugal', 'microsoft language development centre, lisbon, portugal', 'polytechnic institute of leiria, leiria, portugal']
+sundar15_interspeech	
 guo15_interspeech	['dept. of electrical engineering, university of california, los angeles, ca 90095, usa', 'dept. of speech and hearing sciences, indiana university, bloomington', 'data analytics lab, xerox research center-india (xrci), bangalore, karnataka, india']
 leemann15_interspeech	['department of theoretical and applied linguistics, university of cambridge, united kingdom', 'phonogrammarchiv, universitat zurich, switzerland']
 fuchs15_interspeech	['englisches seminar, westfalische wilhelms-universitat munster, germany']
 li15b_interspeech	['research center for language information technologies, nanjing normal university, china']
 leykum15_interspeech	['acoustics research institute, austrian academy of sciences, austria', 'institute for corpus linguistics and text technology, austrian academy of sciences, austria']
-gibson15_interspeech	['mark gibson 1, ana maria fernandez planas2, adamantios gafos3, emily remirez']
+gibson15_interspeech	
 arai15b_interspeech	['department of information and communication sciences', 'sophia university, tokyo, japan']
 dutta15_interspeech	['department of computational linguistics, the efl university, hyderabad, india']
 kraus15_interspeech	['department of english linguistics, department of phonetics and speech processing', 'ludwig-maximilian-university, munich']
@@ -473,7 +481,7 @@ ghaemmaghami15_interspeech	['speech and audio research laboratory, science and e
 sriskandaraja15_interspeech	['school of electrical engineering and telecommunications, unsw, australia', 'atp research laboratory, national ict australia (nicta), australia']
 tao15_interspeech	['multimodal signal processing (msp) laboratory - center for robust speech systems (crss)', 'department of electrical engineering, the university of texas at dallas, richardson tx 75080, usa']
 raboshchuk15_interspeech	['talp research center, department of signal theory and communications,', 'universitat politecnica de catalunya, barcelona, spain', 'school of electronic, electrical & systems engineering,', 'university of birmingham, birmingham, uk', 'hospital sant joan de deu barcelona, esplugues de llobregat, barcelona, spain']
-dai15_interspeech	['jia dai1, wenju liu1, chongjia ni2, like dong3, hong yang3']
+dai15_interspeech	
 liu15d_interspeech	['amazon, usa']
 liu15e_interspeech	['sysu-cmu joint institute of engineering, sun yat-sen university', 'sysu-cmu joint research institute, sun yat-sen university', 'department of electrical and computer engineering, carnegie mellon university', 'language technologies institute, carnegie mellon university']
 espi15_interspeech	['ntt communication science laboratories, ntt corporation, japan']
@@ -499,6 +507,7 @@ janicki15_interspeech	['institute of telecommunications, warsaw university of te
 liu15f_interspeech	['tsinghua national laboratory for information science and technology,', 'department of electronic engineering, tsinghua university, beijing 100084, china', 'speech and signal processing lab, department of electrical and computer engineering,', 'marquette university, milwaukee, wi 53233, usa']
 sahidullah15_interspeech	['school of computing, university of eastern finland, finland']
 wang15f_interspeech	['nagaoka university of technology, japan', 'toyohashi university of technology, japan']
+chen15j_interspeech	
 lee15h_interspeech	['dmc r&d center, samsung electronics, suwon, korea']
 oualil15_interspeech	['spoken language systems group (lsv), saarland university, saarbrucken, germany', 'german aerospace center (dlr), institute of flight guidance, braunschweig, germany']
 allauzen15_interspeech	['google, inc']
@@ -534,7 +543,7 @@ gobl15_interspeech	['phonetics and speech laboratory, trinity college dublin, ir
 airaksinen15_interspeech	['department of signal processing and acoustics, aalto university, finland', 'international audio laboratories erlangen, friedrich-alexander university (fau), germany']
 narendra15_interspeech	['school of information technology, indian institute of technology kharagpur,', 'kharagpur - 721302, west bengal, india.']
 bundgaardnielsen15b_interspeech	['marcs institute, university of western sydney, australia', 'la trobe university, australia', 'melbourne university, australia']
-kreiman15_interspeech	['jody kreiman1, soo jin park2, patricia a keating3, and abeer alwan2']
+kreiman15_interspeech	
 jiao15_interspeech	['school of foreign languages, tongji university, shanghai, china', 'department of speech, hearing and phonetic sciences, university college london, london, uk']
 morioka15_interspeech	['department of computer science, waseda university, tokyo, japan', 'ntt communication science laboratories, ntt corporation, kyoto, japan']
 irie15_interspeech	['human language technology and pattern recognition,', 'computer science department, rwth aachen university, aachen, germany', 'spoken language processing group, limsi cnrs, paris, france']
@@ -554,7 +563,7 @@ mimura15_interspeech	['kyoto university, academic center for computing and media
 peddinti15_interspeech	['center for language and speech processing &', 'human language technology center of excellence', 'the johns hopkins university, baltimore, md 21218, usa']
 kumar15e_interspeech	['microsoft corporation, redmond, wa']
 mitra15_interspeech	['dimitra', 'vergyri, horacio franco', 'speech technology and research laboratory, sri international, menlo park, ca, usa.']
-karafiat15_interspeech	['martin karafiat, frantisek grezl, lukas burget, igor sz¨oke and jan “honza” cernocky']
+karafiat15_interspeech	
 harvilla15_interspeech	['department of electrical and computer engineering', 'carnegie mellon university, pittsburgh, pa 15213 usa']
 huang15e_interspeech	['school of information science and technology, beijing forestry university, beijing, china', 'institute of automation, chinese academy of sciences, beijing, china', 'institute for integrated and intelligent systems, griffith university, brisbane, australia']
 wang15h_interspeech	['the ohio state university, columbus, oh', 'google inc., mountain view, ca']
@@ -571,6 +580,7 @@ azais15_interspeech	['department of computing, imperial college, london, uk', 'a
 sergienko15_interspeech	['institute of communications engineering, ulm university, ulm, germany']
 hsiao15_interspeech	['department of electrical engineering, national tsing hua university, taiwan', 'national academy for educational research, taiwan']
 tsai15b_interspeech	['eecs department, university of california berkeley, berkeley, ca usa', 'international computer science institute, berkeley, ca usa']
+akira15_interspeech	
 koster15_interspeech	['quality and usability lab, telekom innovation labs', 'technische universitat berlin, germany']
 berger15_interspeech	['swissqual ag, zuchwil, switzerland']
 gaich15_interspeech	['signal processing and speech communication lab', 'graz university of technology, graz, austria']
@@ -589,6 +599,7 @@ zhang15d_interspeech	['national engineering laboratory for speech and language i
 he15c_interspeech	['department of computer science and engineering', 'the ohio state university, columbus, oh, usa']
 chen15l_interspeech	['department of computer science and engineering', 'the hong kong university of science and technology']
 gelly15_interspeech	['∗limsi - cnrs, spoken language processing group, orsay, france', '†paris-sud university, orsay, france']
+quatieri15_interspeech	
 zhang15e_interspeech	['center for robust speech systems (crss)', 'erik jonsson school of engineering and computer science', 'university of texas at dallas, richardson, texas, usa.']
 toth15_interspeech	['mta-szte research group on artificial intelligence, szeged, hungary', 'university of szeged, department of linguistics, szeged, hungary', 'research institute for linguistics, hungarian academy of sciences, budapest, hungary', 'university of szeged, department of psychiatry, szeged, hungary']
 sidorov15_interspeech	['ulm university, ulm germany', 'siberian state aerospace university, krasnoyarsk russia']
@@ -597,6 +608,7 @@ kaushik15b_interspeech	['center for robust speech systems (crss), eric jonsson s
 pasupat15_interspeech	['stanford university, palo alto, ca, united states', 'microsoft research, mountain view, ca, united states']
 nguyen15_interspeech	['graduate school of information science, nara institute of science and technology']
 bokaei15_interspeech	['department of computer engineering, sharif university of technology, tehran, iran', 'department of computer science, the university of texas at dallas, u.s.a']
+liu15h_interspeech	
 mokaram15_interspeech	['spandh, department of computer science, university of sheffield, s1 4dp, united kingdom']
 sousa15_interspeech	['university of minnesota, usa', 'technical university of darmstadt, germany', 'university of applied sciences darmstadt, germany', 'german institute for educational research (dipf), germany']
 huang15f_interspeech	['human language technology department, institute for infocomm research/a*star', '#21-01 connexis (south tower), singapore 138632']
@@ -706,6 +718,7 @@ pang15_interspeech	['key laboratory of machine perception (ministry of education
 phan15_interspeech	['⋆institute for signal processing, university of lubeck, germany', '†graduate school for computing in medicine and life sciences, university of lubeck, germany']
 ferrer15b_interspeech	['departamento de computacion, fcen, universidad de buenos aires and conicet, argentina', 'speech technology and research laboratory, sri international, california, usa']
 ajili15_interspeech	"[""university of avignon, laboratoire informatique d'avignon (lia), france"", 'university of grenoble, laboratoire informatique de grenoble (lig), france', ""laboratoire national de metrologie et d'essais (lne), france"", 'afeka tel-aviv college of engineering, afeka center for language processing (aclp), israel']"
+dean15_interspeech	
 aronowitz15b_interspeech	['ibm research - haifa, israel']
 misra15_interspeech	['center for robust speech systems (crss)', 'erik jonsson school of engineering & computer science', 'the university of texas at dallas (utd), richardson, tx 75080-3021, usa']
 carne15_interspeech	['college of asia and the pacific, the australian national university']
