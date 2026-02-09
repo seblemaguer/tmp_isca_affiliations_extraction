@@ -43,6 +43,7 @@ LEVEL = [logging.WARNING, logging.INFO, logging.DEBUG]
 DICT_KNOWN_ISSUES = {
     "¨a": "a",
     ", ˘a": "a",
+    ",˘a": "a",
     "\xa0": " ",
     "`a": "a",
     "`e": "e",
@@ -116,6 +117,8 @@ DICT_KNOWN_ISSUES = {
     "ˇr": "r",
     "ˇs": "s",
     "ˇz": "z",
+    "˙z": "z",
+    "ż": "z",
     "˘g": "g",
     "˚a": "a",
     "˚u": "u",
@@ -124,6 +127,10 @@ DICT_KNOWN_ISSUES = {
     "˜n": "n",
     "’": "'",
     '"o': "o",
+    "ˆo": "o",
+    "¯a": "a",
+    "ā": "a",
+    "˘a": "a",
 
     # Some weird decoding
     "ﬁ": "fi",
@@ -131,6 +138,63 @@ DICT_KNOWN_ISSUES = {
 }
 
 DICT_NAME_ISSUES = {
+    "tzeviya sylvia fuchs": "tzeviya fuchs",
+    "nathaniel robinson": "nathaniel romney robinson",
+    "alvaro iturralde zurita": "alvaro martin iturralde zurita",
+    "neha k. reddy": "neha reddy",
+    "tom o'malley": "thomas r. omalley",
+    "jenny yeonjin cho": "yeonjin cho",
+    "ryan m. corey": "ryan corey",
+    "jennifer drexler fox": "jennifer fox",
+    "sebastian p. bayerl": "sebastian peter bayerl",
+    "tomek rutowski": "tomasz rutowski",
+    "p. a. perez-toro": "paula andrea perez-toro",
+    "paul k. krug": "paul konstantin krug",
+    "venkatesh s. kadandale": "venkatesh shenoy kadandale",
+    "ryandhimas e. zezario": "ryandhimas edo zezario",
+    "sarenne carrol wallbridge": "sarenne wallbridge",
+    "adaeze adigwe": "adaeze o. adigwe",
+    "wiebke (toussaint) hutiri": "wiebke toussaint",
+    "samuel j. yang": "samuel yang",
+    "nathan young": "nathan joel young",
+    "rodrigo schoburg carrillo de mira": "rodrigo mira",
+    "bronya r. chernyak": "bronya roni chernyak",
+    "mudit batra": "mudit d. batra",
+    "daniel r. van niekerk": "daniel van niekerk",
+    "debasish ray mohapatra": "debasish mohapatra",
+    "m. iftekhar tanveer": "md iftekhar tanveer",
+    "fougeron c.": "cecile fougeron",
+    "dino ratcliffe": "dino rattcliffe",
+    "franklin alvarez cardinale": "franklin alvarez",
+    "jovan dalhouse": "jovan m. dalhouse",
+    "tunde szalay": "tuende szalay",
+    "claus m. larsen": "claus larsen",
+    "chandan k.a. reddy": "chandan reddy",
+    "tho tran": "tho nguyen duc tran",
+    "w.q. zheng": "weiqiao zheng",
+    "jacob j. webber": "jacob webber",
+    "samuel d. bellows": "samuel bellows",
+    "quoc-huy nguyen": "huy nguyen",
+    "soha a. nossier": "soha nossier",
+    "juncheng b. li": "juncheng li",
+    "achyut mani tripathi": "achyut tripathi",
+    "michel meneses": "michel cardoso meneses",
+    "david m. chan": "david chan",
+    "geoffrey t. frost": "geoffrey frost",
+    "l.l chamara kasun": "chamara kasun",
+    "binu abeysinghe": "binu nisal abeysinghe",
+    "nicolae-catalin ristea": "nicolaea-catalin ristea",
+    "daniel yue zhang": "daniel zhang",
+    "nicolas m. muller": "nicolas muller",
+    "rob j. j. h. van son": "rob van son",
+    "kun zhou a.": "kun zhou",
+    "mortaza (morrie) doulaty": "mortaza doulaty",
+    "john w. kim": "john kim",
+    "rob j.j.h. van son": "rob van son",
+    "john s. novak": "john s. novak iii",
+    "iroro fred o. no. me. orife": "Iroro Orife",
+    "l. ten bosch": "loui ten bosh",
+    "a. apoorv reddy": "arrabothu apoorv reddy",
     "yiteng (arden) huang": "yiteng huang",
     "ranzo c. f. huang": "ranzo huang",
     "a.apoorv reddy": "apoorv reddy arrabothu",
@@ -138,6 +202,8 @@ DICT_NAME_ISSUES = {
     "alan w.black": "alan w black",
     "ankita ankita": "ankita",
     # "c.-t.do": "c.-t.do",
+    "david r. feinberg": "david feinberg",
+    "jeremy h. m. wong": "jeremy heng meng wong",
     "c. d. rios-urrego": "cristian david rios-urrego",
     "cheng-hung hu": "chenghung hu",
     "chunhui wang": "wang chunhui",
@@ -416,7 +482,7 @@ def extract_affiliations(
             header,
         )
     )
-    cleaned_header = clean("\n".join(filtered_header).lower()).split("\n")
+    cleaned_header = clean("\n".join([l.strip() for l in filtered_header]).lower()).split("\n")
 
     # Clean the authors
     cleaned_authors = [clean(" ".join(a)) for a in authors]
@@ -439,6 +505,7 @@ def extract_affiliations(
         # Prepare the line to checked if it contains an author
         maybe_first_author = re.sub(r"[*†‡]", "", l)
         maybe_first_author = re.sub(r'[0-9],([^0-9])', r', \g<1>', maybe_first_author)
+        maybe_first_author = re.sub(r'([^0-9]),([^0-9])', r'\g<1>, \g<2>', maybe_first_author)
         maybe_first_author = re.sub(r'([0-9]) ([^0-9])', r'\g<1>, \g<2>', maybe_first_author)
         maybe_first_author = re.sub(r"[0-9]", "", maybe_first_author)
         maybe_first_author = (
@@ -447,14 +514,20 @@ def extract_affiliations(
         maybe_first_author = re.sub(r"[^a-z]", "", maybe_first_author ).strip()
         maybe_first_author = maybe_first_author.lower()
 
-        # Now check if we have an author
+        # Try to find all lines starting with an author
         logger.debug(f" - {maybe_first_author}", extra={"paper_id": paper_id})
-        if (index == -1) and (maybe_first_author in cleaned_authors):
-            if index == -1:
-                index = l_index
-        elif (index > -1) and (maybe_first_author not in cleaned_authors):
+        if maybe_first_author in cleaned_authors:
             index = l_index
-            break
+        else:
+            if index > -1:
+                break
+
+        # if (index == -1) and (maybe_first_author in cleaned_authors):
+        #     if index == -1:
+        #         index = l_index
+        # elif (index > -1) and (maybe_first_author not in cleaned_authors):
+        #     index = l_index
+        #     break
 
     # No author found...that is not expected!
     if index == -1:
@@ -463,7 +536,7 @@ def extract_affiliations(
         )
 
     # Deal with some numerical edge cases
-    affiliations = cleaned_header[index:]
+    affiliations = cleaned_header[index+1:]
     affiliations = [re.sub(r"^[0-9]*", "", a) for a in affiliations]
     affiliations = [re.sub(r" ([a-z])[.] ", r" \g<1> ", a) for a in affiliations]
     affiliations = [re.sub(r"[,;] [0-9]+", "\n", a) for a in affiliations]
@@ -511,13 +584,17 @@ def main():
         try:
             affiliations = extract_affiliations(paper_id, pdf_file, paper_info["authors"])
             list_affiliations.append(
-                {"paper_id": paper_id, "affiliations": affiliations}
+                {"paper_id": paper_id, "affiliations": affiliations if affiliations else None}
             )
         except Exception as ex:
             logger.error(
                 # f"{ex}:\n{traceback.format_exc()}",
                 f"{ex}:\n",
                 extra={"paper_id": paper_id, "error_step": "affiliations_extraction", "stacktrack": traceback.format_exc()},
+            )
+
+            list_affiliations.append(
+                {"paper_id": paper_id, "affiliations": None}
             )
 
     # ...and generate the dataframe
