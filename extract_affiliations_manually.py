@@ -90,7 +90,7 @@ DICT_KNOWN_ISSUES = {
     "ă": "a",
     "ć": "c",
     "č": "c",
-    "ė" : "e",
+    "ė": "e",
     "ę": "e",
     "ě": "e",
     "ğ": "g",
@@ -131,7 +131,6 @@ DICT_KNOWN_ISSUES = {
     "¯a": "a",
     "ā": "a",
     "˘a": "a",
-
     # Some weird decoding
     "ﬁ": "fi",
     "ﬂ": "fl",
@@ -400,7 +399,9 @@ def define_argument_parser() -> argparse.ArgumentParser:
     --------
     The argument parser: argparse.ArgumentParser
     """
-    parser = argparse.ArgumentParser(description="Helper to extract the affiliations from the ISCA archive data using the metadata")
+    parser = argparse.ArgumentParser(
+        description="Helper to extract the affiliations from the ISCA archive data using the metadata"
+    )
 
     # Add logging options
     parser.add_argument("-l", "--log_file", default=None, help="Logger file")
@@ -415,7 +416,10 @@ def define_argument_parser() -> argparse.ArgumentParser:
     # Add arguments
     parser.add_argument("input_metadata_file", help="The input metadata file")
     parser.add_argument("country_file", help="The country file")
-    parser.add_argument("archive_conf_dir", help="The ISCA archive conference directory which contains the PDF")
+    parser.add_argument(
+        "archive_conf_dir",
+        help="The ISCA archive conference directory which contains the PDF",
+    )
     parser.add_argument(
         "output_dataframe_affiliations", help="The output dataframe containing the "
     )
@@ -446,8 +450,8 @@ def clean(dirty: str) -> str:
         the cleaned string
     """
     dirty = dirty.lower().strip()
-    dirty = re.sub(r' ([a-z]) ', r' \g<1>. ', dirty)
-    dirty = re.sub(r'^([a-z]) ', r'\g<1>. ', dirty)
+    dirty = re.sub(r" ([a-z]) ", r" \g<1>. ", dirty)
+    dirty = re.sub(r"^([a-z]) ", r"\g<1>. ", dirty)
 
     for k, v in DICT_KNOWN_ISSUES.items():
         dirty = dirty.replace(k, v)
@@ -461,7 +465,7 @@ def clean(dirty: str) -> str:
 
 
 def extract_affiliations(
-        paper_id: str, pdf_file: pathlib.Path, authors: list[str], countries: list[str]
+    paper_id: str, pdf_file: pathlib.Path, authors: list[str], countries: list[str]
 ) -> list[str]:
     """Extract the affiliations from a given PDF file
 
@@ -516,17 +520,21 @@ def extract_affiliations(
             header,
         )
     )
-    cleaned_header = clean("\n".join([l.strip() for l in filtered_header]).lower()).split("\n")
+    cleaned_header = clean(
+        "\n".join([l.strip() for l in filtered_header]).lower()
+    ).split("\n")
 
     # Clean the authors
     cleaned_authors = [clean(" ".join(a)) for a in authors]
+
     def _initial(a: list[str]) -> list[str]:
         if len(a[0]) == 0:
-            return[a[1]]
+            return [a[1]]
         else:
             return [a[0][0] + "."] + [a[1]]
 
             raise Exception(authors)
+
     cleaned_authors += [clean(" ".join(_initial(a))) for a in authors]
     cleaned_authors += [clean(" ".join(a[::-1])) for a in authors]
     cleaned_authors = [re.sub(r"[^a-z]", "", a).strip() for a in cleaned_authors]
@@ -537,23 +545,33 @@ def extract_affiliations(
     for l_index, l in enumerate(cleaned_header):
 
         l = l.strip()
-        if (index > -1) and (re.search(r'[^ 0-9]\d$', l) is not None):
-            l_tmp = re.sub(r'[0-9,]+$', '', l).strip()
-            if (re_countries.search(l_tmp) is None) and (l_index < len(cleaned_header) - 1):
+        if (index > -1) and (re.search(r"[^ 0-9]\d$", l) is not None):
+            l_tmp = re.sub(r"[0-9,]+$", "", l).strip()
+            if (re_countries.search(l_tmp) is None) and (
+                l_index < len(cleaned_header) - 1
+            ):
                 logger.debug(f" - Found a potential incomplete author line")
                 index = l_index
                 continue
 
         # Prepare the line to checked if it contains an author
         maybe_first_author = re.sub(r"[*†‡]", "", l)
-        maybe_first_author = re.sub(r'[0-9],([^0-9])', r', \g<1>', maybe_first_author)
-        maybe_first_author = re.sub(r'([^0-9]),([^0-9])', r'\g<1>, \g<2>', maybe_first_author)
-        maybe_first_author = re.sub(r'([0-9]) ([^0-9])', r'\g<1>, \g<2>', maybe_first_author)
+        maybe_first_author = re.sub(r"[0-9],([^0-9])", r", \g<1>", maybe_first_author)
+        maybe_first_author = re.sub(
+            r"([^0-9]),([^0-9])", r"\g<1>, \g<2>", maybe_first_author
+        )
+        maybe_first_author = re.sub(
+            r"([0-9]) ([^0-9])", r"\g<1>, \g<2>", maybe_first_author
+        )
         maybe_first_author = re.sub(r"[0-9]", "", maybe_first_author)
         maybe_first_author = (
-            maybe_first_author.split(" and ")[0].split(" & ")[0].split(", ")[0].split("; ")[0].strip()
+            maybe_first_author.split(" and ")[0]
+            .split(" & ")[0]
+            .split(", ")[0]
+            .split("; ")[0]
+            .strip()
         )
-        maybe_first_author = re.sub(r"[^a-z]", "", maybe_first_author ).strip()
+        maybe_first_author = re.sub(r"[^a-z]", "", maybe_first_author).strip()
         maybe_first_author = maybe_first_author.lower()
 
         # Try to find all lines starting with an author
@@ -571,7 +589,7 @@ def extract_affiliations(
         )
 
     # Deal with some numerical edge cases
-    affiliations = cleaned_header[index+1:]
+    affiliations = cleaned_header[index + 1 :]
     affiliations = [re.sub(r"^[0-9]*", "", a) for a in affiliations]
     affiliations = [re.sub(r" ([a-z])[.] ", r" \g<1> ", a) for a in affiliations]
     affiliations = [re.sub(r"[,;] [0-9]+", "\n", a) for a in affiliations]
@@ -607,7 +625,9 @@ def main():
 
     country_df = pd.read_csv(args.country_file)
     countries = [clean(n) for n in country_df["name"]]
-    countries.append(" ai") # NOTE: this is added because a lot of companies start to put AI as part of their name...
+    countries.append(
+        " ai"
+    )  # NOTE: this is added because a lot of companies start to put AI as part of their name...
 
     # Go through each paper to extract the affiliations....
     archive_conf_dir = pathlib.Path(args.archive_conf_dir)
@@ -620,24 +640,37 @@ def main():
                 extra={"paper_id": paper_id, "error_step": "pdf_loading"},
             )
             continue
+
+        output_paper_info = {"paper_id": paper_id, "affiliations": None}
+        if ("author_area_id" in paper_info) and (str(paper_info["author_area_id"]).lower() != "show and tell"):
+            output_paper_info["author_area_id"] = paper_info["author_area_id"]
+            output_paper_info["author_area_label"] = paper_info["author_area_label"]
+
         try:
-            affiliations = extract_affiliations(paper_id, pdf_file, paper_info["authors"], countries)
-            list_affiliations.append(
-                {"paper_id": paper_id, "affiliations": affiliations if affiliations else None}
+            affiliations = extract_affiliations(
+                paper_id, pdf_file, paper_info["authors"], countries
             )
+            if affiliations:
+                output_paper_info["affiliations"] = affiliations
         except Exception as ex:
             logger.error(
                 # f"{ex}:\n{traceback.format_exc()}",
                 f"{ex}:\n",
-                extra={"paper_id": paper_id, "error_step": "affiliations_extraction", "stacktrack": traceback.format_exc()},
+                extra={
+                    "paper_id": paper_id,
+                    "error_step": "affiliations_extraction",
+                    "stacktrack": traceback.format_exc(),
+                },
             )
 
-            list_affiliations.append(
-                {"paper_id": paper_id, "affiliations": None}
-            )
+        list_affiliations.append(output_paper_info)
 
     # ...and generate the dataframe
     df = pd.DataFrame(list_affiliations)
+    if "author_area_id" in df:
+        df["author_area_id"] = df["author_area_id"].astype("Int64")
+    else:
+        logger.error("No ISCA area ID for the current parsed conference")
     df.to_csv(args.output_dataframe_affiliations, sep="\t", index=False)
 
 
