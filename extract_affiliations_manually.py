@@ -386,6 +386,7 @@ def define_argument_parser() -> argparse.ArgumentParser:
 
     # Add arguments
     parser.add_argument("input_metadata_file", help="The input metadata file")
+    parser.add_argument("country_file", help="The country file")
     parser.add_argument("archive_conf_dir", help="The ISCA archive conference directory which contains the PDF")
     parser.add_argument(
         "output_dataframe_affiliations", help="The output dataframe containing the "
@@ -432,7 +433,7 @@ def clean(dirty: str) -> str:
 
 
 def extract_affiliations(
-    paper_id: str, pdf_file: pathlib.Path, authors: list[str]
+        paper_id: str, pdf_file: pathlib.Path, authors: list[str], countries: list[str]
 ) -> list[str]:
     """Extract the affiliations from a given PDF file
 
@@ -451,6 +452,8 @@ def extract_affiliations(
         The PDF file which contains the affiliations
     authors : list[str]
         The authors of the paper
+    countries: list[str]
+        The list of countries to be considered to avoid delete an affiliation by mistake
 
     Returns
     -------
@@ -467,6 +470,9 @@ def extract_affiliations(
     doc = pymupdf.open(pdf_file)
     first_page = doc.load_page(0).get_text()
     logger = logging.getLogger("extract_affiliations")
+
+    # Generate a regexp to test the countries
+    re_countries = re.compile(f'({"|".join(countries)})$')
 
     # Strip the content to focus on the header
     header = re.sub(r"\n[ \t]*[A]bstract[ \t]*\n.*", "", first_page, flags=re.S)
@@ -502,6 +508,14 @@ def extract_affiliations(
 
     for l_index, l in enumerate(cleaned_header):
 
+        l = l.strip()
+        if (index > -1) and (re.search(r'[^ 0-9]\d$', l) is not None):
+            l_tmp = re.sub(r'[0-9,]+$', '', l).strip()
+            if (re_countries.search(l_tmp) is None) and (l_index < len(cleaned_header) - 1):
+                logger.debug(f" - Found a potential incomplete author line")
+                index = l_index
+                continue
+
         # Prepare the line to checked if it contains an author
         maybe_first_author = re.sub(r"[*†‡]", "", l)
         maybe_first_author = re.sub(r'[0-9],([^0-9])', r', \g<1>', maybe_first_author)
@@ -521,13 +535,6 @@ def extract_affiliations(
         else:
             if index > -1:
                 break
-
-        # if (index == -1) and (maybe_first_author in cleaned_authors):
-        #     if index == -1:
-        #         index = l_index
-        # elif (index > -1) and (maybe_first_author not in cleaned_authors):
-        #     index = l_index
-        #     break
 
     # No author found...that is not expected!
     if index == -1:
@@ -570,6 +577,10 @@ def main():
     with open(args.input_metadata_file) as f_md:
         md = json.load(f_md)
 
+    country_df = pd.read_csv(args.country_file)
+    countries = [clean(n) for n in country_df["name"]]
+    countries.append(" ai") # NOTE: this is added because a lot of companies start to put AI as part of their name...
+
     # Go through each paper to extract the affiliations....
     archive_conf_dir = pathlib.Path(args.archive_conf_dir)
     list_affiliations = []
@@ -582,7 +593,7 @@ def main():
             )
             continue
         try:
-            affiliations = extract_affiliations(paper_id, pdf_file, paper_info["authors"])
+            affiliations = extract_affiliations(paper_id, pdf_file, paper_info["authors"], countries)
             list_affiliations.append(
                 {"paper_id": paper_id, "affiliations": affiliations if affiliations else None}
             )

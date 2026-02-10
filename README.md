@@ -29,6 +29,7 @@ do
   python extract_affiliations_manually.py \
       -v -l "interspeech_2013_2025_affiliations/log/$year.json"         \
       "/home/lemaguer/work/current_projects/isca_archive/code/isca-archive/published/metadata/interspeech_${year}.json" \
+      "./country_full.csv" \
       "/home/lemaguer/work/current_projects/isca_archive/code/isca-archive/published/archive/interspeech_${year}" \
       "interspeech_2013_2025_affiliations/dataframe/$year.tsv"
 done
@@ -40,12 +41,13 @@ Please adapt the paths to your needs
 
 ```sh
 ❯ python extract_affiliations_manually.py -h
-usage: extract_affiliations_manually.py [-h] [-l LOG_FILE] [-v] input_metadata_file archive_conf_dir output_dataframe_affiliations
+usage: extract_affiliations_manually.py [-h] [-l LOG_FILE] [-v] input_metadata_file country_file archive_conf_dir output_dataframe_affiliations
 
 Helper to extract the affiliations from the ISCA archive data using the metadata
 
 positional arguments:
   input_metadata_file   The input metadata file
+  country_file          The country file
   archive_conf_dir      The ISCA archive conference directory which contains the PDF
   output_dataframe_affiliations
                         The output dataframe containing the
@@ -56,3 +58,6 @@ options:
                         Logger file
   -v, --verbosity       increase output verbosity
 ```
+
+## References
+- country_full.csv is coming from https://wsform.com/knowledgebase/sample-csv-files/
