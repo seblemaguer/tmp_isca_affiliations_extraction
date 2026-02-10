@@ -17,7 +17,7 @@ weiner18_interspeech	['cognitive systems lab, university of bremen, germany', 'd
 xuanda18_interspeech	['department of linguistics, graduate school of chinese academy of social sciences, china', 'institute of linguistics, chinese academy of social sciences, china', 'school of foreign studies, anhui university, china']
 ajili18_interspeech	['lia-ceri, university of avignon, avignon, france', 'lig, univ.grenoble.alpes, grenoble, france']
 rasooli18_interspeech	['department of computer science, columbia university, new york, ny', 'artificial intelligence and research, microsoft corporation, usa']
-novakiii18_interspeech	
+novakiii18_interspeech	['university of illinois at chicago, united states of america']
 gold18_interspeech	['department of linguistics and modern languages, university of huddersfield, united kingdom']
 ylmaz18b_interspeech	['cls/clst, radboud university, nijmegen, netherlands', 'dept. of electrical and computer engineering, national university of singapore, singapore', 'university of maryland, college park, md, usa', 'star lab, sri international, menlo park, ca, usa']
 vanson18_interspeech	['nki-avl, amsterdam', 'aclc, university of amsterdam, the netherlands', 'idlab, university of ghent, belgium']
@@ -150,7 +150,7 @@ novoselov18_interspeech	['stc ltd., st. petersburg, russia', 'itmo university, s
 wu18_interspeech	['graduate school of informatics, nagoya university, japan', 'information technology center, nagoya university, japan', 'graduate school of information science, nagoya university, japan']
 fukuda18_interspeech	[',2,3ibm research ai', '†google']
 beck18_interspeech	['human language technology and pattern recognition, computer science department,', 'rwth aachen university', ' aachen, germany']
-liou18_interspeech	
+liou18_interspeech	['dept. of electrical and computer engineering, national chiao tung university, hsinchu, taiwan', 'dept. of communication engineering, national taipei university, new taipei city, taiwan']
 haider18_interspeech	['iphsi, university of edinburgh, uk 2adapt centre, trinity college dublin, ireland']
 pandey18c_interspeech	['department of computer science and engineering, the ohio state university, usa', ',2center for cognitive and brain sciences, the ohio state university, usa']
 gong18_interspeech	['music technology group, universitat pompeu fabra, barcelona, spain']
@@ -211,7 +211,7 @@ vythelingum18_interspeech	['voxygen, pleumeur-bodou, france', 'lium, le mans uni
 godard18_interspeech	['∗limsi, cnrs, universite paris-saclay, orsay, france', '⋆lig, uga, g-inp, cnrs, inria, grenoble, france', '⋄but, brno, czech republic', '†csee, university of essex, uk', '‡cristal, universite de lille, france', 'contact:', '(1) both first authors have contributed equally to this paper']
 nguyen18_interspeech	['liulishuo', 'www.liulishuo.com/en']
 m18c_interspeech	['indian institute of technology, kharagpur, india']
-knill18_interspeech	
+knill18_interspeech	['alta institute / engineering department', 'alta institute / computer lab', 'cambridge university, uk']
 lee18b_interspeech	['columbia university, usa']
 toman18_interspeech	['vocalid, inc.']
 kannan18_interspeech	['google brain, google, inc., usa']
@@ -265,7 +265,7 @@ tan18b_interspeech	['department of computer science and engineering, the ohio st
 ravanelli18_interspeech	['montreal institute for learning algorithms (mila)', 'universite de montreal, canada']
 li18e_interspeech	['center for language and speech processing,', 'human language technology center of excellence,', 'johns hopkins university, baltimore, md, usa']
 povey18_interspeech	['center for language and speech processing,', 'human language technology center of excellence,', 'johns hopkins university, baltimore, md, usa', 'university of chinese academy of sciences, beijing, china', 'key laboratory of speech acoustics and content understanding,', 'institute of acoustics, chinese academy of sciences, beijing, china']
-willi18_interspeech	
+willi18_interspeech	['arizona state university, tempe, az, usa', 'utah state university, logan, ut, usa']
 shi18c_interspeech	['fujitsu research and development center']
 hadian18_interspeech	['department of computer engineering, sharif university of technology, tehran, iran,', 'center for language and speech processing, johns hopkins university, baltimore, md, usa,', 'human language technology center of excellence, johns hopkins university, baltimore, usa.']
 ueno18_interspeech	['ntt media intelligence laboratories, ntt corporation, japan', 'graduate school of informatics, kyoto university, sakyo-ku, kyoto, japan']
@@ -292,7 +292,7 @@ sone18_interspeech	['graduate school of informatics and engineering,', 'the univ
 hebbar18_interspeech	['signal analysis and interpretation laboratory,', 'department of electrical engineering,', 'university of southern california, los angeles.']
 yousefi18_interspeech	['center for robust speech systems(crss)', 'the university of texas at dallas, richardson, texas, usa', 'university of melbourne']
 kothalkar18_interspeech	['center for robust speech systems, university of texas at dallas', 'callier center for communication disorders, university of texas at dallas']
-chandrashekar18_interspeech	
+chandrashekar18_interspeech	['cochlear implant laboratory – center for robust speech systems', 'the university of texas at dallas, richardson tx, usa']
 zheng18_interspeech	['national laboratory of pattern recognition, institute of automation, cas, china', 'school of artificial intelligence, university of chinese academy of science, china']
 gunendradasan18_interspeech	['school of electrical engineering and telecommunications, unsw, australia', 'atp research laboratory, data61, csiro, australia']
 li18h_interspeech	['national institute of information and communications technology, kyoto, japan', 'kyoto university, kyoto, japan']
@@ -301,7 +301,7 @@ zhao18c_interspeech	['college of computer and information engineering, tianjin n
 sharma18_interspeech	['iit mandi, india', 'idiap research institute, martigny, switzerland']
 zhang18g_interspeech	['department of computer science and engineering, the ohio state university, usa', 'center for cognitive and brain sciences, the ohio state university, usa', 'center of intelligent acoustics and immersive communications, northwestern polytechnical', 'university, china']
 li18i_interspeech	['microsoft ai and research']
-han18b_interspeech	
+han18b_interspeech	['capio inc., belmont, ca, usa']
 meenakshi18_interspeech	['electrical engineering, indian institute of science, bangalore- 560012, karnataka, india']
 ms18_interspeech	['indian institute of technology madras']
 sisman18b_interspeech	['national university of singapore, singapore']
@@ -325,7 +325,7 @@ chodroff18_interspeech	['northwestern university, department of linguistics, eva
 mallidi18_interspeech	['amazon, usa']
 hosseiniasl18_interspeech	['salesforce research']
 sailor18_interspeech	['speech research lab, dhirubhai ambani institute of information and communication (da-iict),', 'gandhinagar-382007']
-shah18_interspeech	
+shah18_interspeech	['speech research lab,', 'dhirubhai ambani institute of information and communication technology (da-iict),', 'gandhinagar, india-382007']
 yu18b_interspeech	['department of systems engineering and engineering management,', 'department of electric engineering', 'the chinese university of hong kong, hong kong sar, china']
 maurer18_interspeech	['institute for the performing arts and film, zurich university of the arts, switzerland', 'department of computational linguistics, university of zurich, switzerland', 'department of speech, hearing and phonetic sciences, university college london, united', 'kingdom']
 mori18_interspeech	['graduate school of information science, nara institute of science and technology, japan', 'riken, center for advanced intelligence project aip, japan']
@@ -360,7 +360,7 @@ chen18i_interspeech	['tencent ai lab, shenzhen, china', 'department of computer 
 ceolini18_interspeech	['institute of neuroinformatics, university of zurich and eth zurich', 'zurich, switzerland']
 jung18b_interspeech	['school of computer science, university of seoul, south korea']
 gorrostieta18_interspeech	['cogito corporation']
-sharon18_interspeech	
+sharon18_interspeech	['indian institute of technology madras, india']
 vikram18_interspeech	['indian institute of technology guwahati, guwahati, india', 'indian institute of technology dharwad, dharwad, india']
 qi18_interspeech	['national laboratory of pattern recognition, institute of automation, chinese academy of sciences, china', 'cas center for excellence in brain science and intelligence technology, chinese academy of sciences, china', 'school of artificial intelligence, university of chinese academy of sciences, china']
 zeyer18_interspeech	['human language technology and pattern recognition, computer science department,', 'rwth aachen university', ' aachen, germany,', 'apptek, usa, http://www.apptek.com/,', 'nnaisense, switzerland, https://nnaisense.com/']
@@ -376,24 +376,24 @@ hong18_interspeech	['graduate school of convergence science and technology,', 's
 nomosudro18_interspeech	['indian institute of technology guwahati, guwahati, india', 'indian institute of technology dharwad, dharwad, india']
 hughes18_interspeech	['department of language and linguistic science, university of york, uk', 'j p french associates, york, uk']
 liu18e_interspeech	['inner mongolia key laboratory of mongolian information processing technology,', 'inner mongolia university, hohhot, china']
-sailor18c_interspeech	
+sailor18c_interspeech	['speech research lab, dhirubhai ambani institute of information and communication technology', '(da-iict), gandhinagar-382007, gujarat, india']
 wang18g_interspeech	['department of computer science and engineering, the ohio state university, usa', 'center for cognitive and brain sciences, the ohio state university, usa', 'department of computer science, inner mongolia university, china']
 flemotomos18b_interspeech	['department of electrical engineering, university of southern california, los angeles, ca, usa']
 hayashi18_interspeech	['nagoya university', 'johns hopkins university']
 kodrasi18_interspeech	['idiap research institute, speech and audio processing group, martigny, switzerland']
-tapkir18_interspeech	
+tapkir18_interspeech	['speech research lab,', 'dhirubhai ambani institute of information and communication technology, gandhinagar, india']
 peng18_interspeech	['institute of information science, academia sinica, taipei, taiwan', 'graduate school of informatics, nagoya university, japan', 'research center for information technology innovation, academia sinica, taipei, taiwan']
 wang18h_interspeech	['department of computer science and engineering, the ohio state university, usa', 'center for cognitive and brain sciences, the ohio state university, usa']
 vikram18c_interspeech	['indian institute of technology guwahati, guwahati, india', 'indian institute of technology dharwad, dharwad, india', 'all india institute of speech and hearing, mysuru, india']
 yu18c_interspeech	['tencent ai lab, shenzhen, china', 'tencent ai lab, bellevue, wa, usa']
 kato18_interspeech	['university of eastern finland']
-kamble18_interspeech	
+kamble18_interspeech	['speech research lab, dhirubhai ambani institute of information and communication technology', '(da-iict), gandhinagar, gujarat, india']
 mulder18_interspeech	['center for language studies, radboud university, netherlands']
 penney18_interspeech	['centre for language sciences, department of linguistics, macquarie university, australia', 'arc centre of excellence in cognition and its disorders, macquarie university, australia']
 braunschweiler18_interspeech	['toshiba research europe limited, cambridge research laboratory, cambridge, uk']
 zhang18j_interspeech	['tokyo institute of technology']
 le18_interspeech	['idiap research institute, martigny, switzerland', 'ecole polytechnique federal de lausanne, switzerland']
-kamble18b_interspeech	
+kamble18b_interspeech	['speech research lab, dhirubhai ambani institute of information and communication technology', '(da-iict), gandhinagar, gujarat, india']
 bhattacharya18_interspeech	['mcgill university', 'computer research institute of montreal (crim)']
 ma18_interspeech	['department of electrical engineering', 'indian institute of technology, bombay']
 yang18b_interspeech	['school of electronic and information engineering, south china university of technology, china', 'institute for infocomm research, a∗star, singapore']
@@ -404,9 +404,9 @@ thakur18_interspeech	['iit mandi, india', 'idiap research institute, martigny, s
 liu18f_interspeech	['college of computer science, inner mongolia university,', 'inner mongolia key laboratory of mongolian information processing technology,', 'hohhot 010021, china']
 scharenborg18b_interspeech	['centre for language studies, radboud university, nijmegen, the netherlands', 'multimedia computing group, delft university of technology, delft, the netherlands', 'ece department & beckman institute, university of illinois, urbana-champaign, il, usa', 'center for language and speech processing, johns hopkins university, baltimore, md, usa']
 biswas18_interspeech	['department of electrical and electronic engineering, stellenbosch university, south africa', 'cls/clst, radboud university, nijmegen, netherlands', 'dept. of electrical and computer engineering, national university of singapore, singapore']
-shah18c_interspeech	
+shah18c_interspeech	['speech research lab, da-iict, gandhinagar-382007, india', 'electrical and computer engineering department, national university of singapore, singapore']
 warnita18_interspeech	['tokyo institute of technology, tokyo, japan']
-lee18d_interspeech	
+lee18d_interspeech	['college of electrical engineering and computer science, national taiwan university, taiwan']
 do18_interspeech	['toshiba cambridge research laboratory, cambridge, united kingdom']
 ram18_interspeech	['idiap research institute, martigny, switzerland', 'ecole polytechnique federale de lausanne (epfl), switzerland']
 fezza18_interspeech	['aix marseille univ, cnrs, lpl, aix-en-provence, france']
@@ -451,7 +451,7 @@ fu18c_interspeech	['research center for information technology innovation, acade
 rahman18_interspeech	['speech and audio research laboratory, queensland university of technology, australia1,2,4,5', 'speech technology and research laboratory, sri international, california, usa3']
 fernando18_interspeech	['school of electrical engineering and telecommunications, unsw sydney', 'data61, csiro, sydney, australia']
 correia18_interspeech	['carnegie mellon university, usa', 'inesc-id / instituto superior tecnico, university of lisbon, portugal']
-krikke18_interspeech	
+krikke18_interspeech	['heriot-watt university, edinburgh, united kingdom']
 shin18_interspeech	['department of computer science and engineering, seoul national university, seoul, korea']
 yenigalla18_interspeech	['samsung r&d institute india - bangalore']
 kim18d_interspeech	['the marcs institute, western sydney university, australia', 'gipsa-lab, grenoble-alpes university, france']
@@ -486,7 +486,7 @@ kazimirova18_interspeech
 sahu18_interspeech	['speech communication laboratory, university of maryland, college park, md, usa', 'amazon.com, usa']
 aralikatti18_interspeech	['samsung r&d institute bangalore, india']
 bae18_interspeech	['school of electrical engineering,', 'korea advanced institute of science and technology (kaist)']
-kirkedal18_interspeech	
+kirkedal18_interspeech	['interactions llc, usa']
 sell18_interspeech	['maciejewski, vimal manohar, najim dehak, daniel povey, shinji watanabe, sanjeev khudanpur', 'center for language and speech processing & human language technology center of excellence', 'johns hopkins university, usa']
 tenbosch18b_interspeech	['radboud university nijmegen, nl', 'max planck institute for psycholinguistics']
 wang18j_interspeech	"['shaanxi provincial key laboratory of speech and image information processing,', ""school of computer science, northwestern polytechnical university, xi'an, china"", 'xiaomi, beijing, china']"
@@ -527,7 +527,7 @@ guo18b_interspeech	"[""school of computer science, northwestern polytechnical un
 myer18_interspeech	['fluent.ai inc., montreal, canada']
 sun18c_interspeech	['graduate school of fundamental science and engineering, waseda university, japan', 'college of information science, beijing language and culture university, china']
 sainathan18_interspeech	['department of electrical communication engineering', 'department of electrical engineering', 'indian institute of science', 'bangalore - 560 012, india']
-vasquezcorrea18_interspeech	
+vasquezcorrea18_interspeech	['faculty of engineering, university of antioquia udea, calle 70 no. 52-21, medellin, colombia.', 'pattern recognition lab, friedrich-alexander-university erlangen-nuremberg, germany.', 'ludwig-maximilians-university, munich, germany']
 tong18_interspeech	['idiap research institute, martigny, switzerland', 'ecole polytechnique federale de lausanne (epfl), switzerland']
 wu18d_interspeech	['department of systems engineering and engineering management,', 'the chinese university of hong kong, china', 'tsinghua-cuhk joint research center for media sciences, technologies and systems,', 'graduate school at shenzhen, tsinghua university, shenzhen, china', 'tencent ai lab, tencent, shenzhen, china']
 li18n_interspeech	['tianjin key laboratory of cognitive computing and application, tianjin university, tianjin, china', 'japan advanced institute of science and technology, ishikawa, japan', 'nagaoka university of technology, nagaoka, japan', 'chubu university, kasugai, japan', 'intelligent spoken language technology (tianjin) co., ltd., tianjin, china', 'ai labs, didi chuxing, beijing, china']
@@ -600,7 +600,7 @@ girijaramesan18_interspeech	['electrical engineering, indian institute of scienc
 oraby18_interspeech	['natural language and dialog systems lab, university of california, santa cruz']
 masumura18_interspeech	['ntt media intelligence laboratories, ntt corporation, japan']
 teixeira18_interspeech	['inesc-id / instituto superior tecnico, university of lisbon, portugal']
-turan18_interspeech	
+turan18_interspeech	['multimedia, vision and graphics laboratory,', 'college of engineering, koc university, istanbul, turkey']
 medennikov18_interspeech	['stc-innovations ltd, st. petersburg, russia', 'itmo university, st. petersburg, russia', 'speech technology center ltd, st. petersburg, russia', 'lium, university of le mans, france']
 milde18_interspeech	['language technology, universitat hamburg']
 tavarone18_interspeech	['center for translational neurophysiology of speeech and communication']
@@ -629,7 +629,7 @@ merkx18_interspeech	['centre for language studies, radboud university, nijmegen,
 tom18_interspeech	['⋆ibm research, india', '† iit kharagpur, india', '‡ university of washington, seattle usa']
 yoshioka18_interspeech	['microsoft ai and research, one microsoft way, redmond, wa, usa']
 tamura18_interspeech	['gifu university, japan', 'nagoya university, japan']
-hullebus18_interspeech	
+hullebus18_interspeech	['department fur linguistik, universitat potsdam, germany', 'haskins laboratories, new haven, usa']
 todisco18_interspeech	['department of digital security, eurecom, france', 'data science research laboratories, nec corporation, japan', 'multispeech, inria, france', 'school of computing, university of eastern finland, finland', 'digital content and media sciences research division, national institute of informatics, japan', 'centre of speech technology research, university of edinburgh, u.k.']
 luo18c_interspeech	['department of electrical engineering, columbia university, new york, ny']
 lugosch18_interspeech	['fluent.ai inc., montreal, quebec, canada']
@@ -638,7 +638,7 @@ yeung18_interspeech	['dept. of electrical and computer engineering, university o
 kaya18_interspeech	"['department of computer engineering, namik kemal university, c orlu, tekirdag, turkey', 'st. petersburg institute for informatics and automation of russian academy of sciences, russia', 'institute of communications engineering, ulm university, ulm, germany', 'department of computer engineering, bogazici university, ˙istanbul, turkey', ""noah's ark lab, huawei technologies, shenzhen, china""]"
 bouserhal18_interspeech	['ecole de technologie superieure', 'departments of 1mechanical engineering and 2software and information technology engineering', 'notre-dame st w, montreal, quebec, canada', 'universidad santiago de cali', 'calle 5 no 62-00 pampalinda, cali, colombia', 'centre for interdisciplinary research in music media and technology', 'rue sherbrooke o, montreal, quebec, canada']
 dey18b_interspeech	['idiap research institute, martigny, switzerland', 'ecole polytechnique federale de lausanne, lausanne, switzerland']
-miasatofilho18_interspeech	
+miasatofilho18_interspeech	['cpqd, campinas, sao paulo, brazil', 'federal university of technology, curitiba, parana, brazil']
 song18b_interspeech	['sensip center, school of ecee, arizona state university, tempe, az', 'department of speech and hearing science, arizona state university, tempe, az', 'lawrence livermore national labs', ' east avenue, livermore, ca']
 mosner18_interspeech	
 haider18b_interspeech	['iphsi, university of edinburgh, uk 2adapt centre, trinity college dublin, ireland']
@@ -663,7 +663,7 @@ vesely18_interspeech	['telefonica research, barcelona, spain']
 evanini18_interspeech	['ramanarayanan‡, aoife cahill†', 'educational testing service r&d', '†660 rosedale rd., princeton, nj, usa', '‡90 new montgomery street, suite 1500, san francisco, ca, usa']
 holzenberger18_interspeech	['clsp, johns hopkins university, usa', 'ens, ehess, psl research university, cnrs, inria, france', 'inserm, npi, upec, france']
 cabarrao18_interspeech	['inesc-id lisboa, laboratorio de sistemas de lingua falada, portugal', 'flul - faculdade de letras da universidade de lisboa; clul - centro de linguistica da', 'universidade de lisboa, portugal', 'instituto universitario de lisboa (iscte-iul), lisboa, portugal', 'instituto superior tecnico, universidade de lisboa, portugal']
-cabral18_interspeech	
+cabral18_interspeech	['the adapt research centre, trinity college dublin, ireland']
 williamson18_interspeech	['mit lincoln laboratory', 'usariem']
 dyrenko18_interspeech	['englisches seminar, westfalische wilhelms-universitat munster, germany', 'institut fur anglistik und amerikanistik, universitat hamburg, germany']
 trinh18_interspeech	['the graduate center, cuny, new york, usa', 'center for data science, new york university, usa', 'music and audio research laboratory, new york university, usa', 'brooklyn college, cuny, new york, usa']
@@ -672,7 +672,7 @@ maiti18_interspeech	['computer science program, the graduate center, city univer
 riad18_interspeech	['coml/ens/cnrs/ehess/inria/psl research university, paris, france', 'npi/ens/inserm/upec, creteil, france', 'facebook a.i. research, paris, france', 'department of linguistics & umiacs, university of maryland, college park md, usa', 'department of linguistics, massachusetts institute of technology, cambridge ma, usa']
 norel18_interspeech	['computational biology center, t.j. watson ibm research laboratory, new york, usa.', 'prize4life israel, ramat hasharon, israel.']
 moore18_interspeech	"[""arizona state university's center for cognitive ubiquitous computing""]"
-nidadavolu18_interspeech	
+nidadavolu18_interspeech	['center for language and speech processing, the johns hopkins university']
 yang18c_interspeech	['columbia university']
 lilley18_interspeech	['nemours biomedical research, wilmington, de, usa']
 podsiado18_interspeech	['google inc.', 'google switzerland']
@@ -746,12 +746,12 @@ li18q_interspeech	['school of computer science and technology, wuhan university 
 tang18c_interspeech	['data science research center, duke kunshan university, kunshan, china', 'school of data and computer science, sun yat-sen university, guangzhou, china']
 greenwood18_interspeech	['school of computing science', 'university of east anglia', 'united kingdom']
 lin18c_interspeech	['school of electrical engineering, computing and mathematical sciences, curtin university', 'kent street, bentley, western australia']
-katz18_interspeech	
+katz18_interspeech	[',2university of texas at dallas', 'vanderbilt university, tennessee']
 zhang18p_interspeech	['southwest university of political science & law, chongqing, china', 'chongqing institutes of higher education key forensic science laboratory, chongqing, china', 'city university of hong kong, hong kong s.a.r., china', 'the hong kong polytechnic university, hong kong s.a.r., china']
 koller18_interspeech	['saarland university', 'carnegie mellon university', 'universitat hamburg']
 dernoncourt18_interspeech	['adobe research, usa']
 arai18_interspeech	['department of information and communication sciences']
-mathew18_interspeech	
+mathew18_interspeech	['mar baselios college of engineering, thiruvananthapuram, kerala, india', 'tkm college of engineering, kollam, kerala, india']
 rayner18_interspeech	['university of geneva, fti/tim, switzerland 2university of south australia, adelaide, australia']
 pa18_interspeech	['national institute of technology karnataka (nitk), surathkal-575025, india', 'electrical engineering, indian institute of science (iisc), bangalore-560012, india']
 yarra18_interspeech	['electrical engineering, indian institute of science (iisc), bangalore-560012, india', 'national institute of technology karnataka (nitk), surathkal-575025, india']
@@ -763,16 +763,16 @@ sachdev18_interspeech	['uniphore software systems, chennai, india']
 naresh18_interspeech	['microsoft, hyderabad, india', 'bits, hyderabad, india']
 sachdev18b_interspeech	['uniphore software systems, chennai, india']
 maruthachalam18_interspeech	['department of computer science and engineering, indian institute of technology, madras', 'department of brain and cognitive sciences, massachusetts institute of technology, cambridge']
-kasthuri18_interspeech	
+kasthuri18_interspeech	['enability foundation for rehabilitation, chennai', 'iit madras, chennai 600036']
 sabu18_interspeech	['department of electrical engineering, indian institute of technology bombay, mumbai, india']
 pal18_interspeech	['centre for development of advanced computing, kolkata, india']
 oktem18_interspeech	['universitat pompeu fabra, spain', 'universitat politecnica de catalunya, spain']
 mathivanan18_interspeech	['samsung r&d institute, india - bangalore']
 viswanathan18_interspeech	['samsung r&d institute, india - bangalore']
 ramanarayanan18_interspeech	['evanini‡ and david suendermann-oeft†', 'educational testing service r&d', '†90 new montgomery street, suite #1500, san francisco, ca, usa', '‡660 rosedale rd., princeton, nj, usa']
-freitas18_interspeech	
+freitas18_interspeech	['definedcrowd corporation']
 cohen18_interspeech	['chorus.ai']
-ayyavu18_interspeech	
+ayyavu18_interspeech	['mile lab, electrical engineering, indian institute of science, bangalore 560012, india']
 goel18_interspeech	['go-vivace inc., mclean, va, usa']
 narayanamurthy18_interspeech	['research center imarat, hyderabad', 'research center imarat, hyderabad', 'insa senior scientist, iiit-hyderabad']
 patel18b_interspeech	['cogknit semantics, bangalore, india']
