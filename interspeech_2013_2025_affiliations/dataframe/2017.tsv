@@ -52,12 +52,12 @@ maguer17_interspeech	['computational linguistics & phonetics, saarland universit
 alexander17_interspeech	['signal analysis & interpretation laboratory (sail)', 'university of southern california, los angeles, ca, usa']	7	Speech Synthesis and Spoken Language Generation
 mendelson17_interspeech	['kth royal institute of technology, sweden', 'cereproc ltd. and university of edinburgh, uk']	7	Speech Synthesis and Spoken Language Generation
 cao17_interspeech	['speech disorders & technology lab, department of bioengineering', 'callier center for communication disorders', 'university of texas at dallas, richardson, texas, united states', 'center for spoken language understanding, oregon health & science university', 'department of otolaryngology - head and neck surgery', 'university of texas southwestern medical center, dallas, texas, united states']		
-ma17b_interspeech	['graduate center, the city university of new york, ny, usa', 'google inc, new york, ny, usa']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-oualil17_interspeech	['spoken language systems (lsv)', 'collaborative research center on information density and linguistic encoding', 'saarland university, saarbrucken, germany']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-chen17b_interspeech	['university of cambridge engineering department', 'chinese university of hong kong']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-huang17b_interspeech	['ibm thomas j watson research center, yorktown heights, ny, usa']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-kurata17_interspeech	['ibm research - tokyo, japan', 'ibm t j. watson research center, usa']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-benes17_interspeech		9	Speech Recognition -Architecture, Search, and Linguistic Components
+ma17b_interspeech	['graduate center, the city university of new york, ny, usa', 'google inc, new york, ny, usa']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+oualil17_interspeech	['spoken language systems (lsv)', 'collaborative research center on information density and linguistic encoding', 'saarland university, saarbrucken, germany']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+chen17b_interspeech	['university of cambridge engineering department', 'chinese university of hong kong']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+huang17b_interspeech	['ibm thomas j watson research center, yorktown heights, ny, usa']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+kurata17_interspeech	['ibm research - tokyo, japan', 'ibm t j. watson research center, usa']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+benes17_interspeech		9	Speech Recognition: Architecture, Search, and Linguistic Components
 poorjam17_interspeech	['audio analysis lab, ad:mt, aalborg university, aalborg, dk', 'engineering and applied science, aston university, birmingham, uk', 'media lab, mit, cambridge, massachusetts, usa']		
 le17_interspeech	['university of michigan, ann arbor, mi 48109, usa', '†computer science and engineering, ‡university center for language and literacy']	3	Analysis of Paralinguistics in Speech and Language
 garcia17_interspeech	['faculty of engineering, universidad de antioquia udea, medellin, colombia', 'pattern recognition lab, friedrich-alexander-universitat erlangen-nurnberg, germany', 'institute for infocomm research i2r, a*star, singapore', 'center for language and speech processing, johns hopkins university, baltimore, usa']	3	Analysis of Paralinguistics in Speech and Language
@@ -102,16 +102,16 @@ ebbers17_interspeech	['paderborn university, germany', 'carnegie mellon universi
 zohrer17_interspeech	['intelligent systems group, signal processing and speech communication laboratory, graz', 'university of technology, austria']	5	Analysis of Speech and Audio Signals
 mcauliffe17_interspeech	['department of linguistics, mcgill university, canada', 'department of linguistics, university of maryland, usa', 'centre for research on brain, language, and music, mcgill university, canada']	5	Analysis of Speech and Audio Signals
 meenakshi17_interspeech	['electrical engineering, indian institute of science (iisc), bangalore, karnataka- 5600012, india']		
-williams17_interspeech	['google inc.']	9	Speech Recognition -Architecture, Search, and Linguistic Components
+williams17_interspeech	['google inc.']	9	Speech Recognition: Architecture, Search, and Linguistic Components
 zenkel17_interspeech	['carnegie mellon university; pittsburgh, pa; u.s.a.', 'karlsruhe institute of technology; karlsruhe, germany']		
-hadian17_interspeech	['department of computer engineering, sharif university of technology, iran', 'center for language and speech processing, johns hopkins university, usa', 'human language technology center of excellence, johns hopkins university, usa']	9	Speech Recognition -Architecture, Search, and Linguistic Components
+hadian17_interspeech	['department of computer engineering, sharif university of technology, iran', 'center for language and speech processing, johns hopkins university, usa', 'human language technology center of excellence, johns hopkins university, usa']	9	Speech Recognition: Architecture, Search, and Linguistic Components
 chorowski17_interspeech	['google brain, usa', 'nvidia, usa']	8	Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
-li17d_interspeech	"[""school of computer science, northwestern polytechnical university, xi'an, china"", 'tencent ai lab, seattle, usa']"	9	Speech Recognition -Architecture, Search, and Linguistic Components
-xiang17_interspeech	['key lab. of shanghai education commission for intelligent interaction and cognitive engineering', 'speechlab, department of computer science and engineering', 'brain science and technology research center', 'shanghai jiao tong university, shanghai, china']	9	Speech Recognition -Architecture, Search, and Linguistic Components
+li17d_interspeech	"[""school of computer science, northwestern polytechnical university, xi'an, china"", 'tencent ai lab, seattle, usa']"	9	Speech Recognition: Architecture, Search, and Linguistic Components
+xiang17_interspeech	['key lab. of shanghai education commission for intelligent interaction and cognitive engineering', 'speechlab, department of computer science and engineering', 'brain science and technology research center', 'shanghai jiao tong university, shanghai, china']	9	Speech Recognition: Architecture, Search, and Linguistic Components
 chandrashekaran17_interspeech	['department of electrical and computer engineering,', 'carnegie mellon university, usa']		
-toyama17_interspeech	['graduate school of engineering, the university of tokyo']	9	Speech Recognition -Architecture, Search, and Linguistic Components
+toyama17_interspeech	['graduate school of engineering, the university of tokyo']	9	Speech Recognition: Architecture, Search, and Linguistic Components
 pahuja17_interspeech	['ibm research - bangalore, india', 'ibm research - haifa, israel']		
-shen17_interspeech	['spoken language systems (lsv)', 'saarland university, saarbrucken, germany']	9	Speech Recognition -Architecture, Search, and Linguistic Components
+shen17_interspeech	['spoken language systems (lsv)', 'saarland university, saarbrucken, germany']	9	Speech Recognition: Architecture, Search, and Linguistic Components
 moro17_interspeech	['department of telecommunications and media informatics,', 'budapest university of technology and economics, budapest, hungary', 'spoken language systems group (lsv), saarland university, saarbrucken, germany']	8	Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
 wang17c_interspeech	['department of electrical and electronic engineering, southern university of science and', 'technology, shenzhen, china']	1	Speech Perception, Production and Acquisition
 wang17d_interspeech	['department of electrical and electronic engineering, southern university of science and', 'technology, shenzhen, china']	1	Speech Perception, Production and Acquisition
@@ -294,11 +294,11 @@ plug17_interspeech	['university of leeds, united kingdom', 'university of glasgo
 yang17_interspeech	['communication sciences and disorders, university of central arkansas, usa', 'communication sciences and disorders, ohio university, usa', 'chinese academy of social sciences, china']	2	Phonetics, Phonology, and Prosody
 ewald17_interspeech	['lund university, sweden', 'university of tartu, estonia']	2	Phonetics, Phonology, and Prosody
 qian17_interspeech			
-yue17_interspeech	['the university of tokyo,', 'tokyo international university,', 'kyoto university']	10	Speech Recognition -Technologies and Systems for New Applications
+yue17_interspeech	['the university of tokyo,', 'tokyo international university,', 'kyoto university']	10	Speech Recognition: Technologies and Systems for New Applications
 lee17b_interspeech	['educational testing service', 'rosedale road, princeton, nj, usa', 'clee001, syoon, xwang002,']		
-arora17_interspeech	['faculty of linguistics, philology and phonetics, university of oxford, uk', 'goethe university, frankfurt am main, germany']	10	Speech Recognition -Technologies and Systems for New Applications
-proenca17_interspeech	['instituto de telecomunicacões, coimbra, portugal', 'department of electrical and computer engineering, university of coimbra, portugal', 'polytechnic institute of leiria, leiria, portugal', 'microsoft & university of washington, seattle, wa, usa', 'microsoft ai and research, mountain view, ca, usa', 'microsoft, digital advisory services, lisbon, portugal']	10	Speech Recognition -Technologies and Systems for New Applications
-escuderomancebo17_interspeech	['department of computer science, university of valladolid, spain', 'department of spanish philology, universitat autonoma de barcelona, spain', 'department of modern languages, uned, spain']	10	Speech Recognition -Technologies and Systems for New Applications
+arora17_interspeech	['faculty of linguistics, philology and phonetics, university of oxford, uk', 'goethe university, frankfurt am main, germany']	10	Speech Recognition: Technologies and Systems for New Applications
+proenca17_interspeech	['instituto de telecomunicacões, coimbra, portugal', 'department of electrical and computer engineering, university of coimbra, portugal', 'polytechnic institute of leiria, leiria, portugal', 'microsoft & university of washington, seattle, wa, usa', 'microsoft ai and research, mountain view, ca, usa', 'microsoft, digital advisory services, lisbon, portugal']	10	Speech Recognition: Technologies and Systems for New Applications
+escuderomancebo17_interspeech	['department of computer science, university of valladolid, spain', 'department of spanish philology, universitat autonoma de barcelona, spain', 'department of modern languages, uned, spain']	10	Speech Recognition: Technologies and Systems for New Applications
 ward17_interspeech	['university of texas at el paso, usa', 'kyoto university, japan', 'sri international']	3	Analysis of Paralinguistics in Speech and Language
 levow17_interspeech	['university of washington,', 'seattle, wa usa']	3	Analysis of Paralinguistics in Speech and Language
 barriere17_interspeech	['ltci, telecom paristech, universite paris saclay, f-75013, paris, france']	3	Analysis of Paralinguistics in Speech and Language
@@ -428,10 +428,10 @@ jeon17_interspeech	['school of electrical engineering and computer science', 'gw
 wood17_interspeech	['necotis, department of electrical and computer engineering', 'universite de sherbrooke, quebec, canada']		
 rouhe17_interspeech	['aalto university school of electrical engineering, finland']		
 pelachaud17_interspeech	['director of research cnrs at isir,', 'university of pierre and marie curie', 'wednesday', ' august', ':30–9:30, aula magna', 'conversing with social agents that smile and laugh']		
-papadopoulos17_interspeech	['pourdamghani2, michael pust2, boliang zhang3, xiaoman pan3, di lu3, ying lin3,', 'glembek4, murali karthick b.askar4, martin karafiat4, lukas burget4,', 'heng ji3, jonathan may2, kevin knight2, shrikanth narayanan', 'signal analysis and interpretation lab, university of southern california, u.s.a.', 'information sciences institute, university of southern california, u.s.a.', 'computer science department, rensselaer polytechnic institute, u.s.a', 'statistical speech technology group, university of illinois urbana-champaign, u.s.a.']	10	Speech Recognition -Technologies and Systems for New Applications
+papadopoulos17_interspeech	['pourdamghani2, michael pust2, boliang zhang3, xiaoman pan3, di lu3, ying lin3,', 'glembek4, murali karthick b.askar4, martin karafiat4, lukas burget4,', 'heng ji3, jonathan may2, kevin knight2, shrikanth narayanan', 'signal analysis and interpretation lab, university of southern california, u.s.a.', 'information sciences institute, university of southern california, u.s.a.', 'computer science department, rensselaer polytechnic institute, u.s.a', 'statistical speech technology group, university of illinois urbana-champaign, u.s.a.']	10	Speech Recognition: Technologies and Systems for New Applications
 mihajlik17_interspeech	['budapest university of technology and economics, hungary', 'thinktech research center, hungary', 'university of hradec kralove, czech republic']	12	Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources and Evaluation
 watson17_interspeech	['university of auckland, new zealand', 'university of canterbury, new zealand', 'the university of waikato, new zealand']		
-feng17_interspeech	['department of electronic engineering, the chinese university of hong kong, hong kong']	10	Speech Recognition -Technologies and Systems for New Applications
+feng17_interspeech	['department of electronic engineering, the chinese university of hong kong, hong kong']	10	Speech Recognition: Technologies and Systems for New Applications
 das17_interspeech	['university of illinois, usa', 'brno university of technology, czech republic']	12	Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources and Evaluation
 gutkin17_interspeech	['google, london, united kingdom', 'google, new york city, ny, usa']	12	Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources and Evaluation
 hall17_interspeech	['university of british columbia, canada']	2	Phonetics, Phonology, and Prosody
@@ -524,10 +524,10 @@ bayer17_interspeech	['signals and interactive systems lab - university of trento
 akhtiamov17_interspeech	['ulm university, germany', 'itmo university, russia', 'spiiras, st. petersburg, russia']	11	Spoken Dialog Systems and Analysis of Conversation
 ramanarayanan17c_interspeech	['educational testing service r&d', '†90 new montgomery street, #1500, san francisco, ca', '‡660 rosedale rd., princeton, nj']	11	Spoken Dialog Systems and Analysis of Conversation
 kraljevski17_interspeech	['voice inter connect gmbh, dresden, germany']	11	Spoken Dialog Systems and Analysis of Conversation
-milde17_interspeech	['fraunhofer institute iais, sankt augustin, germany']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-zhang17h_interspeech	['center for language and speech processing', 'human language technology center of excellence', 'the johns hopkins university, baltimore, md 21218, usa']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-shinozaki17_interspeech	['tokyo institute of technology, japan', 'mitsubishi electric research laboratories, usa', 'the institute of statistical mathematics, japan', 'carnegie mellon university, usa']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-smit17_interspeech	['department of signal processing and acoustics, aalto university, finland']	9	Speech Recognition -Architecture, Search, and Linguistic Components
+milde17_interspeech	['fraunhofer institute iais, sankt augustin, germany']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+zhang17h_interspeech	['center for language and speech processing', 'human language technology center of excellence', 'the johns hopkins university, baltimore, md 21218, usa']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+shinozaki17_interspeech	['tokyo institute of technology, japan', 'mitsubishi electric research laboratories, usa', 'the institute of statistical mathematics, japan', 'carnegie mellon university, usa']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+smit17_interspeech	['department of signal processing and acoustics, aalto university, finland']	9	Speech Recognition: Architecture, Search, and Linguistic Components
 bruguier17_interspeech	['google inc, usa']	8	Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
 naaman17_interspeech	['department of computer science, bar-ilan university, ramat-gan, israel']		
 gelly17_interspeech	['limsi, cnrs, univ. paris-sud, universite paris-saclay', ' orsay, france']	4	Speaker and Language Identification
@@ -553,30 +553,30 @@ pfeifenberger17_interspeech	['signal processing and speech communication laborat
 wood17b_interspeech	['necotis, gegi, universite de sherbrooke, canada']	6	Speech Coding and Enhancement
 ji17b_interspeech	['computer and telecomm. eng. division', 'yonsei university, wonju, korea']		
 zhang17j_interspeech	['university of illinois, urbana-champaign, il, usa', 'microsoft research, redmond, wa, usa']		
-liu17d_interspeech		10	Speech Recognition -Technologies and Systems for New Applications
-ylmaz17c_interspeech	['cls/clst, radboud university, nijmegen, netherlands']	10	Speech Recognition -Technologies and Systems for New Applications
+liu17d_interspeech		10	Speech Recognition: Technologies and Systems for New Applications
+ylmaz17c_interspeech	['cls/clst, radboud university, nijmegen, netherlands']	10	Speech Recognition: Technologies and Systems for New Applications
 smith17_interspeech	['data61, csiro, hobart, australia', 'university of sydney, sydney, australia', 'acoustics research centre, university of salford, manchester, u.k.', 'health and biosecurity, csiro, sydney, australia', 'murdoch childrens research institute, melbourne, australia']		
-joy17b_interspeech	['indian institute of technology-madras, india']	10	Speech Recognition -Technologies and Systems for New Applications
-simantiraki17_interspeech	['language and speech laboratory, universidad del pais vasco, vitoria, spain', 'gnosis data analysis pc, heraklion, greece', 'le2i laboratory, university of burgundy, le creusot, france', 'technological educational institute of greece and forth, heraklion, greece']	10	Speech Recognition -Technologies and Systems for New Applications
-sadeghian17_interspeech	['department of analytics, harrisburg university of science and technology, pennsylvania, usa', 'institute for multigenerational studies, binghamton university, new york, usa', 'department of electrical and computer engineering, watson school, binghamton university,', 'new york, usa']	10	Speech Recognition -Technologies and Systems for New Applications
-biadsy17_interspeech	['google, inc., usa']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-deena17_interspeech	['speech and hearing research group, the university of sheffield, uk', 'natural language processing research group, the university of sheffield, uk']	9	Speech Recognition -Architecture, Search, and Linguistic Components
+joy17b_interspeech	['indian institute of technology-madras, india']	10	Speech Recognition: Technologies and Systems for New Applications
+simantiraki17_interspeech	['language and speech laboratory, universidad del pais vasco, vitoria, spain', 'gnosis data analysis pc, heraklion, greece', 'le2i laboratory, university of burgundy, le creusot, france', 'technological educational institute of greece and forth, heraklion, greece']	10	Speech Recognition: Technologies and Systems for New Applications
+sadeghian17_interspeech	['department of analytics, harrisburg university of science and technology, pennsylvania, usa', 'institute for multigenerational studies, binghamton university, new york, usa', 'department of electrical and computer engineering, watson school, binghamton university,', 'new york, usa']	10	Speech Recognition: Technologies and Systems for New Applications
+biadsy17_interspeech	['google, inc., usa']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+deena17_interspeech	['speech and hearing research group, the university of sheffield, uk', 'natural language processing research group, the university of sheffield, uk']	9	Speech Recognition: Architecture, Search, and Linguistic Components
 singh17_interspeech	['spoken language systems (lsv)', 'saarbrucken graduate school of computer science, saarland informatics campus', 'saarland university, saarbrucken, germany']		
-chelba17_interspeech	['google, inc., mountain view', 'google, inc., new york city']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-kumar17c_interspeech	['signal analysis and interpretation lab, university of southern california, los angeles, ca', 'gould school of law, university of southern california, los angeles, ca']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-zhu17_interspeech	['microsoft', ' 110th ave ne, bellevue, wa, united states']	9	Speech Recognition -Architecture, Search, and Linguistic Components
-dimitriadis17_interspeech	['ibm', 'yorktown heights, usa', 'prague, czech republic']	10	Speech Recognition -Technologies and Systems for New Applications
-seshadri17_interspeech	['department of signal processing and acoustics, aalto university, finland.', 'department of mathematics and statistics, university of helsinki, finland.']	10	Speech Recognition -Technologies and Systems for New Applications
-proenca17b_interspeech		10	Speech Recognition -Technologies and Systems for New Applications
-yoon17_interspeech	['educational testing service,', 'rosedale road, princeton, nj, usa', 'syoon, clee001, ichoi001,']	10	Speech Recognition -Technologies and Systems for New Applications
-li17k_interspeech	['school of electrical and computer engineering, georgia institute of technology, atlanta, usa', 'institute for infocomm research, singapore', 'department of telematics, kore university of enna, enna, italy']	10	Speech Recognition -Technologies and Systems for New Applications
-tsujimura17_interspeech	['department of computer science and engineering, toyohashi university of technology, japan', 'department of computer science, chubu university, japan']	10	Speech Recognition -Technologies and Systems for New Applications
-kim17g_interspeech	['speech disorders & technology lab, department of bioengineering', 'callier center for communication disorders, university of texas at dallas, united states', 'department of otolaryngology-head and neck surgery, university of texas southwestern medical', 'center, united states']	10	Speech Recognition -Technologies and Systems for New Applications
-knill17_interspeech	['alta institute / engineering department', 'cambridge university, uk']	10	Speech Recognition -Technologies and Systems for New Applications
-yi17_interspeech	['national laboratory of pattern recognition, institute of automation, chinese academy of', 'sciences, beijing, china', 'school of computer and control engineering, university of chinese academy of sciences, beijing,', 'china', 'cas center for excellence in brain science and intelligence technology, institute of automation,', 'chinese academy of sciences, beijing, china']	10	Speech Recognition -Technologies and Systems for New Applications
-pusateri17_interspeech	['apple inc., usa', 'charles university, czech republic']	10	Speech Recognition -Technologies and Systems for New Applications
+chelba17_interspeech	['google, inc., mountain view', 'google, inc., new york city']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+kumar17c_interspeech	['signal analysis and interpretation lab, university of southern california, los angeles, ca', 'gould school of law, university of southern california, los angeles, ca']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+zhu17_interspeech	['microsoft', ' 110th ave ne, bellevue, wa, united states']	9	Speech Recognition: Architecture, Search, and Linguistic Components
+dimitriadis17_interspeech	['ibm', 'yorktown heights, usa', 'prague, czech republic']	10	Speech Recognition: Technologies and Systems for New Applications
+seshadri17_interspeech	['department of signal processing and acoustics, aalto university, finland.', 'department of mathematics and statistics, university of helsinki, finland.']	10	Speech Recognition: Technologies and Systems for New Applications
+proenca17b_interspeech		10	Speech Recognition: Technologies and Systems for New Applications
+yoon17_interspeech	['educational testing service,', 'rosedale road, princeton, nj, usa', 'syoon, clee001, ichoi001,']	10	Speech Recognition: Technologies and Systems for New Applications
+li17k_interspeech	['school of electrical and computer engineering, georgia institute of technology, atlanta, usa', 'institute for infocomm research, singapore', 'department of telematics, kore university of enna, enna, italy']	10	Speech Recognition: Technologies and Systems for New Applications
+tsujimura17_interspeech	['department of computer science and engineering, toyohashi university of technology, japan', 'department of computer science, chubu university, japan']	10	Speech Recognition: Technologies and Systems for New Applications
+kim17g_interspeech	['speech disorders & technology lab, department of bioengineering', 'callier center for communication disorders, university of texas at dallas, united states', 'department of otolaryngology-head and neck surgery, university of texas southwestern medical', 'center, united states']	10	Speech Recognition: Technologies and Systems for New Applications
+knill17_interspeech	['alta institute / engineering department', 'cambridge university, uk']	10	Speech Recognition: Technologies and Systems for New Applications
+yi17_interspeech	['national laboratory of pattern recognition, institute of automation, chinese academy of', 'sciences, beijing, china', 'school of computer and control engineering, university of chinese academy of sciences, beijing,', 'china', 'cas center for excellence in brain science and intelligence technology, institute of automation,', 'chinese academy of sciences, beijing, china']	10	Speech Recognition: Technologies and Systems for New Applications
+pusateri17_interspeech	['apple inc., usa', 'charles university, czech republic']	10	Speech Recognition: Technologies and Systems for New Applications
 chen17k_interspeech	['beckman institute, university of illinois at urbana-champaign, usa', 'institute for infocomm research, a*star, singapore']		
-gale17_interspeech	['the university of adelaide, australia', 'microsoft, usa']	10	Speech Recognition -Technologies and Systems for New Applications
+gale17_interspeech	['the university of adelaide, australia', 'microsoft, usa']	10	Speech Recognition: Technologies and Systems for New Applications
 kaushik17_interspeech	['center for robust speech systems (crss), eric jonsson school of engineering,', 'the university of texas at dallas (utd), richardson, texas, u.s.a.']		
 mclaren17_interspeech	['speech technology and research (star) laboratory, sri international, menlo park, usa', 'instituto de investigacion en ciencias de la computacion (icc), conicet-uba, argentina.']	4	Speaker and Language Identification
 fernando17_interspeech	['school of electrical engineering and telecommunications, unsw australia', 'data61, csiro, sydney, australia']	4	Speaker and Language Identification
@@ -604,7 +604,7 @@ kumar17e_interspeech	['amazon inc, usa', 'university of illinois at urbana-champ
 tsunoo17_interspeech	['the university of edinburgh, united kingdom', 'sony corporation, japan']	12	Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources and Evaluation
 bouchekif17_interspeech		5	Analysis of Speech and Audio Signals
 bang17_interspeech	['chungbuk national university, south korea', 'electronics and telecommunications research institute, south korea']	12	Spoken Language Processing: Translation, Information Retrieval, Summarization, Resources and Evaluation
-svec17_interspeech	['ntis, university of west bohemia, czechia', 'department of cybernetics, university of west bohemia, czechia', 'center for language and speech processing, johns hopkins university, usa']	9	Speech Recognition -Architecture, Search, and Linguistic Components
+svec17_interspeech	['ntis, university of west bohemia, czechia', 'department of cybernetics, university of west bohemia, czechia', 'center for language and speech processing, johns hopkins university, usa']	9	Speech Recognition: Architecture, Search, and Linguistic Components
 gallardo17c_interspeech	['quality and usability lab, telekom innovation laboratories, tu berlin, germany', 'tno, the hague, netherlands']	6	Speech Coding and Enhancement
 botinhao17_interspeech	['the centre for speech technology research, university of edinburgh, uk', 'national institute of informatics, japan', 'sokendai university, japan']	6	Speech Coding and Enhancement
 yamamoto17_interspeech	['faculty of systems engineering, wakayama university, japan', 'ntt communication science laboratories, japan']	6	Speech Coding and Enhancement
@@ -756,12 +756,12 @@ chen17o_interspeech	['microsoft corporation', 'electrical and engineering depart
 yan17_interspeech	['national taiwan normal university, taiwan', 'delta research center, taiwan']	6	Speech Coding and Enhancement
 pascual17_interspeech	['universitat politecnica de catalunya, barcelona, spain', 'telefonica research, barcelona, spain']	6	Speech Coding and Enhancement
 maiti17_interspeech	['the graduate center, cuny, usa', 'brooklyn college, cuny, usa']	6	Speech Coding and Enhancement
-stafylakis17_interspeech	['computer vision laboratory', 'university of nottingham, uk']	10	Speech Recognition -Technologies and Systems for New Applications
-thangthai17_interspeech	['school of computing sciences, university of east anglia, norwich, uk']	10	Speech Recognition -Technologies and Systems for New Applications
-wand17_interspeech	['the swiss ai lab idsia, usi & supsi, manno-lugano, switzerland']	10	Speech Recognition -Technologies and Systems for New Applications
-abdelaziz17_interspeech	['international computer science institute, berkeley, usa']	10	Speech Recognition -Technologies and Systems for New Applications
-csapo17_interspeech	['department of telecommunications and media informatics,', 'budapest university of technology and economics, budapest, hungary', 'mta-elte lendulet lingual articulation research group, budapest, hungary', 'institute of informatics, university of szeged, hungary', 'mta-szte research group on artificial intelligence, szeged, hungary', 'department of phonetics, e¨otv¨os lorand university, budapest, hungary']	10	Speech Recognition -Technologies and Systems for New Applications
-kamper17_interspeech	['toyota technological institute at chicago']	10	Speech Recognition -Technologies and Systems for New Applications
+stafylakis17_interspeech	['computer vision laboratory', 'university of nottingham, uk']	10	Speech Recognition: Technologies and Systems for New Applications
+thangthai17_interspeech	['school of computing sciences, university of east anglia, norwich, uk']	10	Speech Recognition: Technologies and Systems for New Applications
+wand17_interspeech	['the swiss ai lab idsia, usi & supsi, manno-lugano, switzerland']	10	Speech Recognition: Technologies and Systems for New Applications
+abdelaziz17_interspeech	['international computer science institute, berkeley, usa']	10	Speech Recognition: Technologies and Systems for New Applications
+csapo17_interspeech	['department of telecommunications and media informatics,', 'budapest university of technology and economics, budapest, hungary', 'mta-elte lendulet lingual articulation research group, budapest, hungary', 'institute of informatics, university of szeged, hungary', 'mta-szte research group on artificial intelligence, szeged, hungary', 'department of phonetics, e¨otv¨os lorand university, budapest, hungary']	10	Speech Recognition: Technologies and Systems for New Applications
+kamper17_interspeech	['toyota technological institute at chicago']	10	Speech Recognition: Technologies and Systems for New Applications
 chien17d_interspeech		8	Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
 vesely17_interspeech			
 hou17b_interspeech	['national engineering laboratory for speech and language information processing', 'university of science and technology of china, hefei, anhui, p r. china']	8	Speech Recognition: Signal Processing, Acoustic Modeling, Robustness, Adaptation
