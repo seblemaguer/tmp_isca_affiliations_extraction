@@ -642,9 +642,6 @@ def main():
             continue
 
         output_paper_info = {"paper_id": paper_id, "affiliations": None}
-        if ("author_area_id" in paper_info) and (str(paper_info["author_area_id"]).lower() != "show and tell"):
-            output_paper_info["author_area_id"] = paper_info["author_area_id"]
-            output_paper_info["author_area_label"] = paper_info["author_area_label"]
 
         try:
             affiliations = extract_affiliations(
@@ -667,10 +664,6 @@ def main():
 
     # ...and generate the dataframe
     df = pd.DataFrame(list_affiliations)
-    if "author_area_id" in df:
-        df["author_area_id"] = df["author_area_id"].astype("Int64")
-    else:
-        logger.error("No ISCA area ID for the current parsed conference")
     df.to_csv(args.output_dataframe_affiliations, sep="\t", index=False)
 
 
