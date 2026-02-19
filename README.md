@@ -29,7 +29,7 @@ do
   python extract_affiliations_manually.py \
       -v -l "interspeech_2013_2025_affiliations/log/$year.json"         \
       "/home/lemaguer/work/current_projects/isca_archive/code/isca-archive/published/metadata/interspeech_${year}.json" \
-      "./country_full.csv" \
+      "./helpers/country_full.csv" \
       "/home/lemaguer/work/current_projects/isca_archive/code/isca-archive/published/archive/interspeech_${year}" \
       "interspeech_2013_2025_affiliations/dataframe/$year.tsv"
 done
